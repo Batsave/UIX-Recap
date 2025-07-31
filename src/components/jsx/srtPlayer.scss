@@ -137,8 +137,8 @@
 
   &::-webkit-slider-thumb {
     appearance: none;
-    height: 12px;
-    width: 12px;
+    height: 20px;
+    width: 20px;
     background: $theme-500;
     border-radius: 50%;
     margin-top: -2px;
@@ -148,8 +148,8 @@
   }
 
   &::-moz-range-thumb {
-    height: 12px;
-    width: 12px;
+    height: 20px;
+    width: 20px;
     background: $theme-500;
     border-radius: 50%;
     border: none;
