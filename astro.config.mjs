@@ -40,11 +40,11 @@ export default defineConfig({
         { label: "Architecture de l'information", link: "/information-architecture" },
 
 
-        {
+        /*{
           label: "Mods",
           translations: { en: "Mods" },
           autogenerate: { directory: "mods" },
-        },
+        },*/
       ],
     }),
   ],
