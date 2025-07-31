@@ -5,7 +5,7 @@ Bonjour et bienvenue !
 2
 00:00:01,760 --> 00:00:05,240
 Aujourd'hui, on plonge au cœur
-de la recherche utilisateur en mode.
+de la recherche utilisateur en UX.
 
 3
 00:00:05,800 --> 00:00:08,720
