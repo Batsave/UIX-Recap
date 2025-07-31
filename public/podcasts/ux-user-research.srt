@@ -1,0 +1,508 @@
+1
+00:00:00,040 --> 00:00:01,760
+Bonjour et bienvenue !
+
+2
+00:00:01,760 --> 00:00:05,240
+Aujourd'hui, on plonge au cœur
+de la recherche utilisateur en mode.
+
+3
+00:00:05,800 --> 00:00:08,720
+On va s'appuyer sur des documents
+qui posent vraiment les bases du sujet.
+
+4
+00:00:08,720 --> 00:00:13,040
+L'objectif, c'est simple comprendre
+ce qu'est la recherche utilisateur,
+
+5
+00:00:13,040 --> 00:00:16,040
+pourquoi c'est si important
+et quelles sont les méthodes clés.
+
+6
+00:00:16,240 --> 00:00:19,240
+En gros, comment on passe de
+Je pense que A On sait que.
+
+7
+00:00:19,720 --> 00:00:22,120
+Alors on décortique ça ensemble.
+
+8
+00:00:22,120 --> 00:00:24,600
+Pour commencer, la recherche utilisateur,
+c'est quoi exactement ?
+
+9
+00:00:24,600 --> 00:00:28,240
+Si on résume, c'est toutes les techniques
+pour comprendre les comportements,
+
+10
+00:00:28,240 --> 00:00:29,760
+les attentes, les motivations,
+
+11
+00:00:29,760 --> 00:00:32,760
+mais aussi les frustrations
+des utilisateurs, n'est ce pas ?
+
+12
+00:00:32,800 --> 00:00:35,640
+Et les sources insistent bien,
+il faut le faire dès le début.
+
+13
+00:00:35,640 --> 00:00:36,600
+Ah oui, tout à fait.
+
+14
+00:00:36,600 --> 00:00:39,600
+C'est crucial et pour plusieurs raisons.
+
+15
+00:00:39,680 --> 00:00:41,280
+L'idée principale, c'est vraiment de voir
+
+16
+00:00:41,280 --> 00:00:44,960
+comment les gens utilisent les choses
+en vrai, pas dans un labo déconnecté.
+
+17
+00:00:45,240 --> 00:00:48,880
+On veut des données qualitatives
+pour comprendre le pourquoi
+
+18
+00:00:48,880 --> 00:00:50,080
+et quantitatives pour le
+
+19
+00:00:50,080 --> 00:00:53,960
+combien et surtout ça valide ou invalide
+nos propres idées de départ.
+
+20
+00:00:54,320 --> 00:00:55,880
+Ce qui est intéressant, c'est
+que ça va plus loin
+
+21
+00:00:55,880 --> 00:00:57,720
+que juste faire un produit qui marche.
+
+22
+00:00:57,720 --> 00:00:59,440
+Ça aide aussi
+à ce que tout le monde dans l'équipe
+
+23
+00:00:59,440 --> 00:01:02,160
+soit d'accord
+sur qui sont les utilisateurs.
+
+24
+00:01:02,160 --> 00:01:05,160
+Et au final,
+ça te fait gagner du temps, de l'argent.
+
+25
+00:01:05,280 --> 00:01:07,400
+On évite les grosses erreurs
+de conception.
+
+26
+00:01:07,400 --> 00:01:09,040
+On passe vraiment de la supposition.
+
+27
+00:01:09,040 --> 00:01:09,880
+Au fait, je.
+
+28
+00:01:09,880 --> 00:01:13,080
+Vois, oui, c'est un peu une assurance
+qualité en amont quoi.
+
+29
+00:01:13,360 --> 00:01:15,120
+Mais concrètement, comment on s'y prend ?
+
+30
+00:01:15,120 --> 00:01:16,480
+C'est quoi les grandes approches ?
+
+31
+00:01:16,480 --> 00:01:19,680
+Il y a des méthodes où on ne parle pas
+directement aux utilisateurs, c'est ça ?
+
+32
+00:01:19,680 --> 00:01:22,040
+Exactement. On peut commencer sans eux.
+
+33
+00:01:22,040 --> 00:01:24,680
+D'une certaine manière,
+il y a l'étude documentaire.
+
+34
+00:01:24,680 --> 00:01:28,160
+On va fouiller ce qui existe déjà,
+des publications scientifiques,
+
+35
+00:01:28,160 --> 00:01:31,880
+des articles via Google
+Scholar par exemple, ou thèse fr.
+
+36
+00:01:32,440 --> 00:01:34,680
+Ensuite, l'analyse de la concurrence.
+
+37
+00:01:34,680 --> 00:01:37,680
+Là, on regarde ce que font les autres,
+leurs interfaces, leurs offres
+
+38
+00:01:37,960 --> 00:01:41,160
+pour identifier des opportunités
+ou des écueils à éviter.
+
+39
+00:01:41,760 --> 00:01:44,040
+Et puis il y a l'audit ergonomique.
+
+40
+00:01:44,040 --> 00:01:48,080
+Ça, c'est un expert qui évalue
+une interface, mais sans utilisateur,
+
+41
+00:01:48,080 --> 00:01:50,040
+en se basant sur des règles connues
+
+42
+00:01:50,040 --> 00:01:52,960
+comme les Heuristiques de Nielsen
+ou de Bastien Scapin.
+
+43
+00:01:52,960 --> 00:01:54,800
+C'est un peu un contrôle technique
+si on veut.
+
+44
+00:01:54,800 --> 00:01:55,560
+Hmmmmmm.
+
+45
+00:01:55,560 --> 00:01:59,280
+Intéressant ce contrôle technique,
+mais j'imagine que le cœur du réacteur,
+
+46
+00:01:59,280 --> 00:02:01,440
+c'est quand même
+qu'on va voir les utilisateurs, non ?
+
+47
+00:02:01,440 --> 00:02:03,720
+Ah ben oui, là on touche au vif du sujet.
+
+48
+00:02:03,720 --> 00:02:05,920
+C'est là
+qu'on a les études avec utilisateur.
+
+49
+00:02:05,920 --> 00:02:10,080
+D'un côté le qualitatif,
+ça c'est les entretiens individuels,
+
+50
+00:02:10,320 --> 00:02:13,800
+les focus groups ou l'observation
+directe sur le terrain.
+
+51
+00:02:14,120 --> 00:02:18,040
+Le but, c'est de capter l'émotion,
+la logique des gens, le fameux
+
+52
+00:02:18,080 --> 00:02:19,920
+pourquoi derrière leurs actions.
+
+53
+00:02:19,920 --> 00:02:22,080
+Et de l'autre côté, on a le quantitatif.
+
+54
+00:02:22,080 --> 00:02:24,000
+Alors là,
+c'est plutôt les enquêtes en ligne
+
+55
+00:02:24,000 --> 00:02:27,240
+avec des outils comme Google Forms
+difforme, ce genre de choses
+
+56
+00:02:27,720 --> 00:02:29,360
+où l'analyse des données de navigation,
+
+57
+00:02:29,360 --> 00:02:32,360
+les analytics, les hit maps
+qui montrent où les gens cliquent.
+
+58
+00:02:32,400 --> 00:02:35,480
+On suit aussi des métriques
+comme le taux de rebond ou le NPS.
+
+59
+00:02:35,480 --> 00:02:38,800
+Le net promoteur scores pour savoir
+si les gens recommanderaient le produit.
+
+60
+00:02:39,240 --> 00:02:42,760
+Le quanti ça sert souvent à confirmer
+ou infirmer à plus grande échelle
+
+61
+00:02:42,760 --> 00:02:44,360
+ce qu'on a senti avec le quali.
+
+62
+00:02:44,360 --> 00:02:46,120
+Les deux sont vraiment complémentaires.
+
+63
+00:02:46,120 --> 00:02:49,760
+D'accord, donc quali pour le
+pourquoi, quanti pour le
+
+64
+00:02:49,760 --> 00:02:51,720
+combien et les deux se répondent.
+
+65
+00:02:51,720 --> 00:02:56,760
+Mais question bête peut être comment on
+est sûr de parler aux bonnes personnes ?
+
+66
+00:02:57,840 --> 00:02:59,320
+Parce que si on interroge n'importe.
+
+67
+00:02:59,320 --> 00:03:02,480
+Qui, non, c'est pas une question
+blette du tout, c'est même essentiel.
+
+68
+00:03:02,680 --> 00:03:04,280
+C'est le ciblage. C'est comment ?
+
+69
+00:03:04,280 --> 00:03:08,160
+Souvent par un brainstorming
+qui pourrait utiliser notre produit.
+
+70
+00:03:08,880 --> 00:03:11,560
+Ensuite, on affine avec les personas.
+
+71
+00:03:11,560 --> 00:03:15,480
+Ce sont des sortes de portrait robot mais
+très détaillé de nos utilisateurs type
+
+72
+00:03:15,800 --> 00:03:19,880
+et ils sont pas inventés et sont basés
+sur des vrais critères démographiques.
+
+73
+00:03:19,880 --> 00:03:23,160
+Oui, mais aussi leurs habitudes,
+leurs motivations profondes,
+
+74
+00:03:23,360 --> 00:03:26,640
+leur environnement de travail ou perso,
+leur niveau technique,
+
+75
+00:03:27,120 --> 00:03:28,960
+ça aide toute l'équipe à garder le cap.
+
+76
+00:03:28,960 --> 00:03:31,840
+Ok, les personnes pour savoir à qui
+on s'adresse
+
+77
+00:03:31,840 --> 00:03:35,480
+et une fois qu'on a toutes ces données
+quali quanti bien ciblées,
+
+78
+00:03:35,760 --> 00:03:38,520
+comment on fait pour pas se noyer ?
+
+79
+00:03:38,520 --> 00:03:43,080
+Comment on transforme cette masse
+d'infos en quelque chose de actionnable.
+
+80
+00:03:43,480 --> 00:03:45,080
+À la synthèse ?
+
+81
+00:03:45,080 --> 00:03:46,800
+C'est l'étape clé en effet.
+
+82
+00:03:46,800 --> 00:03:51,240
+Il faut organiser tout ça, analyser
+pour faire ressortir le jus.
+
+83
+00:03:51,240 --> 00:03:54,200
+L'essentiel,
+On utilise des outils pour ça.
+
+84
+00:03:54,200 --> 00:03:56,400
+La carte d'empathie par exemple,
+ça aide vraiment
+
+85
+00:03:56,400 --> 00:03:58,360
+à se mettre dans la peau de l'utilisateur.
+
+86
+00:03:58,360 --> 00:03:59,200
+Qu'est ce qu'il voit ?
+
+87
+00:03:59,200 --> 00:04:02,480
+On en pense, ressent ou le customer map
+
+88
+00:04:02,640 --> 00:04:05,640
+qui visualise tout son parcours
+avec le produit, les hauts et les bas.
+
+89
+00:04:06,360 --> 00:04:09,880
+L'objectif final, si on prend
+un peu de recul, c'est de distiller
+
+90
+00:04:09,880 --> 00:04:13,760
+tout ça pour identifier le vrai
+problème utilisateur qu'on doit résoudre.
+
+91
+00:04:13,800 --> 00:04:16,840
+Les sources mentionnent même rapidement
+l'aide
+
+92
+00:04:16,840 --> 00:04:21,480
+possible de l'IA type tchat SGBD
+pour trier de gros volumes de retours.
+
+93
+00:04:21,680 --> 00:04:25,080
+Mais attention, elle insiste,
+il faut toujours une validation humaine
+
+94
+00:04:25,080 --> 00:04:27,360
+derrière. C'est un outil,
+pas une baguette magique.
+
+95
+00:04:27,360 --> 00:04:31,040
+D'accord, donc si je résume
+notre discussion, la recherche
+
+96
+00:04:31,040 --> 00:04:34,040
+utilisateur, ce n'est vraiment pas
+une option, c'est le socle.
+
+97
+00:04:34,560 --> 00:04:37,200
+C'est ce qui permet de savoir pour qui
+on conçoit,
+
+98
+00:04:37,200 --> 00:04:41,040
+de créer des choses utiles
+et de réduire les risques de se planter.
+
+99
+00:04:41,360 --> 00:04:42,800
+Finalement, c'est créer des produits
+
+100
+00:04:42,800 --> 00:04:45,800
+que des gens vont utiliser
+et peut être même aimer.
+
+101
+00:04:45,840 --> 00:04:50,000
+C'est exactement ça et peut être vous
+finir sur une pensée un peu plus large.
+
+102
+00:04:50,880 --> 00:04:53,880
+La définition de départ mentionnait
+la compréhension des frustrations.
+
+103
+00:04:54,360 --> 00:04:57,080
+Alors oui,
+on cherche à résoudre les problèmes,
+
+104
+00:04:57,080 --> 00:05:00,280
+mais on pourrait se demander
+est ce que creuser ses frustrations,
+
+105
+00:05:00,280 --> 00:05:03,840
+même les petites, ça ne pourrait pas être
+aussi un moteur d'innovation ?
+
+106
+00:05:04,360 --> 00:05:06,560
+Peut être que c'est justement
+dans ces points de friction,
+
+107
+00:05:06,560 --> 00:05:10,480
+ces petites gêne, que se cachent les idées
+pour des fonctions géniales
+
+108
+00:05:10,720 --> 00:05:12,800
+ou même des produits
+complètement nouveaux.
+
+109
+00:05:12,800 --> 00:05:13,720
+Ça ouvre des perspectives.
