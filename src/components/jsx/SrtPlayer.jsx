@@ -258,6 +258,9 @@ export default function SrtPlayer({
                     audioRef.current.currentTime = line.start;
                     setCurrentTime(line.start);
                     setSeekValue((line.start / duration) * 100);
+
+                    // NEW: marquer ce scroll comme programmatique
+                    lastProgrammaticScroll.current = Date.now();
                   }}
                 >
                   {line.text}
@@ -298,6 +301,9 @@ export default function SrtPlayer({
             audioRef.current.currentTime = newTime;
             setCurrentTime(newTime);
             setIsSeeking(false);
+
+            // NEW: protéger l’auto-scroll
+            lastProgrammaticScroll.current = Date.now();
           }}
           className="srt-progress"
           style={{ "--progress": `${seekValue}%` }}
