@@ -1,0 +1,444 @@
+1
+00:00:00,099 --> 00:00:03,699
+Bienvenue à cette exploration de l'UX
+Writing. On va s'appuyer,
+
+2
+00:00:04,078 --> 00:00:07,579
+euh, sur des idées tirées de l'art et la
+science de l'UX Writing.
+
+3
+00:00:08,199 --> 00:00:10,959
+L'objectif : voir comment quelques mots
+bien choisis,
+
+4
+00:00:11,380 --> 00:00:14,319
+et ben ils peuvent vraiment changer une
+expérience digitale,
+
+5
+00:00:14,880 --> 00:00:19,260
+comprendre un peu cette discipline, son
+essence et son impact qu'on sous-estime
+
+6
+00:00:19,260 --> 00:00:23,939
+souvent. Oui, exactement. C'est plus que
+des mots sur un
+
+7
+00:00:23,959 --> 00:00:28,459
+écran, en fait. C'est vraiment penser le
+langage de l'interface pour qu'il soit
+
+8
+00:00:28,459 --> 00:00:31,759
+clair, bien sûr, mais aussi qu'il guide,
+qu'il rassure,
+
+9
+00:00:32,159 --> 00:00:36,579
+qu'il crée une vraie connexion, quoi. On
+parle souvent de fluidifier le parcours
+
+10
+00:00:36,619 --> 00:00:41,299
+utilisateur. Concrètement, quels sont les
+buts principaux de l'UX Writing?
+
+11
+00:00:41,299 --> 00:00:45,540
+Alors, il y en a plusieurs et ils sont
+liés. Le premier,
+
+12
+00:00:45,579 --> 00:00:49,259
+c'est de guider l'utilisateur, évidemment,
+pour que son chemin soit le plus simple
+
+13
+00:00:49,259 --> 00:00:54,079
+possible. Ensuite, réduire la friction,
+c'est-à-dire tous ces petits moments
+
+14
+00:00:54,079 --> 00:00:57,219
+d'hésitation, de blocage qui peuvent faire
+qu'on abandonne.
+
+15
+00:00:57,239 --> 00:01:02,139
+Ah oui, la frustration. Voilà. Et puis, il
+y a le fait de rassurer,
+
+16
+00:01:02,299 --> 00:01:06,359
+de créer la confiance. C'est fondamental,
+surtout aujourd'hui.
+
+17
+00:01:06,899 --> 00:01:10,579
+Sans oublier, bien sûr, de renforcer
+l'image de marque avec un ton,
+
+18
+00:01:10,699 --> 00:01:14,339
+une voix qui est cohérente partout. Et,
+euh, enfin,
+
+19
+00:01:14,459 --> 00:01:18,619
+d'inciter à l'action, mais de manière
+subtile, pour améliorer la conversion.
+
+20
+00:01:18,899 --> 00:01:22,899
+C'est intéressant cette idée de confiance
+qui se construit juste avec des petits
+
+21
+00:01:22,899 --> 00:01:25,659
+textes. Et tout ça, ça a un impact qu'on
+peut mesurer.
+
+22
+00:01:25,879 --> 00:01:30,139
+Un vrai retour sur investissement? Oh oui,
+absolument. C'est là que l'UX Writing,
+
+23
+00:01:30,259 --> 00:01:34,019
+ben il montre vraiment sa valeur. On pense
+souvent à l'amélioration des taux de
+
+24
+00:01:34,039 --> 00:01:36,959
+conversion, c'est le plus visible
+peut-être. Oui,
+
+25
+00:01:37,439 --> 00:01:40,719
+mais il y a aussi la réduction des erreurs
+des utilisateurs.
+
+26
+00:01:40,859 --> 00:01:43,359
+Et ça, ça veut dire moins de demandes au
+support client,
+
+27
+00:01:43,519 --> 00:01:47,979
+donc des économies. Une bonne écriture UX,
+ça aide aussi à fidéliser les gens,
+
+28
+00:01:48,059 --> 00:01:52,379
+à les engager sur le long terme. Et puis,
+un truc moins évident : quand l'interface
+
+29
+00:01:52,419 --> 00:01:56,479
+est claire dès le départ grâce au texte,
+ça peut simplifier le travail de design et
+
+30
+00:01:56,479 --> 00:01:59,739
+de développement. Donc gain de temps, gain
+d'argent. D'accord,
+
+31
+00:01:59,739 --> 00:02:04,119
+je vois. C'est donc bien plus que juste de
+l'habillage. Alors ces micro-textes,
+
+32
+00:02:04,119 --> 00:02:06,359
+finalement, on les rencontre tout le
+temps. Ah oui,
+
+33
+00:02:06,379 --> 00:02:09,859
+partout. Dès le début, quand on découvre
+une application,
+
+34
+00:02:10,239 --> 00:02:13,159
+l'onboarding comme on dit, c'est crucial
+pour bien démarrer,
+
+35
+00:02:13,459 --> 00:02:16,539
+sur tous les boutons d'action, les fameux
+CTA, call to action,
+
+36
+00:02:16,839 --> 00:02:19,799
+continuer, ajouter au panier, s'inscrire.
+Oui, ça,
+
+37
+00:02:19,899 --> 00:02:23,619
+on voit bien. Dans les formulaires, c'est
+essentiel. Les titres des champs,
+
+38
+00:02:23,619 --> 00:02:26,259
+les petites aides, les messages d'erreur.
+Il faut qu'ils aident,
+
+39
+00:02:26,279 --> 00:02:29,859
+pas qu'ils accusent. Les messages système
+aussi, des confirmations,
+
+40
+00:02:29,859 --> 00:02:33,319
+les indicateurs de chargement. Ça joue sur
+le ressenti.
+
+41
+00:02:33,759 --> 00:02:38,279
+Et puis les menus, les titres de page, les
+notifications, même les pages vides ou les
+
+42
+00:02:38,299 --> 00:02:41,419
+pages d'erreur 404. C'est une opportunité
+de dialogue,
+
+43
+00:02:41,439 --> 00:02:45,379
+ça aussi. Ça concerne les sites web, les
+applis, les objets connectés,
+
+44
+00:02:45,499 --> 00:02:49,219
+même les assistants vocaux. C'est vraiment
+partout. Waouh,
+
+45
+00:02:49,439 --> 00:02:52,139
+c'est vrai que c'est omniprésent. Et pour
+que ça marche bien,
+
+46
+00:02:52,539 --> 00:02:55,219
+j'imagine qu'il y a des règles d'or, des
+clés pour bien faire?
+
+47
+00:02:55,399 --> 00:02:59,139
+Tout à fait. La base de tout, ça reste de
+connaître ses utilisateurs,
+
+48
+00:02:59,279 --> 00:03:03,019
+vraiment. Qui sont-ils? Dans quel contexte
+ils utilisent le produit,
+
+49
+00:03:03,219 --> 00:03:06,979
+leurs habitudes, leurs besoins. Ensuite,
+la cohérence.
+
+50
+00:03:07,199 --> 00:03:11,519
+Il faut une voix, un ton qui soit le même
+partout, qui représente la marque.
+
+51
+00:03:11,599 --> 00:03:16,599
+C'est capital. La clarté, bien sûr. On
+bannit le jargon technique autant que
+
+52
+00:03:16,639 --> 00:03:19,499
+possible. On va à l'essentiel, on
+structure l'info,
+
+53
+00:03:19,839 --> 00:03:23,479
+la lisibilité aussi. Des phrases plutôt
+courtes, des mots simples.
+
+54
+00:03:23,479 --> 00:03:26,639
+Il faut que ça se lise facilement. Et le
+ton doit être juste,
+
+55
+00:03:26,859 --> 00:03:30,599
+adapté à la marque, oui, mais aussi au
+contexte. Un message de succès,
+
+56
+00:03:30,599 --> 00:03:33,139
+ça sonne pas comme un message d'échec de
+paiement, par exemple.
+
+57
+00:03:33,779 --> 00:03:38,119
+Et toujours cette idée de guider avec
+empathie, d'essayer d'anticiper ce dont
+
+58
+00:03:38,119 --> 00:03:40,799
+l'utilisateur a besoin à ce moment précis.
+Très clair.
+
+59
+00:03:41,279 --> 00:03:44,739
+On entend souvent parler aussi de
+copywriting. C'est quoi la différence,
+
+60
+00:03:44,759 --> 00:03:49,019
+juste avec l'UX Writing? Ben, la grande
+différence, c'est l'objectif principal et
+
+61
+00:03:49,039 --> 00:03:52,919
+où ça se situe. L'UX Writing, ça se passe
+dans l'interface.
+
+62
+00:03:53,299 --> 00:03:57,619
+Le but, c'est l'utilité, la clarté, pour
+que l'utilisation du produit soit
+
+63
+00:03:57,619 --> 00:04:01,539
+facile. Le copywriting, lui, est plus
+tourné vers la persuasion,
+
+64
+00:04:01,899 --> 00:04:05,239
+souvent avant d'utiliser le produit ou à
+côté, les pubs,
+
+65
+00:04:05,239 --> 00:04:07,659
+les pages de vente, les emails marketing.
+Le but,
+
+66
+00:04:07,659 --> 00:04:12,159
+c'est de convaincre, de vendre. Donc, l'un
+aide à faire dans le produit,
+
+67
+00:04:12,519 --> 00:04:16,599
+l'autre motive à entrer ou à acheter. La
+frontière est parfois mince,
+
+68
+00:04:16,678 --> 00:04:19,418
+mais l'intention de base est différente.
+C'est une bonne distinction.
+
+69
+00:04:19,478 --> 00:04:23,119
+Et alors, qui s'occupe de ça dans une
+équipe? C'est un rôle spécifique?
+
+70
+00:04:23,139 --> 00:04:26,639
+Idéalement, oui. C'est le rôle de l'UX
+Writer. Cette personne,
+
+71
+00:04:26,779 --> 00:04:30,459
+c'est un peu la voix de l'utilisateur dans
+l'équipe et la voix du produit pour
+
+72
+00:04:30,479 --> 00:04:34,119
+l'utilisateur. Elle travaille main dans la
+main avec les designers UX,
+
+73
+00:04:34,159 --> 00:04:37,479
+évidemment, mais aussi avec les chefs de
+produits, product managers,
+
+74
+00:04:37,479 --> 00:04:40,999
+les développeurs et le marketing pour
+assurer la cohérence globale.
+
+75
+00:04:41,599 --> 00:04:45,739
+Son travail, ça inclut la recherche
+utilisateur, définir la voix de la marque,
+
+76
+00:04:45,999 --> 00:04:48,359
+faire des tests utilisateurs, des tests
+A/B, par exemple,
+
+77
+00:04:48,359 --> 00:04:51,779
+pour voir quels mots fonctionnent le mieux
+et analyser les données pour voir comment
+
+78
+00:04:51,799 --> 00:04:54,399
+les contenus performent. C'est vraiment un
+rôle clé.
+
+79
+00:04:54,399 --> 00:04:59,159
+Donc, pour résumer, l'UX Writing, ce n'est
+pas juste écrire des mots sur des boutons.
+
+80
+00:04:59,619 --> 00:05:03,419
+C'est vraiment un pilier de l'expérience
+utilisateur. Exactement.
+
+81
+00:05:03,919 --> 00:05:06,999
+Un message bien choisi, au bon endroit, au
+bon moment.
+
+82
+00:05:07,479 --> 00:05:10,899
+Ça peut transformer une expérience
+frustrante en quelque chose de fluide,
+
+83
+00:05:10,919 --> 00:05:15,459
+voire d'agréable. Une erreur qui devient
+compréhensible, un formulaire qui guide
+
+84
+00:05:15,459 --> 00:05:18,339
+bien, une hésitation qui est levée juste
+par un petit mot.
+
+85
+00:05:18,779 --> 00:05:23,339
+C'est ça, la force de l'UX Writing. Ce qui
+nous amène peut-être à une dernière
+
+86
+00:05:23,359 --> 00:05:26,399
+réflexion pour nos auditeurs. Maintenant
+qu'on a vu tout ça,
+
+87
+00:05:26,919 --> 00:05:31,479
+si on commençait à remarquer consciemment
+ces micro-textes dans les applis et les
+
+88
+00:05:31,479 --> 00:05:35,219
+sites qu'on utilise tous les jours?
+Comment ça pourrait changer notre regard
+
+89
+00:05:35,259 --> 00:05:38,546
+sur leur qualité, leur efficacité? Une
+piste à explorer.

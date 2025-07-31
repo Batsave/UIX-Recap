@@ -1,0 +1,509 @@
+1
+00:00:00,079 --> 00:00:03,439
+Bienvenue à cette exploration approfondie
+de la cartographie UX.
+
+2
+00:00:03,939 --> 00:00:06,819
+On se base aujourd'hui sur des extraits de
+cartographie UX,
+
+3
+00:00:06,819 --> 00:00:10,659
+comprendre et optimiser l'expérience
+utilisateur. Notre mission,
+
+4
+00:00:10,699 --> 00:00:14,940
+c'est d'aller au-delà des définitions
+hein. Pour saisir comment cette approche
+
+5
+00:00:15,199 --> 00:00:19,819
+visuelle, elle transforme vraiment notre
+compréhension de l'utilisateur et comment
+
+6
+00:00:19,840 --> 00:00:22,459
+elle guide la stratégie produit. C'est
+tout à fait ça.
+
+7
+00:00:22,659 --> 00:00:24,699
+L'enjeu, c'est vraiment, comme le disent
+les sources,
+
+8
+00:00:25,019 --> 00:00:29,979
+de passer d'une vision, disons, fragmentée
+ou peut-être juste intuitive- Mh.
+
+9
+00:00:29,979 --> 00:00:34,860
+Mh. À une compréhension beaucoup plus
+systémique et surtout partagée de
+
+10
+00:00:34,880 --> 00:00:39,020
+l'expérience vécue par l'utilisateur. En
+fait, il s'agit moins de juste faire des
+
+11
+00:00:39,040 --> 00:00:44,020
+cartes- D'accord. Que d'adopter une vraie
+démarche. Une démarche structurée pour,
+
+12
+00:00:44,079 --> 00:00:48,300
+euh, bah ancrer les décisions dans la
+réalité de ce que vit l'utilisateur.
+
+13
+00:00:48,399 --> 00:00:51,860
+C'est intéressant ce changement de
+perspective. C'est pas juste un livrable à
+
+14
+00:00:51,879 --> 00:00:54,919
+la fin, quoi. C'est une démarche en soi.
+Mais alors,
+
+15
+00:00:55,139 --> 00:01:00,119
+concrètement, pourquoi on investirait ce
+temps? Quels sont les bénéfices clés que
+
+16
+00:01:00,139 --> 00:01:04,498
+la source met vraiment en avant? Alors
+oui, il y a l'identification évidente des
+
+17
+00:01:04,519 --> 00:01:07,059
+points de friction. Ça, c'est clair. Mais
+la source,
+
+18
+00:01:07,059 --> 00:01:10,720
+elle, souligne surtout trois grands
+bénéfices. Premièrement,
+
+19
+00:01:10,939 --> 00:01:13,959
+euh, structurer le flow. Parfois, c'est un
+peu chaotique hein,
+
+20
+00:01:13,959 --> 00:01:15,819
+toutes les données de recherche qu'on a.
+Ah oui?
+
+21
+00:01:15,959 --> 00:01:18,879
+Pour en faire des insights vraiment
+actionnables. Deuxièmement,
+
+22
+00:01:18,879 --> 00:01:23,539
+et c'est crucial, créer un alignement, un
+vrai alignement au sein des équipes qui
+
+23
+00:01:23,539 --> 00:01:26,719
+sont souvent un peu en silo, non?
+Marketing, design,
+
+24
+00:01:26,739 --> 00:01:30,219
+technique. Tout à fait. En leur offrant
+une vision d'ensemble du parcours.
+
+25
+00:01:30,619 --> 00:01:35,120
+Et enfin, euh, ça fournit une base solide,
+partagée pour l'idéation,
+
+26
+00:01:35,220 --> 00:01:38,680
+la priorisation. Ça évite les débats sans
+fin basés juste sur des opinions
+
+27
+00:01:38,700 --> 00:01:41,139
+personnelles, quoi. Oui, cet alignement
+d'équipes, ça revient souvent,
+
+28
+00:01:41,139 --> 00:01:44,460
+j'ai l'impression. La source, elle,
+mentionne plusieurs types de cartes :
+
+29
+00:01:44,840 --> 00:01:48,379
+carte d'empathie, customer journey map,
+user journey map,
+
+30
+00:01:48,439 --> 00:01:52,659
+experience map, service blueprint. Ouh là,
+comment on s'y retrouve là-dedans?
+
+31
+00:01:53,079 --> 00:01:57,739
+Effectivement, la palette est assez large.
+Euh, la source fait une distinction rapide
+
+32
+00:01:57,759 --> 00:02:00,999
+hein. L'experience map, c'est une vue
+très, très large,
+
+33
+00:02:01,119 --> 00:02:04,819
+souvent indépendante d'un produit précis.
+Le service blueprint,
+
+34
+00:02:04,819 --> 00:02:08,059
+lui, il va inclure les processus internes,
+ce qui se passe en coulisses.
+
+35
+00:02:08,139 --> 00:02:12,259
+D'abord, le côté entreprise. Voilà. Mais
+la source suggère de maîtriser d'abord,
+
+36
+00:02:12,399 --> 00:02:15,619
+euh, ben la carte d'empathie et la
+customer journey map,
+
+37
+00:02:15,679 --> 00:02:19,639
+la CJM, parce qu'elles sont vraiment
+fondamentales pour ancrer la compréhension
+
+38
+00:02:19,759 --> 00:02:22,559
+directement dans ce que voit et vit
+l'utilisateur. Ok,
+
+39
+00:02:22,559 --> 00:02:25,819
+alors concentrons-nous sur ces deux-là.
+Commençons par la carte d'empathie.
+
+40
+00:02:25,979 --> 00:02:29,439
+Qu'est-ce que la source nous dit sur sa,
+sa puissance spécifique?
+
+41
+00:02:29,479 --> 00:02:34,339
+Sa grande force, c'est sa capacité à nous,
+euh, ben à nous forcer à sortir de
+
+42
+00:02:34,359 --> 00:02:39,199
+nos propres têtes, en fait, en documentant
+très explicitement ce que l'utilisateur
+
+43
+00:02:39,279 --> 00:02:42,899
+dit, ce qu'il pense, ce qu'il fait et ce
+qu'il ressent.
+
+44
+00:02:43,179 --> 00:02:48,119
+Les quatre dimensions, oui. Exactement. Ça
+met en lumière les décalages et parfois,
+
+45
+00:02:48,139 --> 00:02:52,279
+ils sont surprenants hein, entre ces
+dimensions. La source insiste beaucoup sur
+
+46
+00:02:52,299 --> 00:02:57,099
+son usage collaboratif. Réunir différentes
+expertises autour d'une carte d'empathie,
+
+47
+00:02:57,099 --> 00:03:01,659
+ça permet de, de challenger collectivement
+nos idées préconçues et de construire une
+
+48
+00:03:01,679 --> 00:03:05,679
+compréhension plus riche, plus nuancée des
+motivations, des frustrations réelles.
+
+49
+00:03:06,079 --> 00:03:09,719
+Ce n'est pas juste lister des faits, c'est
+vraiment explorer la subjectivité de
+
+50
+00:03:09,719 --> 00:03:12,939
+l'utilisateur. Je vois, je vois. Ça aide à
+combattre un peu les biais qu'on peut
+
+51
+00:03:12,939 --> 00:03:16,739
+avoir en interne. Et si on combine cette
+compréhension, euh,
+
+52
+00:03:17,159 --> 00:03:20,219
+interne à l'utilisateur avec le
+déroulement dans le temps,
+
+53
+00:03:20,559 --> 00:03:22,959
+là, on arrive à la customer journey map.
+C'est ça?
+
+54
+00:03:23,139 --> 00:03:27,299
+La CJM. C'est exactement ça. La CJM, elle,
+elle raconte l'histoire,
+
+55
+00:03:27,579 --> 00:03:30,159
+l'histoire de l'interaction de
+l'utilisateur avec le service,
+
+56
+00:03:30,159 --> 00:03:33,859
+mais sur la durée. La source la présente
+vraiment comme un outil narratif.
+
+57
+00:03:34,179 --> 00:03:36,399
+Elle va cartographier les étapes clés,
+bien sûr,
+
+58
+00:03:36,399 --> 00:03:39,119
+les actions de l'utilisateur, ses
+objectifs à chaque phase,
+
+59
+00:03:39,499 --> 00:03:42,039
+euh, les points de contact aussi, tous les
+moments d'interaction,
+
+60
+00:03:42,039 --> 00:03:45,579
+peu importe le canal. Mh. Mh. Mais
+surtout, et c'est souvent là le plus
+
+61
+00:03:45,579 --> 00:03:49,159
+puissant, sa courbe émotionnelle. Ah, la
+fameuse courbe émotionnelle.
+
+62
+00:03:49,339 --> 00:03:51,879
+C'est là qu'on voit les pain points, les
+points de douleur?
+
+63
+00:03:51,919 --> 00:03:55,919
+Oui, mais pas uniquement. La source
+souligne que la CJM révèle souvent des
+
+64
+00:03:55,939 --> 00:03:59,179
+points de friction qu'on n'attendait pas.
+Parfois, ils sont situés entre les points
+
+65
+00:03:59,199 --> 00:04:01,539
+de contact gérés par des équipes
+différentes, tu vois?
+
+66
+00:04:01,659 --> 00:04:04,979
+Ah oui, d'accord. Elle peut aussi mettre
+en évidence des moments où l'émotion est
+
+67
+00:04:04,999 --> 00:04:09,819
+juste neutre ou même positive, mais où il
+y avait une opportunité de créer un
+
+68
+00:04:09,999 --> 00:04:13,239
+pic positif, un moment mémorable, et on
+l'a manqué.
+
+69
+00:04:13,819 --> 00:04:17,678
+Pour la construire efficacement, la source
+insiste beaucoup sur le choix pertinent du
+
+70
+00:04:17,738 --> 00:04:20,999
+persona, bien sûr, et la définition claire
+du périmètre.
+
+71
+00:04:21,159 --> 00:04:24,019
+Où commence et où finit l'histoire qu'on
+veut raconter?
+
+72
+00:04:24,019 --> 00:04:29,019
+Construire une CJM qui soit vraiment
+pertinente, ça demande une certaine
+
+73
+00:04:29,059 --> 00:04:32,819
+rigueur, j'imagine. Quelles sont les, les
+bonnes pratiques que la source met en
+
+74
+00:04:32,839 --> 00:04:37,099
+avant pour éviter de créer une carte qui,
+ben qui reste juste un joli dessin au mur?
+
+75
+00:04:37,319 --> 00:04:40,259
+Alors oui, plusieurs points vraiment
+cruciaux sont mentionnés.
+
+76
+00:04:40,259 --> 00:04:44,199
+D'abord, et ça, c'est pas négociable,
+s'appuyer sur des données de recherche
+
+77
+00:04:44,359 --> 00:04:47,619
+réelles, des interviews, des observations,
+des analytics.
+
+78
+00:04:47,859 --> 00:04:50,299
+Une carte qui est basée sur des
+suppositions internes,
+
+79
+00:04:50,639 --> 00:04:53,699
+euh, ça peut être dangereusement trompeur.
+D'accord, la data d'abord.
+
+80
+00:04:53,839 --> 00:04:58,119
+Exactement. Ensuite, la co-création.
+Travailler en équipe
+
+81
+00:04:58,119 --> 00:05:01,399
+pluridisciplinaire, ce n'est pas une
+option, c'est une nécessité.
+
+82
+00:05:01,859 --> 00:05:05,959
+La source explique bien que c'est la
+confrontation des perspectives techniques,
+
+83
+00:05:05,999 --> 00:05:09,159
+business design qui fait émerger les
+insights les plus riches.
+
+84
+00:05:09,519 --> 00:05:11,999
+Et ça garantit aussi que tout le monde
+s'approprie la carte.
+
+85
+00:05:12,619 --> 00:05:15,439
+Enfin, euh, il faut soigner la
+visualisation, bien sûr,
+
+86
+00:05:15,439 --> 00:05:18,739
+pour qu'elle soit lisible, impactante et
+surtout, surtout,
+
+87
+00:05:18,879 --> 00:05:22,199
+intégrer la carte dans les rituels du
+projet. Elle doit vivre,
+
+88
+00:05:22,459 --> 00:05:25,719
+être mise à jour, servir de référence
+constante pour les décisions.
+
+89
+00:05:26,059 --> 00:05:29,659
+Ce n'est pas une déco murale, quoi. Donc,
+euh, rigueur des données,
+
+90
+00:05:29,819 --> 00:05:33,459
+collaboration active et puis l'intégration
+dans le processus.
+
+91
+00:05:33,699 --> 00:05:36,259
+C'est ça les clés pour que ça fonctionne
+vraiment? Absolument.
+
+92
+00:05:37,079 --> 00:05:40,559
+Pour résumer un peu l'esprit de la source,
+la cartographie d'UX,
+
+93
+00:05:40,679 --> 00:05:44,699
+ce n'est pas une fin en soi. C'est un
+moyen puissant de,
+
+94
+00:05:44,819 --> 00:05:49,299
+je cite un peu, connecter en continu les
+insights utilisateurs aux
+
+95
+00:05:49,319 --> 00:05:52,819
+décisions design et produits. Son vrai
+pouvoir, en fait,
+
+96
+00:05:52,819 --> 00:05:55,559
+il réside dans sa capacité à créer une
+vision partagée,
+
+97
+00:05:55,799 --> 00:05:59,959
+empathique, un langage commun qui dépasse
+un peu les silos de l'organisation.
+
+98
+00:05:59,959 --> 00:06:04,519
+C'est fascinant. Et pour terminer,
+peut-être une pensée à emporter.
+
+99
+00:06:05,379 --> 00:06:08,599
+Si l'objectif premier, c'est bien sûr
+d'optimiser le produit ou le service,
+
+100
+00:06:09,039 --> 00:06:13,019
+quel impact secondaire, peut-être moins
+visible, mais tout aussi important,
+
+101
+00:06:13,419 --> 00:06:17,759
+peut-être que l'exercice même de
+cartographier ensemble une expérience
+
+102
+00:06:18,239 --> 00:06:21,573
+peut avoir sur la culture et la dynamique
+interne d'une équipe projet?

@@ -1,0 +1,549 @@
+1
+00:00:00,079 --> 00:00:04,319
+On a tous eu cette expérience. Certains
+sites, certaines applis,
+
+2
+00:00:05,000 --> 00:00:07,199
+tout cool, c'est hyper fluide, on trouve
+tout de suite.
+
+3
+00:00:07,339 --> 00:00:11,719
+Mh. Mh. Et puis d'autres, on clique
+partout, on se perd,
+
+4
+00:00:11,719 --> 00:00:14,719
+c'est un vrai labyrinthe numérique. Ah
+oui, le cauchemar,
+
+5
+00:00:14,880 --> 00:00:19,379
+voilà. Et derrière cette différence, il y
+a souvent une discipline un peu invisible,
+
+6
+00:00:19,399 --> 00:00:23,600
+mais vraiment cruciale : l'architecture de
+l'information. Exactement.
+
+7
+00:00:23,719 --> 00:00:26,619
+Aujourd'hui, on va explorer un peu ça.
+Comment on organise,
+
+8
+00:00:26,619 --> 00:00:30,079
+comment on structure le contenu numérique
+pour que l'expérience soit claire,
+
+9
+00:00:30,139 --> 00:00:34,699
+logique, agréable? Oui. Et pour ça, on
+s'appuie sur des éléments
+
+10
+00:00:34,700 --> 00:00:38,259
+tirés d'un guide assez complet sur
+l'architecture de l'information :
+
+11
+00:00:38,799 --> 00:00:43,039
+Organisation du contenu numérique. On va
+essayer de voir ce qu'il y a d'essentiel
+
+12
+00:00:43,040 --> 00:00:46,040
+dedans. Tout à fait. L'idée, c'est de
+comprendre un peu les bases de cette
+
+13
+00:00:46,079 --> 00:00:49,639
+discipline et puis de regarder une méthode
+spécifique, l'OOX,
+
+14
+00:00:49,879 --> 00:00:52,639
+dont on entend de plus en plus parler.
+O-O-X? Oui,
+
+15
+00:00:52,680 --> 00:00:56,919
+Object Oriented UX. On va voir ça. Le but,
+c'est vraiment de structurer l'info
+
+16
+00:00:57,079 --> 00:01:02,079
+intelligemment pour éviter de noyer
+l'utilisateur. Cette fameuse surcharge
+
+17
+00:01:02,099 --> 00:01:05,078
+cognitive. Oui, quand le cerveau dit stop,
+quoi. C'est ça.
+
+18
+00:01:05,319 --> 00:01:08,279
+Quand c'est trop complexe ou juste mal
+fichu, on décroche.
+
+19
+00:01:08,479 --> 00:01:11,739
+Alors, pour commencer simple,
+l'architecture de l'information,
+
+20
+00:01:12,399 --> 00:01:15,939
+qu'est-ce que c'est, au juste? La source
+dit que c'est l'art d'organiser les
+
+21
+00:01:15,999 --> 00:01:19,899
+contenus. D'un site, d'une app, pour qu'on
+sache où on est,
+
+22
+00:01:20,039 --> 00:01:22,879
+où on peut aller, et surtout qu'on trouve
+ce qu'on cherche facilement.
+
+23
+00:01:23,079 --> 00:01:25,619
+C'est le plan de la maison numérique, en
+quelque sorte.
+
+24
+00:01:25,699 --> 00:01:28,619
+C'est une bonne image. C'est ce lien,
+souvent caché,
+
+25
+00:01:28,999 --> 00:01:32,079
+entre l'info et la navigation. Et c'est
+vraiment capital.
+
+26
+00:01:32,379 --> 00:01:35,559
+Au-delà de la clarté de la navigation qui
+semble évidente,
+
+27
+00:01:35,859 --> 00:01:38,719
+une bonne architecture, ça anticipe même
+les besoins.
+
+28
+00:01:38,719 --> 00:01:42,739
+Oui, et surtout, ce sur quoi la source
+insiste beaucoup,
+
+29
+00:01:42,759 --> 00:01:46,919
+c'est que c'est un travail stratégique. Ça
+doit impliquer tout le monde et très tôt.
+
+30
+00:01:46,939 --> 00:01:49,279
+Pas juste le designer dans son coin.
+Surtout pas.
+
+31
+00:01:49,579 --> 00:01:53,899
+L'UX, les devs, le contenu, le produit,
+tout le monde doit être aligné là-dessus.
+
+32
+00:01:54,179 --> 00:01:57,719
+Si on y pense après coup, c'est souvent
+trop tard ou alors ça coûte très cher à
+
+33
+00:01:57,719 --> 00:02:02,619
+corriger. Ça touche le design, le SEO,
+oui, mais surtout l'utilisabilité de base.
+
+34
+00:02:02,619 --> 00:02:07,059
+D'accord. Et donc, pour construire cette
+structure, efficacement,
+
+35
+00:02:07,759 --> 00:02:10,639
+nos sources parlent de cette fameuse
+méthode l'OOO.
+
+36
+00:02:10,899 --> 00:02:15,779
+Oui, l'OOO, UX orienté objet. Et l'idée,
+c'est de penser d'abord aux objets avant
+
+37
+00:02:15,819 --> 00:02:19,739
+même de penser aux écrans, c'est ça?
+Exactement. C'est là que ça devient
+
+38
+00:02:19,739 --> 00:02:22,619
+vraiment intéressant. Ça change la
+perspective habituelle.
+
+39
+00:02:22,879 --> 00:02:25,839
+Comment ça? Ça s'inspire de la
+programmation orientée objet.
+
+40
+00:02:26,439 --> 00:02:31,079
+L'OOO nous force à nous concentrer sur le
+quoi. Quels sont les éléments fondamentaux
+
+41
+00:02:31,099 --> 00:02:35,659
+de notre système? Avant de penser au où on
+va les mettre et comment on y accède.
+
+42
+00:02:35,879 --> 00:02:39,559
+Ok, donc le quoi d'abord, par exemple?
+Prenons une app de musique.
+
+43
+00:02:40,019 --> 00:02:43,979
+Les objets centraux, ce serait quoi?
+Probablement les chansons,
+
+44
+00:02:43,999 --> 00:02:47,839
+les artistes, les albums, les playlists,
+peut-être les utilisateurs.
+
+45
+00:02:47,899 --> 00:02:52,319
+D'accord. Les briques de base, en somme.
+Voilà. Et ensuite,
+
+46
+00:02:52,339 --> 00:02:57,119
+on se demande quels sont leurs attributs.
+Qu'est-ce qui définit une chanson?
+
+47
+00:02:57,719 --> 00:03:01,239
+Un titre, une durée, un artiste. Et
+comment ces objets sont liés.
+
+48
+00:03:01,599 --> 00:03:05,699
+Une playlist contient des chansons. Un
+artiste a créé des chansons et des albums.
+
+49
+00:03:06,299 --> 00:03:09,439
+Donc, au lieu de dessiner direct la page
+Ma Playlist,
+
+50
+00:03:09,759 --> 00:03:12,759
+on définit ce qu'est une playlist. De quoi
+elle est faite?
+
+51
+00:03:12,999 --> 00:03:15,339
+Ses liens avec le reste. Et ce qu'on peut
+faire avec.
+
+52
+00:03:15,339 --> 00:03:18,959
+C'est exactement ça. On clarifie la
+structure de l'info elle-même.
+
+53
+00:03:19,219 --> 00:03:21,619
+Et concrètement, la méthode propose des
+étapes logiques.
+
+54
+00:03:21,679 --> 00:03:25,659
+D'abord, un, identifier ces objets clés.
+Souvent, on utilise des post-it,
+
+55
+00:03:25,739 --> 00:03:28,919
+disons bleus, pour les objets. Ok. Post-it
+bleu pour les objets.
+
+56
+00:03:29,079 --> 00:03:32,139
+Étape deux. Définir les caractéristiques
+de chaque objet.
+
+57
+00:03:32,439 --> 00:03:35,699
+On distingue les métadonnées intrinsèques,
+genre le titre d'un cours,
+
+58
+00:03:36,239 --> 00:03:41,139
+des métadonnées qui servent à trier ou
+filtrer, comme la catégorie du cours ou
+
+59
+00:03:41,159 --> 00:03:44,439
+son niveau de difficulté. On pourrait
+utiliser, disons,
+
+60
+00:03:44,439 --> 00:03:47,639
+des post-it jaunes pour les
+caractéristiques et roses pour les
+
+61
+00:03:47,679 --> 00:03:52,399
+métadonnées de tri. Jaunes et roses. Et
+après? Les liens entre objets.
+
+62
+00:03:52,819 --> 00:03:57,119
+Étape trois. Cartographier les relations.
+Comment un objet se connecte à un autre.
+
+63
+00:03:57,519 --> 00:04:00,599
+Une information, par exemple, contient
+plusieurs cours.
+
+64
+00:04:00,979 --> 00:04:03,739
+On peut visualiser ça en imbriquant les
+post-it bleus.
+
+65
+00:04:03,899 --> 00:04:08,519
+Logique. Quatrième étape : Classer et
+hiérarchiser. Dans un objet donné,
+
+66
+00:04:08,699 --> 00:04:11,719
+quelle information est la plus importante
+pour l'utilisateur?
+
+67
+00:04:12,139 --> 00:04:15,519
+Qu'est-ce qu'on montre en premier? On
+réorganise nos post-it jaunes et roses.
+
+68
+00:04:15,579 --> 00:04:19,178
+D'accord. On priorise. Et enfin? Définir
+les interactions,
+
+69
+00:04:19,459 --> 00:04:23,079
+les fameuses call to actions. Qu'est-ce
+qu'on peut faire avec cet objet?
+
+70
+00:04:23,479 --> 00:04:26,899
+Ajouter au panier, modifier son profil,
+écouter la chanson.
+
+71
+00:04:27,379 --> 00:04:29,479
+Là, on peut utiliser des post-it verts,
+par exemple.
+
+72
+00:04:29,539 --> 00:04:33,899
+Bleu, jaune, rose, bleu imbriqué,
+repositionnement, vert.
+
+73
+00:04:34,439 --> 00:04:36,799
+Ça a l'air très visuel et structurant
+comme approche.
+
+74
+00:04:37,259 --> 00:04:39,239
+On voit bien comment ça pose des
+fondations solides.
+
+75
+00:04:39,239 --> 00:04:43,999
+Tout à fait. Ça aide énormément à
+clarifier les choses avant de designer la
+
+76
+00:04:44,079 --> 00:04:48,119
+moindre interface. Et cette méthode OUI,
+elle est puissante,
+
+77
+00:04:48,239 --> 00:04:51,459
+mais elle ne vit pas seule. Il y a
+d'autres outils?
+
+78
+00:04:51,639 --> 00:04:55,359
+Bien sûr. L'architecte de l'information a
+toute une boîte à outils.
+
+79
+00:04:55,639 --> 00:04:58,619
+On peut mentionner le tri par carte, par
+exemple. Oui,
+
+80
+00:04:58,879 --> 00:05:03,739
+le card sorting. Voilà, c'est super utile
+pour comprendre comment les utilisateurs
+
+81
+00:05:03,739 --> 00:05:07,679
+eux-mêmes regroupent l'information
+mentalement. On leur donne des cartes avec
+
+82
+00:05:07,699 --> 00:05:11,379
+des concepts et ils les organisent. Ça
+permet de valider ou d'ajuster la
+
+83
+00:05:11,419 --> 00:05:15,259
+structure qu'on avait imaginée?
+Exactement. Ou encore les site maps,
+
+84
+00:05:15,299 --> 00:05:19,039
+les plans de sites qui donnent une vue
+d'ensemble de l'organisation des pages.
+
+85
+00:05:19,519 --> 00:05:24,139
+L'OX se concentre sur la structure
+profonde des objets et de leurs relations.
+
+86
+00:05:24,759 --> 00:05:29,759
+Les autres outils aident à visualiser ou à
+tester l'organisation plus en surface.
+
+87
+00:05:29,759 --> 00:05:34,459
+Donc, si on essaie de résumer tout ça, une
+bonne architecture de l'information,
+
+88
+00:05:34,939 --> 00:05:39,339
+c'est un peu ce qui rend l'invisible
+visible, ou plutôt ce qui rend le bon
+
+89
+00:05:39,419 --> 00:05:42,759
+contenu accessible au bon moment sans
+qu'on ait à y penser.
+
+90
+00:05:43,359 --> 00:05:47,319
+C'est une bonne façon de le voir? Comme
+une bibliothèque super bien rangée.
+
+91
+00:05:47,939 --> 00:05:51,819
+On sait instinctivement où chercher le
+type de livre qu'on veut et on le trouve.
+
+92
+00:05:52,299 --> 00:05:56,019
+Et l'OX, ce serait une méthode pour bien
+penser ce rangement dès le début,
+
+93
+00:05:56,279 --> 00:05:59,679
+en partant de la nature même des livres à
+ranger, de leurs liens entre eux.
+
+94
+00:05:59,859 --> 00:06:03,719
+Précisément, et le message vraiment clé
+qui ressort des sources,
+
+95
+00:06:03,859 --> 00:06:08,319
+c'est que cette réflexion, ce rangement,
+ça ne doit pas être l'affaire d'une seule
+
+96
+00:06:08,399 --> 00:06:11,699
+personne ou d'une seule équipe. La
+collaboration est essentielle.
+
+97
+00:06:12,079 --> 00:06:16,259
+Oui, c'est fondamental. Il faut que ce
+soit pensé en amont du design et que ça
+
+98
+00:06:16,259 --> 00:06:20,059
+implique tout le monde, UX, produit,
+développement, contenu,
+
+99
+00:06:20,499 --> 00:06:22,739
+pour que tout le monde partage la même
+vision de la structure.
+
+100
+00:06:22,979 --> 00:06:26,739
+C'est la base commune, en fait. Voilà.
+C'est la fondation sur laquelle tout le
+
+101
+00:06:26,779 --> 00:06:30,439
+reste va être construit. Et peut-être,
+pour ouvrir un peu la réflexion,
+
+102
+00:06:30,939 --> 00:06:34,959
+si cette approche OUX qui décompose le
+numérique en objets clairs,
+
+103
+00:06:35,159 --> 00:06:39,219
+en relations logiques et si efficaces pour
+organiser l'information digitale.
+
+104
+00:06:39,919 --> 00:06:44,139
+Comment est-ce que cette façon de penser
+orientée objet pourrait nous éclairer
+
+105
+00:06:44,139 --> 00:06:47,079
+ailleurs? Comment pourrait-elle nous aider
+à mieux structurer,
+
+106
+00:06:47,339 --> 00:06:50,479
+à mieux comprendre des systèmes
+d'information complexes dans d'autres
+
+107
+00:06:50,479 --> 00:06:53,439
+domaines? Je ne sais pas moi, en biologie,
+en histoire,
+
+108
+00:06:53,619 --> 00:06:56,419
+ou même juste pour organiser nos propres
+connaissances au quotidien?
+
+109
+00:06:56,419 --> 00:07:01,319
+Intéressante question. Décomposer le
+complexe en objets
+
+110
+00:07:01,339 --> 00:07:04,971
+simples et connectés, ça laisse matière à
+penser, effectivement.

@@ -2,12 +2,15 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import { fileURLToPath } from "url";
-import { resolve } from "path";
+import rehypeCallouts from "rehype-callouts";
 import react from "@astrojs/react";
 
 export default defineConfig({
   content: {
     dir: "./content",
+  },
+  markdown: {
+    rehypePlugins: [rehypeCallouts],
   },
   integrations: [
     react(),
@@ -17,6 +20,9 @@ export default defineConfig({
       favicon: "/favicon.svg",
       logo: {
         src: "./public/favicon.svg",
+      },
+      markdown: {
+        rehypePlugins: [rehypeCallouts],
       },
 
       head: [
@@ -37,14 +43,12 @@ export default defineConfig({
         { label: "Recherche Utilisateur", link: "/ux-user-research" },
         { label: "Personae & Empathie", link: "/ux-personas-and-empathy" },
         { label: "UX Mapping", link: "/ux-mapping" },
-        { label: "Architecture de l'information", link: "/information-architecture" },
-
-
-        /*{
-          label: "Mods",
-          translations: { en: "Mods" },
-          autogenerate: { directory: "mods" },
-        },*/
+        {
+          label: "Architecture de l'information",
+          link: "/information-architecture",
+        },
+        { label: "UX Writing", link: "/ux-writing" },
+        { label: "Personnalisation & UX", link: "/ux-personalization" },
       ],
     }),
   ],

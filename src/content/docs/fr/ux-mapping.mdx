@@ -4,6 +4,17 @@ description: "UIX Recap est pensé comme un support clair et synthétique : un o
 weight: 5
 ---
 
+import SrtPlayer from "../../../components/jsx/SrtPlayer.jsx";
+
+
+<code> Ce Récap' est disponible en podcast audio. (Généré par IA avec NoteBook LM by Google)</code>
+
+<SrtPlayer
+  client:only="react"
+  audioSrc="/podcasts/ux-mapping.m4a"
+  srtUrl="/podcasts/ux-mapping.srt"
+/>
+
 ### 1. Qu’est-ce que l’UX Mapping ?
 
 L’UX Mapping (ou cartographie de l’expérience utilisateur) est une méthode qui permet de représenter visuellement l’expérience d’un utilisateur lorsqu’il interagit avec un produit ou un service.
@@ -83,7 +94,8 @@ L’UX Mapping (ou cartographie de l’expérience utilisateur) est une méthode
     - Solutions envisagées
 5. **Analyser et partager les insights** avec l’équipe
 
-> 📌 Outils conseillés : Figma, Miro, Smaply
+> [!TIP] Tips 
+> Outils conseillés : Figma, Miro, Smaply
 
 --
 
