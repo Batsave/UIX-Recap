@@ -49,6 +49,10 @@
         }
     }
 
+    .site-title span {
+        display: none !important;
+    }
+
     h2,
     h3,
     h4 {
