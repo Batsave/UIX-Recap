@@ -421,7 +421,7 @@ l'aide
 
 92
 00:04:16,840 --> 00:04:21,480
-possible de l'IA type tchat SGBD
+possible de l'IA type ChatGPT
 pour trier de gros volumes de retours.
 
 93
