@@ -1,0 +1,105 @@
+1
+00:00:00,000 --> 00:00:03,269
+Bonjour, aujourd'hui, on
+va creuser une question
+
+2
+00:00:03,280 --> 00:00:06,279
+vraiment centrale quand
+on crée du numérique.
+
+3
+00:00:06,860 --> 00:00:09,809
+Comment notre cerveau, au
+fond, interagit avec ce
+
+4
+00:00:09,820 --> 00:00:12,169
+qu'on voit sur un écran
+? Bonjour, oui, c'est
+
+5
+00:00:12,180 --> 00:00:13,399
+une question essentielle.
+
+6
+00:00:13,820 --> 00:00:16,548
+On va explorer ce pont entre
+la psychologie cognitive
+
+7
+00:00:16,560 --> 00:00:19,659
+et le design d'interface,
+ce qu'on appelle l'UX.
+
+8
+00:00:19,940 --> 00:00:21,989
+L'idée, si je comprends
+bien, c'est de partir
+
+9
+00:00:22,000 --> 00:00:24,848
+de comment fonctionnent
+nous, les humains, nos
+
+10
+00:00:24,860 --> 00:00:27,979
+processus mentaux, la
+perception, la mémoire.
+
+11
+00:00:27,980 --> 00:00:31,179
+Exactement, comment tout ça
+influence notre expérience.
+
+12
+00:00:31,680 --> 00:00:34,049
+Et surtout, comment les
+concepteurs peuvent s'appuyer
+
+13
+00:00:34,060 --> 00:00:37,319
+là-dessus pour que ça soit
+plus fluide, plus intuitif.
+
+14
+00:00:37,440 --> 00:00:40,099
+C'est clair qu'un utilisateur,
+ce n'est pas une machine.
+
+15
+00:00:40,560 --> 00:00:43,949
+On a nos limites cognitives,
+notre attention qui flanche,
+
+16
+00:00:43,960 --> 00:00:45,059
+une mémoire pas infinie.
+
+17
+00:00:45,300 --> 00:00:45,879
+C'est tout le sujet.
+
+18
+00:00:46,400 --> 00:00:49,589
+La psychologie cognitive, qui
+étudie justement ses processus
+
+19
+00:00:49,600 --> 00:00:53,809
+mentaux, percevoir, mémoriser,
+décider, etc., elle offre
+
+20
+00:00:53,820 --> 00:00:56,329
+des clés, une sorte de
+mode d'emploi du cerveau
+
+21
+00:00:56,340 --> 00:00:57,679
+humain pour les designers.
+
+22
+00:00:57,920 --> 00:00:59,759
+Une boîte à outils,
+en quelque sorte.

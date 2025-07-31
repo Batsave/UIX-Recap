@@ -1,0 +1,78 @@
+.custom_episode {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+  &_top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    width: 100%;
+  }
+
+  &_button {
+    width: 80px;
+    height: 80px;
+    font-size: 2rem;
+    font-weight: bold;
+    background: none;
+    background-color: transparent;
+    color: #000;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &:hover {
+      filter: brightness(1.2);
+    }
+  }
+
+  &_info {
+    flex-grow: 1;
+    width: 100%;
+
+    h3 {
+      font-size: 1.3rem;
+      font-weight: 700;
+      margin: 0;
+      text-overflow: clip;
+      word-break: break-all;
+      word-wrap: break-word;
+      max-width: 64ch;
+    }
+
+    p {
+      font-size: 1rem;
+      color: #333;
+      margin: 0;
+    }
+  }
+
+  &_duration {
+    font-size: 1rem;
+    font-weight: 500;
+    white-space: nowrap;
+    color: #333;
+  }
+
+  &_progress {
+    margin-top: 1rem;
+    height: 8px;
+    background-color: #ccc; // fond de la barre
+    border-radius: 4px;
+    overflow: hidden;
+    width: 100%;
+    cursor: pointer;
+
+    .custom_episode_bar {
+      height: 100%;
+      background-color: #000; // progression noire
+      width: 0%;
+      transition: width 0.2s linear;
+    }
+  }
+}

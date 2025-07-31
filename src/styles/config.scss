@@ -1,0 +1,52 @@
+// Font
+@font-face {
+  font-family: "Heebo";
+  src: url("/fonts/heebo.ttf") format("truetype");
+  font-weight: 1 999;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Unbounded";
+  src: url("/fonts/Unbounded.ttf") format("truetype");
+  font-weight: 1 999;
+  font-style: normal;
+}
+
+$font: "Heebo", sans-serif;
+$font-alt: "Unbounded", sans-serif;
+
+// Colors
+$interface: #f5f5f5;
+$grey: #cfcfcf;
+$grey-light: #efefef;
+$grey-hover: #e1e1e1;
+
+$white: #fafaf9;
+$black: #1a1a1a;
+$black-hover: #3c3c3c;
+
+$theme-50: #f5f2ff;
+$theme-100: #ede7ff;
+$theme-200: #ddd3ff;
+$theme-300: #c3afff;
+$theme-400: #a781ff;
+$theme-500: #8d4fff;
+$theme-600: #802afd;
+$theme-700: #7219e8;
+$theme-800: #5f14c3;
+$theme-900: #5113a3;
+$theme-950: #30096c;
+
+$red: #c44a4a;
+$green: #2eb43e;
+$orange: #ff5018;
+$blue: #4051a5;
+
+$max-width: 820px;
+$wiki-max-width: 820px;
+$news-max-width: 820px;
+$min-height: 70dvh;
+$line-height: 1.5;
+
+$anim-button: 0.15s cubic-bezier(1, 0, 0, 1);

@@ -1,0 +1,30 @@
+table {
+  width: 100%;
+
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  text-align: center;
+
+  th,
+  td {
+    width: 116px;
+    padding: 0.75rem;
+    vertical-align: middle;
+    text-align: center;
+  }
+
+  // Fixe la hauteur des images et centre
+  img {
+    display: block;
+    margin: 0 auto 0.5rem;
+    width: 40px;
+    height: 40px;
+  }
+
+  // Uniformise le texte sous l’image
+  strong {
+    display: block;
+    font-size: 0.95rem;
+    font-weight: 500;
+  }
+}

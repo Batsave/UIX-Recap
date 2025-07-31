@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "": "file:",
+    "@astrojs/react": "^4.3.0",
+    "@astrojs/starlight": "^0.31.1",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "astro": "^5.1.5",
+    "astro-i18next": "^1.0.0-beta.21",
+    "i18n": "^0.15.1",
+    "react-icons": "^5.5.0",
+    "sass": "^1.89.2",
+    "scss": "^0.2.4",
+    "sharp": "^0.32.5"
+  }
+}

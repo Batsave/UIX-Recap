@@ -1,0 +1,312 @@
+@use "../../styles/config.scss" as *;
+
+.srt-wrapper {
+  margin: 2rem 0;
+}
+
+.srt-player-box {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  padding: 24px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  background: linear-gradient(
+    380deg,
+    rgba(228, 217, 255, 1) 0%,
+    rgba(252, 209, 162, 1) 100%
+  );
+
+  // contenu au-dessus du fond animé
+  > * {
+    position: relative;
+    z-index: 1;
+  }
+}
+
+@keyframes rotateBg {
+  0% {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+
+.srt-text {
+  height: 300px;
+  overflow: auto;
+  position: relative;
+  max-width: 42ch;
+  margin: auto;
+  margin-bottom: 1rem;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  scroll-behavior: smooth;
+}
+
+.srt-text-inner {
+  display: flex;
+  flex-direction: column;
+
+  transition: transform 0.3s ease;
+}
+
+.srt-text p {
+  height: fit-content;
+  text-align: left;
+  cursor: pointer;
+  transition: color 0.2s;
+  color: rgba($black, 0.4);
+}
+
+.srt-text p:hover {
+  color: rgba($black, 0.8);
+}
+
+.srt-text p.active {
+  font-weight: 700;
+  font-size: 24px;
+  opacity: 1;
+  color: $black;
+}
+
+.srt-empty {
+  text-align: center;
+  font-style: italic;
+  opacity: 0.6;
+  padding: 1rem;
+}
+
+/* ----------- Contrôles ----------- */
+.srt-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  padding: 0 8px;
+  z-index: 5;
+}
+
+.srt-controls button {
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  white-space: nowrap;
+  color: $black;
+  z-index: 5;
+}
+
+.srt-timer-spectrum {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.srt-time {
+  font-size: 14px;
+  white-space: nowrap;
+  color: $black;
+  z-index: 5;
+}
+
+.srt-spectrum {
+  background: transparent;
+
+  display: block;
+  width: 40px;
+  height: 20px;
+  z-index: 5;
+}
+
+/* ----------- Barre de progression ----------- */
+.srt-progress {
+  width: 100%;
+  appearance: none;
+  height: 5px;
+  border-radius: 4px;
+  background: linear-gradient(
+    to right,
+    $theme-500 var(--progress, 0%),
+    $white var(--progress, 0%)
+  );
+  cursor: pointer;
+  z-index: 5;
+
+  &::-webkit-slider-thumb {
+    appearance: none;
+    height: 12px;
+    width: 12px;
+    background: $theme-500;
+    border-radius: 50%;
+    margin-top: -2px;
+    cursor: pointer;
+    position: relative;
+    z-index: 6;
+  }
+
+  &::-moz-range-thumb {
+    height: 12px;
+    width: 12px;
+    background: $theme-500;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    z-index: 6;
+  }
+}
+
+.srt-audio {
+  display: none;
+}
+
+.srt-scroll-button {
+  position: absolute;
+  top: 0%;
+  right: 0%;
+  margin-top: 8px;
+  margin-right: 8px;
+  background-color: $theme-500;
+  color: $white;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: $theme-700;
+  }
+}
+
+/* ----------- SRT Banner ----------- */
+.srt-banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: absolute;
+  gap: 8px;
+  padding: 16px 24px;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  backdrop-filter: blur(8px);
+  --moz-backdrop-filter: blur(8px);
+  --webkit-backdrop-filter: blur(8px);
+  animation: FadeUp 0.3s ease-out;
+  background: linear-gradient(
+    380deg,
+    rgba(228, 217, 255, 0.76) 0%,
+    rgba(252, 209, 162, 0.76) 100%
+  );
+
+  .srt-banner-timer {
+    font-size: 14px;
+    font-weight: 400;
+    color: $black;
+  }
+
+  .srt-banner-eptitle {
+    font-size: 16px;
+    font-weight: 600;
+    color: $black;
+  }
+
+  &-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+
+    button {
+      display: flex;
+      align-items: center;
+      background: $black;
+      color: $white;
+      border: none;
+      padding: 8px 16px;
+      font-weight: bold;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.2s ease;
+
+      &:hover {
+        background: #252525;
+      }
+    }
+  }
+
+  .auto-next-button {
+    position: relative;
+    width: max-content;
+    animation: cta 1.5s ease-in-out infinite alternate;
+
+    button {
+      position: relative;
+      overflow: hidden;
+      background: $theme-800;
+      color: #fefefe;
+      border: none;
+      padding: 8px 16px;
+      font-weight: bold;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.2s ease;
+
+      &::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: var(--fill, 0%);
+        background: rgba($white, 0.1); // foncé léger au-dessus
+        transition: width 1s linear;
+        z-index: 1;
+      }
+
+      span,
+      svg {
+        position: relative;
+        z-index: 2;
+      }
+
+      &:hover {
+        background: $theme-600;
+      }
+    }
+  }
+}
+
+@keyframes FadeUp {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes cta {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
