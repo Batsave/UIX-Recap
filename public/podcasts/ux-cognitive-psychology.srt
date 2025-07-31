@@ -14,7 +14,7 @@ quand on crée du numérique.
 4
 00:00:06,760 --> 00:00:10,120
 Comment notre cerveau, au fond,
-il interagit avec ce qu'on voit
+interagit avec ce qu'on voit
 
 5
 00:00:10,120 --> 00:00:10,760
@@ -23,7 +23,7 @@ sur un écran ?
 6
 00:00:10,760 --> 00:00:13,720
 Bonjour,
-Oui, c'est une question essentielle.
+oui, c'est une question essentielle.
 
 7
 00:00:13,720 --> 00:00:16,800
@@ -33,7 +33,7 @@ entre la psychologie cognitive
 8
 00:00:16,800 --> 00:00:19,800
 et le design d'interface,
-ce qu'on appelle lui.
+ce qu'on appelle l'UX.
 
 9
 00:00:19,920 --> 00:00:23,320
@@ -47,13 +47,13 @@ la perception, la mémoire.
 
 11
 00:00:28,080 --> 00:00:31,240
-Exactement comment tout ça
+Exactement, et comment tout ça
 influence notre expérience
 
 12
 00:00:31,680 --> 00:00:34,760
 et surtout comment les concepteurs peuvent
-s'appuyer là dessus
+s'appuyer là-dessus
 
 13
 00:00:34,760 --> 00:00:37,360
@@ -63,7 +63,7 @@ plus intuitif.
 14
 00:00:37,360 --> 00:00:40,360
 C'est clair
-qu'un utilisateur, c'est pas une machine.
+qu'un utilisateur n'est pas une machine.
 
 15
 00:00:40,560 --> 00:00:42,160
@@ -81,7 +81,7 @@ C'est tout le sujet.
 18
 00:00:46,320 --> 00:00:50,160
 La psychologie cognitive
-qui étudie justement ces processus mentaux
+étudie justement ces processus mentaux :
 
 19
 00:00:50,480 --> 00:00:53,400
@@ -98,7 +98,7 @@ pour les designers.
 
 22
 00:00:58,080 --> 00:01:00,360
-Une boîte à outils en quelque sorte.
+Une boîte à outils, en quelque sorte.
 
 23
 00:01:00,360 --> 00:01:03,480
@@ -107,11 +107,11 @@ que nos ressources mentales sont limitées.
 
 24
 00:01:03,920 --> 00:01:05,280
-Un bon designer UX.
+Un bon designer UX,
 
 25
 00:01:05,280 --> 00:01:09,480
-Son but premier, c'est de réduire
+son but premier, c'est de réduire
 la friction mentale, l'effort inutile.
 
 26
@@ -121,11 +121,11 @@ appelle la charge cognitive.
 
 27
 00:01:11,440 --> 00:01:12,720
-Oui, En particulier la charge
+Oui, en particulier la charge
 
 28
 00:01:12,720 --> 00:01:16,680
-extrinsèque, c'est celle qui est liée
+extrinsèque, celle qui est liée
 à une mauvaise présentation de l'info.
 
 29
@@ -134,7 +134,7 @@ Un design compliqué.
 
 30
 00:01:18,240 --> 00:01:20,840
-C'est sur celle là
+C'est sur celle-là
 que le designer a le plus de prise.
 
 31
@@ -148,7 +148,7 @@ D'accord.
 
 33
 00:01:24,600 --> 00:01:27,600
-Alors, si on commence par le début,
+Alors, si on commence par le début :
 la perception,
 
 34
@@ -158,7 +158,7 @@ ce qu'il voit, par exemple sur une page.
 
 35
 00:01:31,200 --> 00:01:35,520
-Web, mais il utilise des principes
+Il utilise des principes
 d'organisation assez automatiques.
 
 36
@@ -175,13 +175,13 @@ C'est ça.
 
 39
 00:01:41,200 --> 00:01:45,040
-Les éléments proches on les groupes se
-qui se ressemblent, on les groupes aussi.
+Les éléments proches, on les regroupe ;
+ceux qui se ressemblent, on les regroupe aussi.
 
 40
 00:01:45,280 --> 00:01:48,680
-Un bon design joue là dessus
-pour que la structure de la page, elle,
+Un bon design joue là-dessus
+pour que la structure de la page
 
 41
 00:01:48,720 --> 00:01:51,320
@@ -204,7 +204,7 @@ Tout à fait.
 45
 00:01:56,960 --> 00:01:59,680
 L'attention,
-Elle est sélective et limitée,
+elle est sélective et limitée,
 
 46
 00:01:59,680 --> 00:02:02,240
@@ -222,21 +222,21 @@ Il faut hiérarchiser l'information.
 49
 00:02:07,440 --> 00:02:11,360
 Alors exactement, utiliser le contraste,
-les espaces ronds blancs.
+les espaces blancs.
 
 50
 00:02:12,080 --> 00:02:14,680
 C'est là
-qu'intervient aussi l'effet vont restaurer
+qu'intervient aussi l'effet Von Restorff :
 
 51
 00:02:14,680 --> 00:02:17,920
-un élément qui se distingue
-un bouton d'appel à l'action bien colorée.
+un élément qui se distingue,
+un bouton d'appel à l'action bien coloré,
 
 52
 00:02:17,920 --> 00:02:18,680
-Par exemple.
+par exemple.
 
 53
 00:02:18,680 --> 00:02:20,160
@@ -249,7 +249,7 @@ D'accord.
 55
 00:02:20,760 --> 00:02:23,920
 Donc on perçoit,
-on focalise notre attention
+on focalise notre attention,
 
 56
 00:02:24,360 --> 00:02:27,520
@@ -268,11 +268,11 @@ Oui, et de la fameuse loi de Miller.
 59
 00:02:32,760 --> 00:02:35,200
 Elle est souvent un peu simplifiée,
-mais l'idée de.
+mais l'idée de
 
 60
 00:02:35,200 --> 00:02:38,200
-Base, le chiffre magique sept plus ou -2.
+base, le chiffre magique : sept plus ou moins deux.
 
 61
 00:02:38,240 --> 00:02:39,240
@@ -281,22 +281,22 @@ Voilà.
 62
 00:02:39,240 --> 00:02:41,760
 L'idée,
-c'est que notre mémoire à court terme,
+c'est que notre mémoire à court terme
 
 63
 00:02:41,760 --> 00:02:44,880
-elle ne peut pas jongler avec
+ne peut pas jongler avec
 une infinité d'éléments en même temps.
 
 64
 00:02:44,960 --> 00:02:48,960
-Pour un designer, ça veut dire ne noyer
-pas l'utilisateur sous les options,
+Pour un designer, ça veut dire :
+ne noyez pas l'utilisateur sous les options,
 
 65
 00:02:49,280 --> 00:02:53,080
-regrouper l'info en blocs logiques,
-ce qu'on appelle le jenkins logique.
+regroupez l'info en blocs logiques,
+ce qu'on appelle le chunking logique.
 
 66
 00:02:53,400 --> 00:02:56,400
@@ -315,7 +315,7 @@ Trop de choix,
 69
 00:03:01,040 --> 00:03:03,560
 C'est exactement
-le principe de la loi de X.
+le principe de la loi de Hick.
 
 70
 00:03:03,560 --> 00:03:06,040
@@ -332,7 +332,7 @@ La fameuse paralysie de l'analyse.
 
 73
 00:03:09,600 --> 00:03:14,680
-Oui, Donc simplifier les parcours,
+Oui. Donc simplifier les parcours,
 proposer des choix clairs, c'est souvent
 
 74
@@ -360,8 +360,8 @@ Il y a une loi pour ça aussi.
 
 79
 00:03:28,320 --> 00:03:32,160
-Eh oui, la loi de Fitz est
-très importante, surtout avec le tactile.
+Eh oui, la loi de Fitts
+est très importante, surtout avec le tactile.
 
 80
 00:03:32,600 --> 00:03:35,320
@@ -395,7 +395,7 @@ la navigation confortable sans effort.
 86
 00:03:52,160 --> 00:03:55,080
 Et il y avait aussi un autre
-effet l'effet Zahir garnison
+effet : l'effet Zeigarnik,
 
 87
 00:03:56,040 --> 00:03:57,760
@@ -403,7 +403,7 @@ sur les tâches pas finies.
 
 88
 00:03:57,760 --> 00:03:59,800
-Ah oui, celui là est fascinant.
+Ah oui, celui-là est fascinant.
 
 89
 00:03:59,800 --> 00:04:02,760
@@ -421,7 +421,7 @@ Elles créent une sorte de tension.
 
 92
 00:04:06,680 --> 00:04:08,480
-Et en UX, ça donne quoi ?
+Et en UX, ça donne quoi ?
 
 93
 00:04:08,480 --> 00:04:11,960
@@ -430,7 +430,7 @@ aux indicateurs du type profil
 
 94
 00:04:11,960 --> 00:04:13,680
-complété à 80 % ?
+complété à 80 %.
 
 95
 00:04:13,680 --> 00:04:16,760
@@ -443,8 +443,7 @@ complété à 80 % ?
 
 97
 00:04:19,160 --> 00:04:21,600
-C'est
-puissant pour l'engagement. Intéressant.
+C'est puissant pour l'engagement. Intéressant.
 
 98
 00:04:21,600 --> 00:04:25,320
@@ -454,7 +453,7 @@ tous ces principes psychologiques,
 99
 00:04:25,680 --> 00:04:28,800
 ils nous mènent vers quel type de design
-concrètement ?
+concrètement ?
 
 100
 00:04:28,840 --> 00:04:32,480
@@ -463,8 +462,8 @@ claires, prévisibles,
 
 101
 00:04:32,880 --> 00:04:36,120
-Une bonne hiérarchie visuelle,
-on l'a dit, des textes aussi
+une bonne hiérarchie visuelle,
+on l'a dit, et des textes aussi
 
 102
 00:04:36,120 --> 00:04:39,120
@@ -473,11 +472,11 @@ simples, compréhensibles.
 
 103
 00:04:39,400 --> 00:04:40,200
-C'est le rôle de lui.
+C'est le rôle de l'UX
 
 104
 00:04:40,200 --> 00:04:41,120
-Writing Oui.
+writing. Oui.
 
 105
 00:04:41,120 --> 00:04:43,800
@@ -508,8 +507,8 @@ structurer l'information.
 
 111
 00:04:58,200 --> 00:05:02,280
-Donc pour résumer la psycho cognitive,
-ça nous donne des clés pour
+Donc, pour résumer, la psycho cognitive,
+ça nous donne des clés
 
 112
 00:05:02,600 --> 00:05:05,440
@@ -518,7 +517,7 @@ comment l'utilisateur va réagir.
 
 113
 00:05:05,440 --> 00:05:07,320
-C'est ça ? C'est tout à fait ça.
+C'est ça ? C'est tout à fait ça.
 
 114
 00:05:07,320 --> 00:05:10,680
@@ -533,11 +532,11 @@ qui se demande
 116
 00:05:14,040 --> 00:05:17,120
 pourquoi l'utilisateur fait ça,
-comment l'aider Au mieux,
+comment l'aider au mieux.
 
 117
 00:05:17,720 --> 00:05:20,320
-on se concentre sur le
+On se concentre sur le
 pourquoi du comportement.
 
 118
@@ -546,12 +545,12 @@ Et les bénéfices
 
 119
 00:05:21,000 --> 00:05:24,800
-y sont clairs des interfaces plus faciles
+sont clairs : des interfaces plus faciles
 à prendre en main, moins d'erreurs,
 
 120
 00:05:24,800 --> 00:05:28,520
-plus d'engagement et au final
+plus d'engagement et, au final,
 des utilisateurs plus satisfaits.
 
 121
@@ -560,8 +559,8 @@ Exactement.
 
 122
 00:05:29,760 --> 00:05:33,360
-Et ça amène une dernière petite réflexion
-peut être maintenant
+Et ça amène une dernière petite réflexion :
+peut-être maintenant
 
 123
 00:05:33,360 --> 00:05:36,160
@@ -570,13 +569,13 @@ qu'on sait que notre cerveau est sensible
 
 124
 00:05:36,160 --> 00:05:39,680
-comme les faisait Guernica
-qui nous poussent à finir les choses. Oui.
+comme l'effet Zeigarnik
+qui nous pousse à finir les choses. Oui.
 
 125
 00:05:39,960 --> 00:05:43,080
 Comment les designers peuvent utiliser ça
-de manière éthique ?
+de manière éthique ?
 
 126
 00:05:43,320 --> 00:05:46,080
@@ -590,12 +589,12 @@ ou créer de la frustration inutile.
 128
 00:05:49,920 --> 00:05:53,040
 Où placer le curseur pour que ça reste
-au service de l'utilisateur ?
+au service de l'utilisateur ?
 
 129
 00:05:53,360 --> 00:05:57,040
-C'est une excellente question
-Pour terminer trouver cet équilibre.
+C'est une excellente question.
+Pour terminer, trouver cet équilibre.
 
 130
 00:05:57,120 --> 00:05:59,720
