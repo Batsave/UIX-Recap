@@ -1,0 +1,408 @@
+1
+00:00:00,000 --> 00:00:04,360
+Bienvenue. Aujourd'hui, on se penche sur
+deux outils fondamentaux en UX,
+
+2
+00:00:04,680 --> 00:00:09,420
+les personas et les cartes d'empathie. On
+s'appuie sur des extraits d'un
+
+3
+00:00:09,420 --> 00:00:13,260
+article qui détaille ces méthodes. L'idée,
+c'est de comprendre comment,
+
+4
+00:00:13,480 --> 00:00:16,900
+concrètement, il nous aide à mettre
+l'utilisateur au centre,
+
+5
+00:00:17,240 --> 00:00:20,180
+à humaniser un peu tout ça avec des
+données réelles.
+
+6
+00:00:20,720 --> 00:00:23,460
+Allez, on décortique ces concepts.
+Commençons par le persona.
+
+7
+00:00:23,460 --> 00:00:28,400
+Alors, le persona, c'est ce profil
+semi-fictif. Mais attention,
+
+8
+00:00:28,800 --> 00:00:32,380
+basé sur de vraies données. Données
+quanti, données quali.
+
+9
+00:00:32,680 --> 00:00:36,880
+Ils représentent un groupe d'utilisateurs
+cibles. Ce n'est pas une invention sortie
+
+10
+00:00:36,880 --> 00:00:40,080
+de nulle part, c'est une synthèse. Ah oui,
+ce n'est pas juste un personnage
+
+11
+00:00:40,080 --> 00:00:42,940
+imaginaire. Exactement. L'idée vient
+d'Alan Cooper,
+
+12
+00:00:43,220 --> 00:00:47,420
+en 99. En UX, le but, c'est vraiment
+d'améliorer l'expérience.
+
+13
+00:00:47,660 --> 00:00:51,820
+C'est le user persona. C'est un peu
+différent du buyer persona en marketing
+
+14
+00:00:51,820 --> 00:00:55,440
+qui, lui, vise plutôt la vente, le
+ciblage. Mais le cœur du sujet,
+
+15
+00:00:55,600 --> 00:00:59,820
+c'est l'empathie. L'empathie, ok. Oui,
+comprendre les motivations,
+
+16
+00:01:00,200 --> 00:01:03,620
+les frustrations, les buts des
+utilisateurs. Et ça,
+
+17
+00:01:03,700 --> 00:01:08,060
+ça aide énormément pour faire des choix de
+conception. On priorise quoi pour répondre
+
+18
+00:01:08,060 --> 00:01:12,020
+à quels besoins précis ? Je vois. Donc,
+pour le construire,
+
+19
+00:01:12,160 --> 00:01:15,400
+on utilise quoi comme info ? L'article
+cite Karine Lallemande.
+
+20
+00:01:15,620 --> 00:01:18,100
+Elle parle de plusieurs catégories. Oui,
+tout à fait.
+
+21
+00:01:18,360 --> 00:01:20,940
+Il y a le démographique, l'âge, ce genre
+de choses,
+
+22
+00:01:21,180 --> 00:01:24,920
+mais aussi le psychocognitif. La
+personnalité, les croyances.
+
+23
+00:01:25,100 --> 00:01:28,140
+C'est ça. Et puis l'environnement pro, le
+secteur d'activité,
+
+24
+00:01:28,300 --> 00:01:30,780
+et bien sûr tout ce qui est lié à la
+tâche, les objectifs,
+
+25
+00:01:30,860 --> 00:01:33,860
+la fréquence d'utilisation du service.
+C'est assez complet en fait.
+
+26
+00:01:34,160 --> 00:01:37,520
+Oui. Et il faut distinguer deux types
+principaux. D'abord,
+
+27
+00:01:37,720 --> 00:01:42,380
+le proto-persona. C'est rapide, souvent
+basé sur ce que l'équipe pense savoir en
+
+28
+00:01:42,380 --> 00:01:45,120
+interne. C'est utile pour démarrer, pour
+aligner l'équipe,
+
+29
+00:01:45,260 --> 00:01:47,700
+mais bon, ça reste des hypothèses. Moins
+fiable donc.
+
+30
+00:01:48,820 --> 00:01:52,700
+Le vrai, si on peut dire, c'est le persona
+UX recherché.
+
+31
+00:01:52,980 --> 00:01:56,080
+Lui, il est solide. Il est construit à
+partir d'entretiens,
+
+32
+00:01:56,240 --> 00:01:59,900
+d'observations, d'analyses de données. Ah
+oui, là on est sur du concret.
+
+33
+00:02:00,180 --> 00:02:03,540
+C'est ça qui donne une vision réaliste,
+nuancée. D'accord.
+
+34
+00:02:03,960 --> 00:02:06,600
+Et ce persona final, il ressemble à quoi ?
+Souvent on voit un prénom,
+
+35
+00:02:06,780 --> 00:02:10,000
+un âge, une photo, même fictive. Oui, pour
+lui donner corps.
+
+36
+00:02:10,340 --> 00:02:13,640
+Une photo, une petite bio, ses objectifs
+clés, ses points de douleur,
+
+37
+00:02:13,740 --> 00:02:17,060
+ses frustrations. L'article mentionne
+aussi une citation marquante,
+
+38
+00:02:17,200 --> 00:02:20,060
+parfois les marques préférées, les
+appareils utilisés.
+
+39
+00:02:20,220 --> 00:02:23,840
+Oui. Ou son niveau de confort avec le
+numérique, le contexte d'usage.
+
+40
+00:02:24,160 --> 00:02:26,380
+Il existe plein de templates sur Figma,
+par exemple.
+
+41
+00:02:26,660 --> 00:02:29,680
+Ça aide à visualiser. Ça rend les données
+humaines. Ok,
+
+42
+00:02:29,840 --> 00:02:33,600
+le persona pose les bases. Mais pour aller
+plus loin dans le vécu,
+
+43
+00:02:33,740 --> 00:02:37,600
+les émotions, ce qui n'est pas forcément
+dit, j'imagine que c'est là que la carte
+
+44
+00:02:37,600 --> 00:02:40,480
+d'empathie intervient. Exactement. La
+carte d'empathie,
+
+45
+00:02:40,520 --> 00:02:45,340
+c'est un autre outil visuel très puissant.
+Elle aide à synthétiser ce qu'on a appris
+
+46
+00:02:45,340 --> 00:02:49,580
+sur un utilisateur, typiquement après les
+entretiens. Elle va plus loin que l'effet
+
+47
+00:02:49,580 --> 00:02:53,400
+brut et explore quatre dimensions
+essentielles. Ce que l'utilisateur dit.
+
+48
+00:02:53,500 --> 00:02:56,400
+Ce qu'on entend directement. Voilà. Ce
+qu'il pense,
+
+49
+00:02:56,540 --> 00:02:59,420
+et ça c'est souvent le non-dit, les
+réflexions qu'on essaie de capter.
+
+50
+00:02:59,600 --> 00:03:02,900
+Ce qu'il fait, ses actions concrètes,
+observables. Et enfin,
+
+51
+00:03:03,040 --> 00:03:06,200
+ce qu'il ressent. Ses émotions. Oui, son
+état affectif.
+
+52
+00:03:06,460 --> 00:03:09,780
+Joie, frustration, confusion. On l'utilise
+souvent en atelier.
+
+53
+00:03:10,000 --> 00:03:12,840
+C'est assez génial de voir toute l'équipe
+design, marketing,
+
+54
+00:03:13,160 --> 00:03:16,180
+produit, remplir ça ensemble, parfois avec
+des post-it.
+
+55
+00:03:16,320 --> 00:03:18,760
+Ça doit créer des discussions
+intéressantes. Ah oui,
+
+56
+00:03:18,860 --> 00:03:21,340
+oui. Surtout quand il y a des
+contradictions entre ce que la personne
+
+57
+00:03:21,340 --> 00:03:24,140
+dit et ce qu'on perçoit de ses émotions ou
+de ses actions.
+
+58
+00:03:24,420 --> 00:03:28,880
+On peut aussi ajouter les peurs, les gains
+attendus. Et un point super important.
+
+59
+00:03:29,160 --> 00:03:32,420
+Chaque carte d'empathie est associée à un
+persona spécifique.
+
+60
+00:03:32,420 --> 00:03:35,640
+Ce n'est pas une carte générique. Elle
+approfondit la compréhension de ce
+
+61
+00:03:35,640 --> 00:03:39,640
+persona-là. Donc les deux sont vraiment
+liés. Le persona définit le qui et la
+
+62
+00:03:39,640 --> 00:03:42,400
+carte d'empathie explore son monde
+intérieur, son vécu.
+
+63
+00:03:42,600 --> 00:03:46,040
+C'est une excellente façon de le dire. Il
+transforme les données brutes en supports
+
+64
+00:03:46,040 --> 00:03:49,660
+concrets, humains, pour guider la
+conception. Mais j'imagine que ce n'est
+
+65
+00:03:49,660 --> 00:03:53,560
+pas la fin du processus. Non, bien sûr que
+non. C'est une fondation essentielle.
+
+66
+00:03:53,560 --> 00:03:55,760
+A partir de là, on peut construire
+d'autres choses.
+
+67
+00:03:55,980 --> 00:04:00,020
+Par exemple, la cartographie du parcours
+client, la fameuse Customer Journey Map
+
+68
+00:04:00,020 --> 00:04:03,600
+App. Elle découle directement de la
+compréhension du persona et de ses
+
+69
+00:04:03,600 --> 00:04:08,420
+émotions à chaque étape. Logique. Ou
+alors, ça aide à définir très précisément
+
+70
+00:04:08,420 --> 00:04:12,500
+le problème qu'on cherche à résoudre dans
+une démarche type design thinking.
+
+71
+00:04:12,940 --> 00:04:17,320
+Sans cette base d'empathie solide, on
+risque de construire un peu à côté de la
+
+72
+00:04:17,320 --> 00:04:20,880
+plaque. Donc, pour résumer, ce qu'il faut
+vraiment retenir,
+
+73
+00:04:21,019 --> 00:04:24,860
+c'est que ces outils persona et cartes
+d'empathie, ils sont là pour nous empêcher
+
+74
+00:04:24,860 --> 00:04:28,520
+de concevoir dans le vide. Ou de concevoir
+pour des utilisateurs imaginaires qui
+
+75
+00:04:28,520 --> 00:04:31,620
+n'existent pas. Ils forcent à se
+concentrer sur les besoins,
+
+76
+00:04:31,760 --> 00:04:35,120
+les motivations, les frustrations
+d'humains bien réels.
+
+77
+00:04:35,260 --> 00:04:38,080
+Tout à fait. Et ça amène une réflexion
+pour conclure,
+
+78
+00:04:38,180 --> 00:04:41,960
+peut-être, si on pousse cette logique de
+chercher systématiquement à comprendre ce
+
+79
+00:04:41,960 --> 00:04:44,940
+que les utilisateurs pensent au fond, mais
+qu'ils ne disent pas toujours.
+
+80
+00:04:44,940 --> 00:04:49,580
+Dans quelle mesure ça pourrait vraiment
+transformer notre façon de créer de
+
+81
+00:04:49,580 --> 00:04:53,280
+nouveaux produits ou services ? C'est une
+piste intéressante à méditer.
+
+82
+00:04:53,840 --> 00:04:54,620
+Fin de cette exploration.
