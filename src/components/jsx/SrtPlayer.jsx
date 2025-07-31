@@ -243,7 +243,7 @@ export default function SrtPlayer({
           className="srt-text"
           ref={containerRef}
           onScroll={() => {
-            if (Date.now() - lastProgrammaticScroll.current > 500)
+            if (Date.now() - lastProgrammaticScroll.current > 1000)
               setIsAutoScroll(false);
           }}
         >
