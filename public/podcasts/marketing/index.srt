@@ -1,0 +1,573 @@
+1
+00:00:00,099 --> 00:00:03,879
+Bon alors, le marketing, c'est souvent vu
+comme juste de la pub,
+
+2
+00:00:04,400 --> 00:00:07,519
+mais c'est bien plus que ça, non? Ah oui,
+tout à faire.
+
+3
+00:00:07,839 --> 00:00:10,959
+C'est vraiment l'art de comprendre ben ce
+que les gens veulent,
+
+4
+00:00:11,019 --> 00:00:14,899
+leurs besoins et d'y répondre mieux.
+Justement, on a sous la main des extraits
+
+5
+00:00:14,899 --> 00:00:18,079
+de stratégies essentielles de marketing et
+leurs applications.
+
+6
+00:00:18,579 --> 00:00:22,919
+L'idée, c'est d'explorer un peu tout ça.
+Exactement. De l'analyse du marché jusqu'à
+
+7
+00:00:22,959 --> 00:00:26,159
+comment on positionne une offre. On essaie
+de saisir l'essentiel ensemble.
+
+8
+00:00:26,180 --> 00:00:29,979
+Allons-y. C'est vrai que c'est un
+processus assez complexe,
+
+9
+00:00:29,979 --> 00:00:33,300
+en fait. Ça implique des stratégies pour
+influencer, bien sûr,
+
+10
+00:00:33,619 --> 00:00:36,700
+mais aussi une analyse vraiment rigoureuse
+du marché.
+
+11
+00:00:36,700 --> 00:00:41,019
+Il faut savoir à qui on parle. Voilà. Une
+segmentation fine des cibles et puis un
+
+12
+00:00:41,040 --> 00:00:43,359
+positionnement bien réfléchi pour que
+l'offre, ben,
+
+13
+00:00:43,419 --> 00:00:47,540
+elle touche juste. D'accord. Et souvent,
+on oppose deux grandes approches où elles
+
+14
+00:00:47,559 --> 00:00:50,840
+se complètent peut-être. Oui, c'est ça. Le
+marketing, disons,
+
+15
+00:00:50,840 --> 00:00:55,179
+traditionnel, l'outbound, celui qui pousse
+le message vers nous.
+
+16
+00:00:55,659 --> 00:00:59,659
+Pub télé, radio, affiche. Le marketing de
+l'interruption, un peu.
+
+17
+00:00:59,980 --> 00:01:03,359
+C'est ça. Parfois un peu intrusif, on peut
+dire. Et puis il y a le moderne,
+
+18
+00:01:03,619 --> 00:01:07,559
+l'inbound. Alors là, c'est différent.
+L'idée, c'est d'attirer le client.
+
+19
+00:01:07,819 --> 00:01:12,499
+Comment? Ben avec du contenu pertinent,
+intéressant, via le SEO,
+
+20
+00:01:12,599 --> 00:01:15,339
+les réseaux sociaux, les newsletters.
+C'est plus engageant,
+
+21
+00:01:15,340 --> 00:01:17,979
+peut-être? Oui, mais ça demande plus
+d'efforts sur la durée.
+
+22
+00:01:18,199 --> 00:01:21,479
+C'est sûr. Faut créer ce contenu.
+D'accord. Et on peut aussi faire la
+
+23
+00:01:21,519 --> 00:01:24,959
+distinction entre offline, tout ce qui est
+support physique,
+
+24
+00:01:25,299 --> 00:01:28,119
+la presse, l'affichage. Ce qui est
+tangible. Voilà,
+
+25
+00:01:28,539 --> 00:01:32,440
+ça touche un public qui est peut-être
+moins sur le net et ça a un côté plus
+
+26
+00:01:32,479 --> 00:01:36,599
+concret. Et puis, bien sûr, le digital. Le
+web, les emails,
+
+27
+00:01:36,600 --> 00:01:39,519
+les réseaux sociaux. Exactement. Et là, le
+gros avantage,
+
+28
+00:01:39,519 --> 00:01:43,719
+c'est la portée qui peut être énorme. Le
+ciblage très précis aussi.
+
+29
+00:01:43,979 --> 00:01:46,780
+Et on mesure tout. Et on mesure, c'est ça
+qui est clé.
+
+30
+00:01:47,159 --> 00:01:51,139
+Le SEO, par exemple, c'est optimiser son
+site pour Google pour être trouvé
+
+31
+00:01:51,359 --> 00:01:55,619
+naturellement. Le SEA, ben c'est payé pour
+être visible tout de suite.
+
+32
+00:01:55,659 --> 00:01:58,579
+Publicité payante. Voilà. Mais bon, peu
+importe l'approche,
+
+33
+00:01:58,859 --> 00:02:03,499
+outbound, inbound, offline, digital, pour
+construire une stratégie qui tienne la
+
+34
+00:02:03,519 --> 00:02:06,699
+route, il faut être clair sur les
+objectifs dès le départ.
+
+35
+00:02:06,779 --> 00:02:11,339
+La fameuse méthode SMART. C'est ça. Un
+objectif doit être spécifique,
+
+36
+00:02:11,699 --> 00:02:15,679
+mesurable, atteignable, réaliste et
+temporellement défini.
+
+37
+00:02:15,739 --> 00:02:18,519
+Faut que ce soit concret. Pas juste vendre
+plus. Non,
+
+38
+00:02:18,539 --> 00:02:22,359
+ça, c'est trop vague. Plutôt augmenter nos
+ventes en ligne de quinze pour cent d'ici
+
+39
+00:02:22,379 --> 00:02:26,059
+six mois. Là, on sait où on va et comment
+vérifier si on y arrive.
+
+40
+00:02:26,319 --> 00:02:29,219
+Ça évite de s'éparpiller. Logique.
+Objectif clair.
+
+41
+00:02:29,539 --> 00:02:33,019
+Ok. Mais ensuite, il faut bien savoir à
+qui on s'adresse,
+
+42
+00:02:33,019 --> 00:02:36,339
+non? Comment on fait pour que le message
+arrive aux bonnes personnes?
+
+43
+00:02:36,339 --> 00:02:39,919
+Question cruciale. C'est là qu'intervient
+la segmentation.
+
+44
+00:02:39,919 --> 00:02:43,439
+C'est-à-dire? Ben, on découpe le marché en
+groupes plus petits,
+
+45
+00:02:43,519 --> 00:02:47,539
+plus homogènes, selon l'âge, les centres
+d'intérêt, où ils habitent,
+
+46
+00:02:47,759 --> 00:02:51,899
+comment ils achètent, plein de critères
+possibles. Pour choisir le ou les groupes
+
+47
+00:02:51,899 --> 00:02:54,939
+les plus intéressants pour nous.
+Exactement. Et une fois qu'on a notre
+
+48
+00:02:55,039 --> 00:02:58,659
+cible, il y a le positionnement.
+C'est-à-dire comment on veut que notre
+
+49
+00:02:58,699 --> 00:03:01,659
+offre soit perçue. Qu'est-ce qui nous
+différencie des autres?
+
+50
+00:03:01,879 --> 00:03:05,179
+C'est quoi notre truc en plus? Il faut se
+démarquer. Absolument.
+
+51
+00:03:05,419 --> 00:03:09,139
+Il faut que ce soit clair, distinctif.
+C'est super important,
+
+52
+00:03:09,139 --> 00:03:11,859
+même pour une petite boîte, pour pas
+gaspiller ses ressources.
+
+53
+00:03:12,039 --> 00:03:16,539
+D'accord. Donc, objectif SMART, cible bien
+définie, positionnement clair.
+
+54
+00:03:16,879 --> 00:03:21,219
+Ça, c'est la stratégie. Et après, euh, on
+passe à l'action avec quoi?
+
+55
+00:03:21,619 --> 00:03:25,779
+Le fameux mix marketing. On y arrive. Le
+mix marketing,
+
+56
+00:03:25,839 --> 00:03:29,619
+c'est la boîte à outils concrète.
+Historiquement, c'était les quatre P.
+
+57
+00:03:29,919 --> 00:03:33,899
+Produit, prix, place, promotion. Je m'en
+souviens. Exactement.
+
+58
+00:03:34,199 --> 00:03:37,679
+Le produit, c'est quoi l'offre? Sa
+qualité, son design,
+
+59
+00:03:37,959 --> 00:03:42,479
+le prix, la politique tarifaire, les
+réductions, la place où trouve-t-on le
+
+60
+00:03:42,519 --> 00:03:46,259
+produit en magasin, en ligne, les deux et
+la promotion,
+
+61
+00:03:46,499 --> 00:03:49,299
+comment on communique dessus, la pub, les
+réseaux sociaux,
+
+62
+00:03:49,319 --> 00:03:53,199
+etc. C'est vraiment la base. Mais j'ai
+entendu dire que ça avait un peu évolué
+
+63
+00:03:53,239 --> 00:03:56,679
+ça, non? On parle parfois de sept P
+maintenant. Tout à fait.
+
+64
+00:03:56,999 --> 00:04:00,539
+Avec l'importance de plus en plus grande
+des services de l'expérience client,
+
+65
+00:04:00,839 --> 00:04:04,179
+on a ajouté trois P. Lesquels? Alors, il y
+a le process,
+
+66
+00:04:04,559 --> 00:04:08,479
+c'est-à-dire tout le parcours client.
+Est-ce que c'est simple d'acheter?
+
+67
+00:04:08,859 --> 00:04:12,959
+Est-ce que l'expérience est agréable?
+Pense à la facilité de commande sur un
+
+68
+00:04:13,019 --> 00:04:16,099
+site web, par exemple. L'expérience
+utilisateur, en gros?
+
+69
+00:04:16,178 --> 00:04:20,858
+Voilà. Ensuite, people, les personnes. Le
+rôle du personnel qui est en contact avec
+
+70
+00:04:20,879 --> 00:04:25,519
+les clients, leurs compétences, leur
+amiabilité, ça joue énormément sur l'image
+
+71
+00:04:25,539 --> 00:04:28,639
+de la marque. Le contact humain? C'est ça.
+Et enfin,
+
+72
+00:04:28,879 --> 00:04:33,219
+physical evidence, les preuves tangibles.
+Ça peut être l'apparence d'un magasin,
+
+73
+00:04:33,479 --> 00:04:36,879
+un site web bien conçu, mais aussi les
+avis des autres clients,
+
+74
+00:04:37,019 --> 00:04:40,979
+les témoignages. Ce qui rassure quoi.
+Exactement. Tout ce qui montre
+
+75
+00:04:40,979 --> 00:04:43,879
+concrètement la qualité et qui aide le
+client à se décider.
+
+76
+00:04:44,259 --> 00:04:47,519
+C'est devenu essentiel parce que les gens
+cherchent une expérience complète,
+
+77
+00:04:47,739 --> 00:04:52,279
+pas juste un produit isolé. C'est clair.
+Alors, une fois qu'on a mis tout ça en
+
+78
+00:04:52,299 --> 00:04:56,999
+place, comment on sait si ça fonctionne,
+si ça marche vraiment?
+
+79
+00:04:57,139 --> 00:05:01,019
+Ah, la grande question. C'est là
+qu'interviennent les KPIs.
+
+80
+00:05:01,039 --> 00:05:05,239
+Les indicateurs clés de performance.
+Précisément. Ils sont indispensables pour
+
+81
+00:05:05,279 --> 00:05:08,399
+mesurer l'impact réel de ce qu'on fait.
+Par exemple,
+
+82
+00:05:08,459 --> 00:05:12,039
+le taux de clic, le fameux CTR sur une pub
+en ligne.
+
+83
+00:05:12,179 --> 00:05:15,079
+Ça dit si les gens cliquent dessus. Voilà,
+si elle attire l'œil.
+
+84
+00:05:15,499 --> 00:05:19,819
+Le taux de conversion, lui, mesure combien
+de personnes font ce qu'on attend d'elle,
+
+85
+00:05:19,899 --> 00:05:22,499
+acheter, s'inscrire. Passer à l'action.
+C'est ça.
+
+86
+00:05:22,859 --> 00:05:26,859
+La portée ou reach, ça indique combien de
+personnes différentes ont vu notre
+
+87
+00:05:26,919 --> 00:05:31,019
+message. Et en liant ça aux objectifs
+smart... Comme l'exemple de tout à
+
+88
+00:05:31,019 --> 00:05:35,139
+l'heure. Oui, augmenter la portée des
+posts Instagram de vingt-cinq pour cent en
+
+89
+00:05:35,199 --> 00:05:40,099
+six mois. Ben, on va suivre de près le KPI
+porté sur Instagram pour voir si
+
+90
+00:05:40,119 --> 00:05:43,099
+on attend cet objectif. C'est logique, ça
+permet de piloter.
+
+91
+00:05:43,699 --> 00:05:47,499
+Donc si je résume, pour lancer une
+campagne, en gros c'est,
+
+92
+00:05:47,719 --> 00:05:51,859
+un, définir qui on vise est l'objectif
+SMART. Deux,
+
+93
+00:05:52,159 --> 00:05:54,739
+choisir les bons canaux pour les toucher.
+Oui. Trois,
+
+94
+00:05:55,199 --> 00:05:58,799
+créer le message, le contenu, le slogan,
+le visuel.
+
+95
+00:05:59,259 --> 00:06:03,639
+Quatre, planifier et lancer tout ça. Cinq,
+mesurer avec les bons
+
+96
+00:06:03,679 --> 00:06:08,039
+KPIs. Très important ça. Et six, ben si ça
+marche pas comme on veut,
+
+97
+00:06:08,079 --> 00:06:11,019
+on ajuste, on corrige. Exactement, c'est
+un cycle.
+
+98
+00:06:11,099 --> 00:06:14,799
+Et on voit des exemples créatifs partout.
+Netflix avec Black Mirror,
+
+99
+00:06:15,019 --> 00:06:18,639
+comment il nous plonge dans l'histoire ou
+l'ego qui construit carrément avec sa
+
+100
+00:06:18,699 --> 00:06:22,399
+communauté. Oui, ce sont de bons exemples
+qui montrent qu'il y a plein de manières
+
+101
+00:06:22,419 --> 00:06:25,279
+de faire du marketing efficace et
+engageant. Au final,
+
+102
+00:06:25,479 --> 00:06:28,179
+qu'est-ce qu'il faut retenir de tout ça?
+Le point vraiment central,
+
+103
+00:06:28,339 --> 00:06:31,599
+je pense, c'est qu'un marketing qui
+fonctionne aujourd'hui repose
+
+104
+00:06:31,819 --> 00:06:36,339
+fondamentalement sur l'écoute du client.
+Vraiment écouter
+
+105
+00:06:36,839 --> 00:06:40,099
+et sur une capacité à être flexible, à
+s'ajuster constamment.
+
+106
+00:06:40,219 --> 00:06:42,699
+Piloté par les données. Piloté par les
+données qu'on récolte,
+
+107
+00:06:42,699 --> 00:06:46,159
+oui. Une bonne stratégie, c'est toujours
+un mélange d'objectifs clairs,
+
+108
+00:06:46,239 --> 00:06:50,119
+d'un ciblage précis et d'un suivi
+rigoureux des résultats avec les KPIs.
+
+109
+00:06:50,159 --> 00:06:53,039
+C'est cet ensemble qui fait la différence.
+C'est une excellente synthèse,
+
+110
+00:06:53,219 --> 00:06:56,359
+ça rend les choses beaucoup plus claires.
+Pour terminer et ouvrir un peu la
+
+111
+00:06:56,359 --> 00:07:00,039
+discussion, une question me vient. Je
+t'écoute. Avec tout ce qu'on entend sur
+
+112
+00:07:00,099 --> 00:07:04,839
+l'intelligence artificielle, l'IA, comment
+tu penses que ça pourrait complètement
+
+113
+00:07:04,879 --> 00:07:08,859
+changer la donne pour écouter les clients,
+pour personnaliser les messages dans un
+
+114
+00:07:08,919 --> 00:07:13,459
+futur proche? Ah, c'est la grande
+question. Ça ouvre des perspectives assez
+
+115
+00:07:13,519 --> 00:07:13,888
+folles, non?
