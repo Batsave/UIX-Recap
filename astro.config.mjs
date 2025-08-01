@@ -81,6 +81,8 @@ export default defineConfig({
           items: [
             { label: "Introduction", link: "/marketing/" },
             { label: "Landing Pages", link: "/marketing/landing-page" },
+            { label: "SEO", link: "/marketing/seo" },
+            { label: "Stratégie Social Media", link: "/marketing/strategy-social-media" },
           ],
         },
       ],
