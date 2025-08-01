@@ -32,7 +32,7 @@ export default defineConfig({
         },
         {
           tag: "script",
-          attrs: { type: "module", src: "./src/scripts/highlight.js" },
+          attrs: { type: "module", src: "/scripts/highlight.js" },
         },
       ],
       defaultLocale: "fr",
