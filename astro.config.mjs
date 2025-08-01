@@ -24,7 +24,13 @@ export default defineConfig({
       markdown: {
         rehypePlugins: [rehypeCallouts],
       },
-
+      social: [
+        {
+          icon: "github",
+          label: "GitHub",
+          href: "https://github.com/Batsave/UIX-Recap",
+        },
+      ],
       head: [
         {
           tag: "meta",
@@ -82,7 +88,10 @@ export default defineConfig({
             { label: "Introduction", link: "/marketing/" },
             { label: "Landing Pages", link: "/marketing/landing-page" },
             { label: "SEO", link: "/marketing/seo" },
-            { label: "Stratégie Social Media", link: "/marketing/strategy-social-media" },
+            {
+              label: "Stratégie Social Media",
+              link: "/marketing/strategy-social-media",
+            },
             { label: "RGPD", link: "/marketing/rgpd" },
           ],
         },
