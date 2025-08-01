@@ -54,7 +54,13 @@ export default defineConfig({
 
         {
           label: "Design Thinking",
-          autogenerate: { directory: "design-thinking" },
+          items: [
+            { label: "Introduction", link: "/design-thinking/" },
+            { label: "Définition", link: "/design-thinking/definition" },
+            { label: "Idéation", link: "/design-thinking/ideation" },
+            { label: "Prototypage", link: "/design-thinking/prototyping" },
+            { label: "Tests", link: "/design-thinking/tests" },
+          ],
         },
       ],
     }),

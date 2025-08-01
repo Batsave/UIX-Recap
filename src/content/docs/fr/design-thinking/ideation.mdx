@@ -1,128 +1,140 @@
 ---
-title: Prototypage
-description: "La phase de prototypage permet de transformer une idée en un modèle testable afin de recueillir des retours avant le développement final."
-weight: 4
+title: Idéation
+description: "La phase d’idéation permet de générer un maximum d’idées pour résoudre un problème identifié lors de la phase de définition."
+weight: 3
 ---
 
 import SrtPlayer from "../../../../components/jsx/SrtPlayer.jsx";
 
-> [!INFO] Information  
+> [!INFO] Information
 > Ce Récap' est disponible en podcast audio. (Généré par IA avec NoteBook LM by Google)
 
 <SrtPlayer
   client:only="react"
-  audioSrc="/podcasts/design-thinking/prototypage.m4a"
-  srtUrl="/podcasts/design-thinking/prototypage.srt"
+  audioSrc="/podcasts/design-thinking/ideation.m4a"
+  srtUrl="/podcasts/design-thinking/ideation.srt"
 />
 
-## Objectifs de la phase de prototypage
+## Objectifs de la phase d’idéation
 
-- Comprendre ce qu’est un **prototype** et son utilité
-- Différencier les **prototypes basse fidélité** et **haute fidélité**
-- Connaître les **outils** pour concevoir des prototypes interactifs
-- Comprendre l’intérêt d’un **Design System** et d’un **UI Kit**
-- Savoir comment ces outils aident à **gagner du temps** et à **assurer la cohérence graphique**
+- Comprendre ce qu’est l’idéation dans le Design Thinking
+- Découvrir différentes techniques pour générer des idées
+- Savoir organiser un **brainstorming** et un **brainwriting**
+- Appliquer la technique du **Crazy 8**
+- Utiliser le **mind mapping** pour structurer ses idées
+- Sélectionner et faire converger les idées pour choisir la meilleure à prototyper
 
 ---
 
 ## L’objectif de cette étape
 
-La phase de **prototypage** consiste à **transformer une idée en un modèle testable**, permettant d’obtenir des retours avant d’investir du temps et des ressources dans le produit final.
+La phase d’idéation permet de **générer un maximum d’idées** pour résoudre un problème identifié lors de la phase de **définition**.
 
-### Pourquoi prototyper ?
+Elle se divise en **deux temps** :
 
-- Tester et valider les concepts avant leur développement
-- Corriger rapidement les erreurs de conception
-- Aligner la vision entre designers, développeurs et parties prenantes
-- Optimiser l’ergonomie et la navigation
-- Réduire les coûts en évitant de lourdes modifications en production
+1️. **Divergence** → Générer un grand nombre d’idées sans filtre 2. **Convergence** → Trier et sélectionner les idées les plus pertinentes
 
 ---
 
-## Les différents types de prototypes
+## Techniques d’idéation
 
-### 1. Prototype basse fidélité (Low Fidelity)
+### Le Brainstorming
 
-Un **prototype simplifié** qui représente l’idée générale du produit sans entrer dans les détails graphiques.
+Un atelier où les participants partagent librement leurs idées.
 
-**Caractéristiques :**
+**Règles du brainstorming :**
 
-- Peu détaillé (formes simples, pas de couleurs ni animations)
-- Facile et rapide à créer
-- Idéal pour les premiers tests utilisateurs
-
-**Exemples :**
-
-- Wireframes papier (croquis, schémas)
-- Wireframes numériques (Balsamiq, Figma, MockFlow)
+- Un **facilitateur** encadre la session
+- Un cadre convivial (matériel disponible, bonne ambiance)
+- Un **temps limité** (max 45 minutes)
+- Sélection d’un groupe de **8 à 10 participants**
+- **Encourager toutes les idées**, même les plus folles
+- **Interdiction de critiquer** les propositions
+- **Synthèse finale** pour regrouper les meilleures idées
 
 --
 
-### 2. Prototype haute fidélité (High Fidelity)
+### Le Brainwriting
 
-Un **prototype avancé**, proche du produit final, avec interactions et graphismes.
+Une variante écrite du brainstorming, où les idées sont **notées et partagées anonymement**.
 
-**Caractéristiques :**
+**Méthodes :**
 
-- Graphisme détaillé (couleurs, typographies, branding)
-- Interactions et animations simulées
-- Idéal pour tester l’expérience utilisateur **UX/UI**
-
-**Outils recommandés :**
-
-- Figma (collaboratif et populaire)
-- Adobe XD (design et prototypage interactif)
-- Sketch (exclusif Mac, puissant pour UI/UX)
-- InVision (prototypage et collaboration)
-- Protopie, Axure, Principle (interactions avancées)
-
----
-
-## Design System & UI Kit : Cohérence et gain de temps
-
-### Le Design System
-
-Un **référentiel UX/UI** qui centralise toutes les règles visuelles et fonctionnelles pour assurer la cohérence entre les équipes.
+1. **Brainwriting Pool** : Chaque participant écrit ses idées sur des post-it, puis les autres piochent et les enrichissent.
+2. **Brainwriting 6-3-5** : 6 participants notent **3 idées en 5 minutes**, puis passent leur feuille à un autre participant qui ajoute ou améliore les idées.
 
 **Avantages :**
 
-- Un langage visuel unique
-- Un gain de temps en évitant de recréer des composants
-- Des modifications centralisées appliquées à tous les éléments
-
-**Exemples :**
-
-- [Material 3 (Google)](https://m3.material.io/)
-- Carbon Design System (IBM)
+[x] Évite la peur du jugement
+[x] Encourage toutes les voix à s’exprimer
+[x] Facilite l’approfondissement des idées
 
 --
 
-### Le UI Kit
+### Le Crazy 8
 
-Une **bibliothèque de composants visuels** (boutons, icônes, formulaires…) prêts à l’emploi pour concevoir rapidement des interfaces.
+Une méthode rapide et visuelle pour générer **8 idées en 8 minutes**.
 
-**Différence entre Design System et UI Kit :**
+**Déroulement :**
 
-| Critère  | Design System                    | UI Kit                       |
-| -------- | -------------------------------- | ---------------------------- |
-| Contenu  | Composants + règles d’usage      | Composants visuels statiques |
-| Évolutif | Oui (modifs répercutées partout) | Non (éléments figés)         |
-| Objectif | Cohérence et standardisation     | Rapidité de conception       |
+1️. Une feuille est divisée en **8 cases** 2. Chaque participant **esquisse une idée par case** (1 minute par idée) 3. À la fin, chaque participant **présente ses idées** 4. Un **vote** permet de sélectionner les meilleures idées
 
-> [!INFO] Ressources utiles
-> - [Figma UI Kits](https://www.figma.com/community/search?resource_type=mixed&sort_by=relevancy&query=UI+KIT)
-> - Figma Design Systems (recherche dans la communauté Figma)
+💡 **Idéal pour des solutions visuelles comme des interfaces d’application.**
+
+--
+
+## Le Mind Mapping
+
+Un **schéma visuel** qui organise les idées sous forme d’arborescence.
+
+**Comment faire ?**
+
+1️. Placer le **problème central** au milieu 2. Relier des **idées principales** sous forme de branches 3. Développer chaque idée avec des sous-branches 4. Regrouper et **hiérarchiser les idées**
+
+> [!TIP] Outils recommandés :
+>
+> - **XMind**
+> - **MindMeister**
+> - **Coggle**
+> - **Tableau blanc + post-it**
+
+---
+
+## Sélectionner et faire converger les idées
+
+Après avoir généré de nombreuses idées, il faut **faire un tri** pour choisir **la meilleure à prototyper**.
+
+### Méthodes de convergence
+
+1. **Le vote par post-it**
+
+- Chaque participant vote pour les idées qu’il préfère.
+- Les idées les plus votées passent à l’étape suivante.
+
+2. **Les 4 catégories**
+
+Les idées sont classées selon 4 critères :
+
+- **Le choix rationnel** → L’idée la plus logique
+- **Le choix préféré** → Celle qui plaît le plus aux participants
+- **Le choix du consensus** → Celle qui pourrait convenir à tout le monde
+- **Le choix risqué** → L’idée la plus innovante, mais incertaine
+
+**Objectif final : Identifier la meilleure idée à prototyper et tester**.
 
 ---
 
 ## Résumé Final
 
-- Le **prototypage** permet de tester et d’améliorer un produit avant son développement.
-- Deux types de prototypes :
-  - Basse fidélité → wireframes papier ou digitaux, simples et rapides
-  - Haute fidélité → maquettes interactives proches du produit final
-- Des outils comme **Figma, Adobe XD, Sketch** facilitent la conception interactive.
-- Un **Design System** assure la cohérence visuelle et fonctionnelle.
-- Un **UI Kit** fournit des composants prêts à l’emploi pour accélérer la conception.
+L’**idéation** permet de générer un maximum d’idées avant de choisir la plus pertinente.
+Elle se divise en **deux étapes** : **Divergence** (créativité) et **Convergence** (sélection).
 
-**Prochaine étape : le test utilisateur pour valider et améliorer le prototype avant la mise en production.**
+### Techniques d’idéation :
+
+- **Brainstorming** → Partage libre d’idées en groupe
+- **Brainwriting** → Écriture et amélioration silencieuse des idées
+- **Crazy 8** → 8 idées en 8 minutes sous forme de croquis
+- **Mind Mapping** → Organiser visuellement les idées
+- **Méthodes de sélection** : **Vote par post-it** ou **classement en 4 catégories**
+
+**L’objectif est d’aboutir à une idée forte et viable pour la phase suivante : le prototypage !**
