@@ -1,448 +1,484 @@
 1
-00:00:00,079 --> 00:00:02,999
-Bienvenue. On s'est tous déjà retrouvés
-face à ce défi.
+00:00:00,099 --> 00:00:04,199
+Bienvenue. Aujourd'hui, on va explorer
+ensemble une méthode.
 
 2
-00:00:03,379 --> 00:00:05,879
-Un essai, on a une idée, elle a l'air top,
-mais bon,
+00:00:05,199 --> 00:00:10,119
+Une méthode assez structurée pour aller
+plus vite en conception de projet,
 
 3
-00:00:06,179 --> 00:00:09,279
-comment être sûr qu'elle va marcher sans y
-passer des mois et des mois?
+00:00:10,340 --> 00:00:12,479
+pour la prise de décision aussi
+d'ailleurs. Oui,
 
 4
-00:00:09,619 --> 00:00:12,439
-Oui, c'est la grande question. Exactement.
-Alors aujourd'hui,
+00:00:12,479 --> 00:00:17,420
+pour accélérer en fait. L'idée, c'est de
+passer de la compréhension des besoins
 
 5
-00:00:12,460 --> 00:00:15,500
-on va creuser un peu le prototypage et les
-tests utilisateurs.
+00:00:18,059 --> 00:00:21,780
+à une idée qu'on peut prototyper. Et tout
+ça très vite.
 
 6
-00:00:15,859 --> 00:00:19,520
-Euh, vraiment le cœur des sprints design.
-On s'appuie pour ça sur des éléments du
+00:00:21,879 --> 00:00:25,159
+D'accord. Et pour ça, on se base sur quoi?
+Sur un document,
 
 7
-00:00:19,539 --> 00:00:23,159
-guide Prototype et test utilisateur, le
-cœur du sprint.
+00:00:25,180 --> 00:00:29,099
+c'est ça? Oui, des extraits d'un document
+qui s'appelle conception et prise de
 
 8
-00:00:23,239 --> 00:00:26,680
-Un guide assez éclairant là-dessus.
-L'idée, c'est de voir comment on peut,
+00:00:29,139 --> 00:00:32,558
+décision rapide. Ok. Donc notre mission,
+si on peut dire,
 
 9
-00:00:26,680 --> 00:00:29,339
-euh, créer un prototype qui tienne la
-route, mais vite,
+00:00:32,919 --> 00:00:35,659
+c'est de décortiquer un peu ce processus.
+C'est ça.
 
 10
-00:00:29,760 --> 00:00:33,400
-et le tester avec de vrais utilisateurs
-pour, ben pour prendre les bonnes
+00:00:35,939 --> 00:00:40,580
+Voir comment ça aide une équipe à
+s'aligner, à décider sans
 
 11
-00:00:33,419 --> 00:00:37,079
-décisions. Et surtout, rapidement. Voilà.
-Alors, la question,
+00:00:41,379 --> 00:00:44,279
+s'embourber. Parfait. Alors, commençons
+par le début,
 
 12
-00:00:37,079 --> 00:00:40,839
-c'est : comment on passe de cette idée un
-peu abstraite à un truc concret,
+00:00:44,599 --> 00:00:48,779
+la phase de compréhension. Le document
+parle de lightning talks.
 
 13
-00:00:41,059 --> 00:00:43,779
-testable et ça, en quelques jours
-seulement? Ben,
+00:00:49,219 --> 00:00:54,199
+C'est quoi exactement? En gros, c'est
+chaque personne clé partage très vite
 
 14
-00:00:43,799 --> 00:00:48,259
-ça commence souvent par une mise au point
-essentielle. Le fameux user test flow.
+00:00:54,199 --> 00:00:58,019
+sa vision. Sa vision du projet, des
+utilisateurs, des enjeux.
 
 15
-00:00:48,279 --> 00:00:52,139
-Sa version et puis il y a un vote pour
-qu'on se mette tous d'accord sur un seul
+00:00:58,319 --> 00:01:00,499
+Voilà, pour que tout le monde parte de la
+même base.
 
 16
-00:00:52,139 --> 00:00:55,739
-parcours à tester. Ah oui, c'est euh,
-c'est crucial pour que tout le monde
+00:01:00,799 --> 00:01:03,979
+C'est une mise à niveau collective, mais
+super rapide.
 
 17
-00:00:55,739 --> 00:00:58,779
-regarde dans la même direction, j'imagine,
-pour pas partir dans tous les sens.
+00:01:04,019 --> 00:01:08,419
+D'accord. Et après cette mise à niveau? Il
+y a souvent un truc très intéressant qui
 
 18
-00:00:58,899 --> 00:01:02,739
-Exactement. Et cette vision commune, elle
-alimente directement la suite,
+00:01:08,419 --> 00:01:13,119
+suit, la technique How Might We, HMW. HMW?
+Comment
 
 19
-00:01:02,799 --> 00:01:06,299
-le storyboard. Le storyboard, on pense
-tout de suite à des dessins hyper shadés,
+00:01:13,199 --> 00:01:16,879
+pourrions-nous? Exactement. Au lieu de
+juste lister les problèmes,
 
 20
-00:01:06,299 --> 00:01:09,579
-non? Pas du tout. Enfin, ça peut, mais
-c'est pas le but.
+00:01:16,899 --> 00:01:21,619
+on les reformule en question. Oui, genre?
+Genre : comment pourrions-nous faire telle
 
 21
-00:01:09,679 --> 00:01:12,399
-L'objectif, c'est de visualiser ce
-parcours précis,
+00:01:21,619 --> 00:01:25,119
+action pour tel utilisateur afin
+d'attendre tel résultat?
 
 22
-00:01:12,539 --> 00:01:16,379
-écran par écran, interaction par
-interaction. Ça oblige à penser très
+00:01:25,379 --> 00:01:30,179
+C'est malin, ça. Ça change la perspective.
+Complètement. Ça transforme un obstacle en
 
 23
-00:01:16,399 --> 00:01:19,339
-concrètement. Qu'est-ce qu'on montre?
-Comment l'utilisateur passe d'une étape à
+00:01:30,679 --> 00:01:33,859
+opportunité, en défi créatif, en fait.
+J'aime bien l'idée.
 
 24
-00:01:19,359 --> 00:01:22,659
-l'autre? Ok, donc la clarté avant
-l'esthétique à ce stade.
+00:01:34,299 --> 00:01:37,779
+Mais si on a plein de post-it HMW, comment
+on choisit?
 
 25
-00:01:22,659 --> 00:01:26,259
-C'est exactement ça, la clarté sur les
-interactions clés.
+00:01:38,059 --> 00:01:41,839
+On risque pas de se noyer? Justement, non.
+Il y a une étape pour converger.
 
 26
-00:01:26,519 --> 00:01:29,679
-Bon, une fois qu'on a cette espèce de BD
-du parcours,
+00:01:42,059 --> 00:01:44,839
+D'abord, on les regroupe par thème. C'est
+l'affinity mapping.
 
 27
-00:01:29,839 --> 00:01:33,179
-euh, il faut lui donner vie. C'est le
-prototypage. Oui.
+00:01:44,919 --> 00:01:49,419
+Le regroupement par affinité. D'accord.
+Rien que de voir les groupes apparaître,
 
 28
-00:01:33,759 --> 00:01:37,019
-Et là, le point important, c'est le
-réalisme de l'expérience,
+00:01:49,499 --> 00:01:54,459
+ça aide déjà. Et ensuite, on vote le HMW
+voting. Avec des
 
 29
-00:01:37,319 --> 00:01:41,159
-pas forcément la perfection visuelle. Ha,
-intéressant. Donc,
+00:01:54,519 --> 00:01:58,079
+pastilles, j'imagine? Oui, souvent trois
+pastilles par personne.
 
 30
-00:01:41,179 --> 00:01:45,339
-on se concentre sur le fonctionnel. Mhmm.
-Sur ce que la personne peut faire avec le
+00:01:58,459 --> 00:02:02,519
+Ça oblige à prioriser. L'équipe choisit
+collectivement les défis les plus
 
 31
-00:01:45,339 --> 00:01:48,959
-prototype. Tout à fait. Il faut que ça
-simule l'utilisation réelle.
+00:02:02,559 --> 00:02:05,999
+importants en se concentrant. On canalise
+l'énergie dès le début.
 
 32
-00:01:49,599 --> 00:01:52,759
-Pour les outils, bon, on pense à Figma,
-Adobe XD.
+00:02:06,699 --> 00:02:10,499
+La source parle aussi d'un long term goal,
+un objectif à long terme.
 
 33
-00:01:53,039 --> 00:01:57,999
-Les classiques. Oui, mais le guide
-rappelle que même PowerPoint ou Keynote,
+00:02:10,758 --> 00:02:13,819
+Oui, c'est ça. On définit un objectif,
+disons, à deux ans.
 
 34
-00:01:58,019 --> 00:02:01,399
-ça peut faire l'affaire pour démarrer,
-surtout si l'équipe n'a pas de designer
+00:02:14,139 --> 00:02:17,439
+Il est voté aussi et le décideur final a
+le dernier mot.
 
 35
-00:02:01,399 --> 00:02:04,299
-sous la main. D'accord. Et on se répartit
-les tâches?
+00:02:17,519 --> 00:02:21,959
+Pour garder le cap? Exactement. Il y a
+aussi les lightning démos.
 
 36
-00:02:04,679 --> 00:02:08,318
-Qui fait quoi? Oui, il y a souvent
-quelqu'un pour l'interface,
+00:02:22,159 --> 00:02:26,659
+Des démos rapides? Pour s'inspirer. Tout à
+fait. On regarde vite fait des solutions
 
 37
-00:02:08,419 --> 00:02:11,639
-quelqu'un pour les textes, les images, et
-très important,
+00:02:26,719 --> 00:02:29,819
+qui existent déjà, même dans d'autres
+domaines. Pas pour copier.
 
 38
-00:02:11,959 --> 00:02:15,999
-préparer un script pour guider les tests
-utilisateurs. Les fameux tests IT.
+00:02:29,899 --> 00:02:34,339
+Non, juste pour... Pour ouvrir l'esprit,
+pour déclencher des idées neuves avant de
 
 39
-00:02:16,279 --> 00:02:18,999
-Le moment de vérité, quoi. Complètement.
-Et là,
+00:02:34,339 --> 00:02:37,879
+commencer à dessiner soi-même. C'est une
+petite piqûre d'inspiration.
 
 40
-00:02:19,019 --> 00:02:22,059
-il y a un chiffre qui revient souvent et
-qui est assez fascinant : cinq
+00:02:38,119 --> 00:02:41,599
+Ok, donc on est inspiré, focalisé. On
+passe à la suite.
 
 41
-00:02:22,219 --> 00:02:26,799
-utilisateurs. Cinq? Seulement? Oui, cinq
-utilisateurs bien ciblés suffiraient
+00:02:41,879 --> 00:02:46,819
+L'esquisse. Le sketch. Voilà. Après un peu
+de prise de note et quelques brouillons.
 
 42
-00:02:26,919 --> 00:02:30,479
-apparemment pour dénicher quelque chose
-comme quatre-vingt pour cent des problèmes
+00:02:46,819 --> 00:02:51,179
+On arrive au fameux Crazy Eights. Huit
+idées en huit minutes.
 
 43
-00:02:30,499 --> 00:02:34,619
-d'utilisabilité majeure. Incroyable. Petit
-effort, gros impact.
+00:02:51,519 --> 00:02:56,139
+Ça a l'air intense. C'est intense, oui,
+mais c'est fait exprès.
 
 44
-00:02:34,979 --> 00:02:38,739
-C'est l'idée. Et ces tests, ils ont trois
-buts : observer l'utilisateur sans le
+00:02:56,179 --> 00:02:59,959
+Pourquoi cette pression? Ça force à aller
+au-delà des premières idées souvent les
 
 45
-00:02:38,759 --> 00:02:42,799
-biaiser, euh, recueillir ses réactions à
-chaud et puis pouvoir présenter ses
+00:02:59,959 --> 00:03:03,599
+plus évidentes. En devant sortir huit
+concepts, même très simples,
 
 46
-00:02:42,859 --> 00:02:45,719
-retours à l'équipe. Et il y a une
-structure type pour ces entretiens?
+00:03:03,619 --> 00:03:07,019
+en si peu de temps. On n'a pas le temps de
+trop réfléchir ou de se critiquer.
 
 47
-00:02:45,719 --> 00:02:50,039
-Oui, on parle souvent de la five-act
-interview. En gros,
+00:03:07,079 --> 00:03:11,099
+Exactement. Ça court-circuite
+l'autocensure. C'est la quantité qui prime
 
 48
-00:02:50,059 --> 00:02:53,279
-euh, ben un accueil pour mettre à l'aise,
-quelques questions de contexte,
+00:03:11,099 --> 00:03:14,359
+ici, la divergence. C'est vraiment pour
+débloquer la créativité.
 
 49
-00:02:53,419 --> 00:02:57,059
-on présente le prototype, on demande de
-faire des tâches précises avec et on finit
+00:03:14,439 --> 00:03:17,199
+Et on fait quoi de ces huit idées après?
+On les partage très vite,
 
 50
-00:02:57,059 --> 00:02:59,699
-par un débrief. Et le consentement,
-j'imagine? Ah oui,
+00:03:17,299 --> 00:03:20,699
+trois minutes max par personne et hop, un
+petit vote rapide,
 
 51
-00:03:00,039 --> 00:03:02,979
-fondamental. Toujours demander l'accord
-avant d'enregistrer,
+00:03:20,819 --> 00:03:23,839
+encore avec des pastilles, pour repérer
+les pistes qui semblent les plus
 
 52
-00:03:02,979 --> 00:03:07,979
-que ce soit audio ou vidéo. C'est la base.
-Ok, donc on a fait nos cinq entretiens,
+00:03:23,839 --> 00:03:26,719
+prometteuses. D'accord. Et ces pistes,
+elles mènent où?
 
 53
-00:03:08,299 --> 00:03:11,799
-on a plein de notes, d'enregistrements.
-Comment on s'y retrouve?
+00:03:26,999 --> 00:03:31,959
+Au solution sketch? C'est ça. Le solution
+sketch, c'est une esquisse détaillée
 
 54
-00:03:12,559 --> 00:03:15,079
-Ça doit être un peu le chaos, non? Ça peut
-vite le devenir.
+00:03:31,959 --> 00:03:35,239
+d'une solution. Le parcours utilisateur,
+les écrans,
 
 55
-00:03:15,599 --> 00:03:18,239
-C'est pour ça qu'il y a des outils simples
-pour structurer tout ça.
+00:03:35,239 --> 00:03:39,939
+les fonctions, même un peu de texte. Et le
+document insiste sur deux points : anonyme
 
 56
-00:03:18,459 --> 00:03:21,799
-Le feedback wall, par exemple. Un mur de
-retour. Ouais,
+00:03:40,059 --> 00:03:44,059
+et détaillé. Pourquoi? Alors, détaillé,
+c'est pour qu'on puisse vraiment évaluer
 
 57
-00:03:21,819 --> 00:03:26,719
-un tableau physique ou virtuel où on colle
-des post-it ou des notes regroupées par
+00:03:44,079 --> 00:03:47,839
+le concept, qu'il soit assez concret.
+Logique. Et l'anonymat.
 
 58
-00:03:26,819 --> 00:03:30,139
-testeurs et par points observés. Ça permet
-de visualiser.
+00:03:48,639 --> 00:03:51,919
+Ça, c'est crucial pour la phase suivante,
+la décision.
 
 59
-00:03:30,139 --> 00:03:34,319
-Et il y a aussi la Voltage-controlled
-scorecard. J'ai lu ça.
+00:03:52,279 --> 00:03:55,799
+Ça permet de juger l'idée pour ce qu'elle
+est. Peu importe si c'est le chef ou le
 
 60
-00:03:34,499 --> 00:03:37,979
-Oui, c'est encore plus simple. Un tableur
-partagé, tout bête.
+00:03:55,879 --> 00:03:58,819
+stagiaire qui l'a dessiné. On évite les
+biais. Très clair.
 
 61
-00:03:37,979 --> 00:03:41,839
-Pour chaque hypothèse qu'on voulait
-tester, l'équipe met juste une coche si
+00:03:59,119 --> 00:04:03,859
+On arrive donc à cette phase de décision.
+Comment on passe de toutes ces esquisses à
 
 62
-00:03:41,839 --> 00:03:45,679
-c'est validé, une croix si c'est invalidé
-ou un point d'interrogation si c'est pas
+00:04:03,859 --> 00:04:08,179
+une seule? Encore une fois, c'est très
+structuré pour éviter les discussions qui
 
 63
-00:03:45,739 --> 00:03:49,519
-clair. Malin. Ça permet d'avoir une vue
-d'ensemble très rapide des tendances.
+00:04:08,179 --> 00:04:12,999
+n'en finissent pas. D'abord, on affiche
+tout. Comme un art museum.
 
 64
-00:03:49,519 --> 00:03:54,499
-Exactement. Analyse rapide et collective.
-Si on prend un peu de hauteur sur tout ça,
+00:04:13,119 --> 00:04:17,139
+Un musée d'art. Chacun regarde en silence.
+Oui. Puis,
 
 65
-00:03:54,499 --> 00:03:57,319
-quels sont les grands principes à retenir
-de cette approche sprint?
+00:04:17,279 --> 00:04:21,639
+c'est le heatmap, la carte de chaleur. Les
+gens collent des pastilles,
 
 66
-00:03:57,319 --> 00:04:00,179
-Ben, il y en a quelques-uns qui ressortent
-fort. D'abord,
+00:04:21,639 --> 00:04:25,059
+là, souvent sans limite, sur les parties
+d'esquisses qu'ils aiment bien.
 
 67
-00:04:00,319 --> 00:04:03,619
-l'utilisateur est vraiment au centre de
-tout. C'est pour lui qu'on fait ça.
+00:04:25,259 --> 00:04:28,939
+Pas sur l'esquisse entière, juste sur des
+éléments. Exactement.
 
 68
-00:04:03,999 --> 00:04:08,159
-Ensuite, hum, le sprint, c'est de la
-collaboration à fond et des décisions
+00:04:29,159 --> 00:04:31,619
+C'est ça qui est malin. On repère les
+bonnes idées,
 
 69
-00:04:08,159 --> 00:04:11,399
-rapides. On cherche pas la perfection, on
-cherche à avancer.
+00:04:31,619 --> 00:04:34,439
+les petits trucs intéressants, où qu'ils
+soient. On ne jugeait pas encore le
 
 70
-00:04:11,419 --> 00:04:14,419
-Et le prototype n'est qu'un outil, pas une
-fin en soi.
+00:04:34,499 --> 00:04:37,639
+concept global. Intéressant. Et après
+cette carte de chaleur?
 
 71
-00:04:14,419 --> 00:04:17,478
-Précisément. C'est un outil pour valider
-une idée.
+00:04:37,779 --> 00:04:41,219
+On fait une speed critique, très rapide,
+deux minutes par esquisse.
 
 72
-00:04:17,738 --> 00:04:21,579
-Et enfin, un point clé : le test, ça ne
-s'arrête pas à la fin du sprint.
+00:04:41,499 --> 00:04:44,279
+On verbalise les points forts qui
+ressortent du heatmap.
 
 73
-00:04:21,759 --> 00:04:24,879
-C'est un processus continu. Et le bénéfice
-numéro un,
+00:04:44,399 --> 00:04:48,959
+D'accord. Ensuite, le dot voting. Là,
+chaque personne vote pour,
 
 74
-00:04:24,919 --> 00:04:27,059
-c'est sans doute le gain de temps, non? On
-le mentionnait au début.
+00:04:48,959 --> 00:04:51,439
+disons, les deux solutions complètes
+qu'elle préfère.
 
 75
-00:04:27,059 --> 00:04:31,519
-Ha oui, c'est colossal. Pouvoir confirmer
-ou infirmer une piste en quelques jours,
+00:04:51,759 --> 00:04:54,339
+Ça fait émerger les concepts globalement
+les plus solides.
 
 76
-00:04:31,799 --> 00:04:34,779
-ça peut faire économiser des mois de
-développement qui seraient partis dans le
+00:04:54,419 --> 00:04:57,579
+Et pour finir, il y a le super vote, c'est
+ça? Le vote décisif.
 
 77
-00:04:34,859 --> 00:04:37,759
-mur. C'est énorme quand on y pense. Pour
-résumer l'idée,
+00:04:57,619 --> 00:05:01,399
+Voilà. Le décideur qui a été désigné au
+début a le dernier mot.
 
 78
-00:04:38,259 --> 00:04:42,759
-le prototypage rend la vision concrète et
-les tests disent très vite si ça tient la
+00:05:01,619 --> 00:05:04,179
+Il ou elle a trois votes spéciaux qui
+pèsent plus lourds.
 
 79
-00:04:42,799 --> 00:04:46,499
-route pour les utilisateurs. Simple, mais
-puissant. En clair,
+00:05:04,299 --> 00:05:08,959
+Donc, même après tout ce processus
+collaboratif, il y a une décision
 
 80
-00:04:46,879 --> 00:04:50,899
-c'est une méthode pour confronter très tôt
-ses idées à la réalité et éviter de
+00:05:09,079 --> 00:05:13,479
+claire à la fin. Oui, ça combine
+l'intelligence collective et une décision
 
 81
-00:04:50,919 --> 00:04:53,559
-construire des usines à gaz inutiles. Tout
-à fait.
+00:05:13,499 --> 00:05:17,579
+assumée alignée sur la stratégie. Donc, si
+on récapitule les points forts,
 
 82
-00:04:54,119 --> 00:04:57,639
-Et d'ailleurs, pour aller un peu plus
-loin, le fait que les sources insistent
+00:05:18,459 --> 00:05:21,479
+L'équipe est super impliquée. Ça crée une
+vision commune.
 
 83
-00:04:57,639 --> 00:05:01,459
-sur le besoin de tester même après le
-sprint, ça ouvre une réflexion,
+00:05:22,019 --> 00:05:24,879
+On génère plein d'idées en se stimulant
+mutuellement. Oui,
 
 84
-00:05:01,459 --> 00:05:05,739
-je trouve. C'est-à-dire? Ben, on peut se
-demander comment une intégration plus
+00:05:25,019 --> 00:05:29,179
+beaucoup d'idées. Et surtout, on arrive à
+une décision rapide et partagée grâce à
 
 85
-00:05:05,879 --> 00:05:09,819
-systématique, plus continue des tests
-utilisateurs, au-delà de ces moments
+00:05:29,219 --> 00:05:32,159
+ces votes structurés. C'est ça qui est
+fort. Absolument.
 
 86
-00:05:09,839 --> 00:05:14,179
-ponctuels de sprint, pourrait transformer
-encore plus profondément la manière dont
+00:05:32,599 --> 00:05:36,839
+Pour quelqu'un qui cherche une structure
+pour traiter l'info et décider sans se
 
 87
-00:05:14,199 --> 00:05:18,399
-on développe les produits. Comment ça
-pourrait rendre les équipes encore plus
+00:05:36,859 --> 00:05:40,439
+sentir dépassé, c'est assez idéal.
+L'efficacité de la convergence,
 
 88
-00:05:18,639 --> 00:05:23,239
-agiles au quotidien? Bonne question.
-Intégrer l'écoute utilisateur de façon
+00:05:40,439 --> 00:05:43,919
+comme tu disais. Oui, on part large et on
+arrive à un truc concret,
 
 89
-00:05:23,339 --> 00:05:27,179
-plus permanente. Une belle piste à
-explorer. Merci beaucoup pour cet échange
+00:05:43,959 --> 00:05:46,919
+actionnable, en peu de temps. C'est une
+belle mécanique.
 
 90
-00:05:27,179 --> 00:05:28,260
-éclairant. Merci à toi.
+00:05:46,919 --> 00:05:50,159
+Bon, voilà une exploration intéressante de
+cette méthode rapide.
+
+91
+00:05:50,639 --> 00:05:53,899
+Ça semble très efficace pour passer de
+l'incertitude. Tout à fait.
+
+92
+00:05:53,999 --> 00:05:58,079
+Et ça laisse quand même une petite
+question en suspens pour la réflexion.
+
+93
+00:05:58,079 --> 00:06:02,979
+Oui, laquelle? L'anonymat, au début, c'est
+super pour l'objectivité
+
+94
+00:06:03,019 --> 00:06:07,039
+sur les idées elles-mêmes. Mais est-ce que
+cette objectivité tient vraiment jusqu'au
+
+95
+00:06:07,059 --> 00:06:11,059
+bout? Surtout avec le poids du super vote
+final du décideur.
+
+96
+00:06:11,439 --> 00:06:15,959
+C'est un équilibre intéressant entre la
+collaboration et l'autorité,
+
+97
+00:06:15,959 --> 00:06:19,460
+finalement? Question intéressante, en
+effet. De quoi réfléchir.
