@@ -70,6 +70,12 @@ export default defineConfig({
             { label: "Storyboarding, Prototypage & Tests", link: "/design-sprint/storyboarding-prototyping-testing" },
           ],
         },
+        {
+          label: "Marketing",
+          items: [
+            { label: "Introduction", link: "/marketing/" },
+          ],
+        },
       ],
     }),
   ],
