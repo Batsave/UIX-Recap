@@ -1,0 +1,453 @@
+1
+00:00:00,079 --> 00:00:03,459
+Vous savez, cette sensation qu'on a
+parfois en ligne,
+
+2
+00:00:03,939 --> 00:00:08,859
+que tout semble fait exprès pour nous. Ah
+oui, comme si le site devinait ce qu'on
+
+3
+00:00:08,859 --> 00:00:12,879
+cherche. Exactement. Ça devient presque
+euh, la norme,
+
+4
+00:00:13,039 --> 00:00:16,399
+non? Ben, c'est tout l'enjeu de la
+personnalisation de l'expérience
+
+5
+00:00:16,440 --> 00:00:20,819
+utilisateur, l'UX, comme on dit. L'idée,
+c'est vraiment d'adapter ce qu'on voit,
+
+6
+00:00:21,139 --> 00:00:24,879
+l'interface, le contenu, même les
+fonctions. En fonction de qui on est.
+
+7
+00:00:24,879 --> 00:00:28,019
+C'est ça. Selon nos préférences, ce qu'on
+a fait avant sur le site,
+
+8
+00:00:28,019 --> 00:00:32,418
+nos caractéristiques, voilà. D'accord.
+Donc, on quitte l'expérience un peu taille
+
+9
+00:00:32,439 --> 00:00:35,380
+unique pour aller vers quelque chose de
+très personnel,
+
+10
+00:00:35,380 --> 00:00:38,639
+presque unique à chacun. Tout à fait. Et
+c'est ce qu'on explore aujourd'hui en
+
+11
+00:00:38,659 --> 00:00:43,020
+s'appuyant sur nos notes. On essaye de
+comprendre comment on passe du
+
+12
+00:00:43,079 --> 00:00:47,259
+standard au sur mesure et euh, pourquoi
+c'est si important maintenant.
+
+13
+00:00:47,279 --> 00:00:50,420
+Ah, c'est devenu crucial, oui. Les
+bénéfices sont assez nets pour les
+
+14
+00:00:50,439 --> 00:00:54,339
+entreprises. Souvent, ça fait grimper les
+conversions. Les ventes,
+
+15
+00:00:54,520 --> 00:00:58,699
+donc? Oui, les ventes, l'engagement, mais
+aussi la fidélité des utilisateurs,
+
+16
+00:00:58,819 --> 00:01:01,459
+leur satisfaction globale. Il y a eu une
+étude d'Accenture,
+
+17
+00:01:01,459 --> 00:01:05,379
+bon, elle date un peu, 2017, mais elle
+montrait déjà que soixante-cinq pour cent
+
+18
+00:01:05,379 --> 00:01:08,919
+des consommateurs étaient plus tentés
+d'acheter si l'expérience était
+
+19
+00:01:08,919 --> 00:01:11,499
+personnalisée pour eux. Soixante-cinq pour
+cent, c'est énorme.
+
+20
+00:01:11,619 --> 00:01:14,779
+Ça marque bien le coup. Mais à part la
+conversion, est-ce qu'il y a d'autres
+
+21
+00:01:14,819 --> 00:01:19,019
+aspects peut-être moins directs? Si, bien
+sûr. Une bonne personnalisation,
+
+22
+00:01:19,119 --> 00:01:23,019
+ça rend tout plus fluide, en fait. Ça peut
+réduire le temps qu'on passe à chercher un
+
+23
+00:01:23,019 --> 00:01:26,179
+truc ou à se décider. Ça simplifie la
+navigation. Voilà.
+
+24
+00:01:26,519 --> 00:01:29,419
+Moins de charge mentale. On se sent moins
+perdu dans une masse d'infos.
+
+25
+00:01:29,779 --> 00:01:31,659
+On est un peu guidé vers ce qui nous
+intéresse vraiment.
+
+26
+00:01:31,859 --> 00:01:34,679
+Je vois. Mais alors, concrètement,
+qu'est-ce qui change?
+
+27
+00:01:35,159 --> 00:01:38,859
+Comment ça marche euh, sous le capot?
+Alors, les adaptations,
+
+28
+00:01:38,899 --> 00:01:42,119
+elles sont assez variées. Le plus visible,
+c'est le contenu.
+
+29
+00:01:42,599 --> 00:01:45,219
+On va vous suggérer des articles, des
+produits, euh,
+
+30
+00:01:45,299 --> 00:01:48,519
+des vidéos, en fonction de ce que vous
+avez déjà regardé ou acheté.
+
+31
+00:01:48,599 --> 00:01:52,239
+D'accord. Ça, on le voit souvent. Oui,
+mais ça peut être aussi l'interface
+
+32
+00:01:52,239 --> 00:01:55,699
+elle-même. Par exemple, un thème sombre
+qui s'active tout seul le soir.
+
+33
+00:01:55,779 --> 00:01:58,819
+Ah, oui. Ou des tailles de police plus
+grandes pour l'accessibilité.
+
+34
+00:01:59,299 --> 00:02:03,119
+Ça peut être aussi la communication, des
+notifications, mais vraiment ciblées.
+
+35
+00:02:03,499 --> 00:02:07,239
+Pas juste un message générique. Ou même
+l'affichage qui change selon l'endroit où
+
+36
+00:02:07,259 --> 00:02:11,239
+en est, ou si en a déjà vu une page.
+Exactement. Et pour faire tout ça,
+
+37
+00:02:11,239 --> 00:02:14,019
+j'imagine qu'il faut des informations sur
+nous, les utilisateurs?
+
+38
+00:02:14,019 --> 00:02:17,899
+Ah ben oui, forcément. On utilise
+plusieurs types de données.
+
+39
+00:02:18,279 --> 00:02:21,279
+D'abord, les données qu'on donne
+nous-mêmes, volontairement.
+
+40
+00:02:21,859 --> 00:02:25,619
+Le profil, les préférences qu'on
+enregistre. On appelle ça les données
+
+41
+00:02:25,779 --> 00:02:29,539
+déclaratives. Ok. Ensuite, il y a les
+données comportementales.
+
+42
+00:02:30,139 --> 00:02:33,399
+Ça, c'est ce qu'on fait sur le site, où on
+clique, ce qu'on achète,
+
+43
+00:02:33,799 --> 00:02:37,159
+le temps qu'on passe sur telle ou telle
+page. Ce que le site observe,
+
+44
+00:02:37,159 --> 00:02:40,479
+en somme. C'est ça. Et puis, il y a les
+données contextuelles.
+
+45
+00:02:40,919 --> 00:02:44,819
+Quel appareil on utilise? Mobile, ordi. Où
+on se trouve,
+
+46
+00:02:45,359 --> 00:02:47,799
+à quel moment de la journée. Mh. Mh. Et
+bien sûr,
+
+47
+00:02:47,799 --> 00:02:50,359
+pour les entreprises qui en ont, les
+données du CRM,
+
+48
+00:02:50,539 --> 00:02:54,319
+le système de gestion client, qui
+permettent de classer les utilisateurs en
+
+49
+00:02:54,319 --> 00:02:57,079
+groupes, en segments. D'accord, ça fait
+beaucoup de sources de données.
+
+50
+00:02:57,239 --> 00:02:59,779
+Oui, et tout ça alimente des mécanismes
+assez concrets.
+
+51
+00:02:59,779 --> 00:03:04,419
+Le petit « Bonjour Léa », quand on se
+connecte, ça utilise le prénom du compte.
+
+52
+00:03:04,779 --> 00:03:08,499
+Simple, mais efficace. Ou revoir un
+produit qu'on a consulté la veille.
+
+53
+00:03:08,999 --> 00:03:12,719
+Ça, c'est l'historique de navigation. Mais
+la technologie derrière,
+
+54
+00:03:12,739 --> 00:03:16,239
+elle est plus poussée. Les cookies qui
+gardent en mémoire des choix,
+
+55
+00:03:16,619 --> 00:03:20,099
+les tests A/B pour voir quelle version
+d'une page personnalisée marche le mieux.
+
+56
+00:03:20,399 --> 00:03:24,059
+Et euh, l'intelligence artificielle, elle
+doit jouer un rôle de plus en plus
+
+57
+00:03:24,059 --> 00:03:28,899
+important là-dedans? Ah oui, tout à fait.
+L'IA, elle va plus loin que juste regarder
+
+58
+00:03:28,899 --> 00:03:32,999
+l'historique direct. Elle analyse les
+parcours de milliers d'autres utilisateurs
+
+59
+00:03:33,019 --> 00:03:37,199
+qui nous ressemblent. Pour essayer de
+deviner? Pour essayer de prédire nos
+
+60
+00:03:37,219 --> 00:03:41,839
+besoins, nos envies futures. Parfois même
+avant qu'on en soit vraiment conscients
+
+61
+00:03:41,839 --> 00:03:45,599
+nous-mêmes. C'est là que ça devient très
+puissant et aussi un peu plus complexe,
+
+62
+00:03:45,599 --> 00:03:49,179
+forcément. Et cette collecte massive,
+cette utilisation prédictive,
+
+63
+00:03:49,679 --> 00:03:52,139
+ça nous amène directement à la question de
+l'éthique, non?
+
+64
+00:03:52,259 --> 00:03:54,979
+Le consentement, les limites, c'est le
+point crucial.
+
+65
+00:03:55,479 --> 00:03:58,959
+Indispensable même. En Europe, on a le
+RGPD qui est très clair là-dessus.
+
+66
+00:03:59,399 --> 00:04:02,739
+Il faut informer l'utilisateur. Point.
+Quelles données on collecte,
+
+67
+00:04:02,879 --> 00:04:06,239
+pour quoi faire. Et surtout, il faut
+obtenir un consentement clair,
+
+68
+00:04:06,459 --> 00:04:10,259
+libre. Et ne pas tout prendre non plus,
+j'imagine. Exactement.
+
+69
+00:04:10,679 --> 00:04:14,639
+Le principe clé, c'est la pertinence. On
+ne collecte que ce qui est vraiment utile
+
+70
+00:04:14,919 --> 00:04:17,798
+pour améliorer l'expérience qu'on a
+promise. Pas plus.
+
+71
+00:04:17,798 --> 00:04:20,839
+Et puis, il faut laisser le contrôle à
+l'usivisateur, c'est ça?
+
+72
+00:04:21,119 --> 00:04:25,019
+Pouvoir voir ses données, changer ses
+préférences. Ou retirer son consentement,
+
+73
+00:04:25,019 --> 00:04:29,599
+oui. Facilement. C'est fondamental.
+J'avais noté une phrase qui résume bien ça
+
+74
+00:04:29,599 --> 00:04:33,499
+ : Un bon design personnalisé n'envahit
+pas, il accompagne.
+
+75
+00:04:33,499 --> 00:04:36,779
+Il accompagne. J'aime bien cette idée.
+Trouver cet équilibre,
+
+76
+00:04:36,839 --> 00:04:40,199
+c'est tout l'enjeu. C'est ça, tout l'art
+d'une personnalisation réussie.
+
+77
+00:04:40,199 --> 00:04:43,819
+Donc, on comprend bien que la
+personnalisation, ce n'est plus juste un
+
+78
+00:04:43,819 --> 00:04:48,439
+petit plus, un gadget. C'est devenu un
+levier essentiel pour rendre l'expérience
+
+79
+00:04:48,459 --> 00:04:52,299
+en ligne plus fluide, plus humaine et plus
+engageante au final?
+
+80
+00:04:52,299 --> 00:04:56,919
+Oui, ça crée un sentiment de proximité et
+de reconnaissance qu'on s'est bien fait.
+
+81
+00:04:57,179 --> 00:05:01,259
+On a l'impression que le service nous
+comprend. Et en réduisant les obstacles et
+
+82
+00:05:01,279 --> 00:05:04,759
+frictions dans le parcours, ça aide
+l'utilisateur à faire ce qu'il veut faire
+
+83
+00:05:04,759 --> 00:05:07,759
+plus facilement. Et donc, ça favorise
+l'attachement à la marque,
+
+84
+00:05:07,779 --> 00:05:11,539
+au service? Exactement. Bon, tout ça nous
+laisse quand même avec une petite question
+
+85
+00:05:11,579 --> 00:05:15,739
+pour la fin. Si le but, c'est
+d'accompagner sans jamais envahir,
+
+86
+00:05:16,079 --> 00:05:19,839
+où est-ce qu'on trace la ligne exactement?
+Hmmm. Bonne question.
+
+87
+00:05:19,839 --> 00:05:23,979
+Cette frontière entre l'aide qu'on trouve
+pertinente et le moment où on se sent un
+
+88
+00:05:23,999 --> 00:05:28,239
+peu épié ou envahi, elle est forcément
+subjective,
+
+89
+00:05:28,339 --> 00:05:31,319
+invisible et sans doute différente pour
+chacun d'entre nous?
+
+90
+00:05:31,439 --> 00:05:33,339
+Oui, c'est une question très personnelle,
+au fond.
+
+91
+00:05:33,939 --> 00:05:34,808
+Ça mérite réflexion.
