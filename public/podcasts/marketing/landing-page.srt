@@ -1,0 +1,438 @@
+1
+00:00:00,119 --> 00:00:04,038
+Bienvenue. Aujourd'hui, on plonge dans le
+monde des landing pages.
+
+2
+00:00:04,299 --> 00:00:07,219
+On va s'appuyer sur des extraits d'un
+document, euh,
+
+3
+00:00:07,440 --> 00:00:11,979
+les landing pages, conception et
+efficacité. Alors pour commencer,
+
+4
+00:00:11,979 --> 00:00:15,679
+une landing page, c'est quoi au juste?
+Ben, c'est une page web,
+
+5
+00:00:15,859 --> 00:00:19,360
+une seule page, pensée pour un objectif
+bien précis.
+
+6
+00:00:19,600 --> 00:00:22,500
+Ça peut être collecter des emails, vendre
+un truc,
+
+7
+00:00:22,779 --> 00:00:27,479
+inscrire à un webinaire. C'est là où on
+atterrit après avoir cliqué sur une pub,
+
+8
+00:00:27,599 --> 00:00:31,719
+un lien dans un mail ou sur les réseaux.
+Oui, et la grosse différence avec un site
+
+9
+00:00:31,760 --> 00:00:35,259
+web classique, c'est vraiment ça, le
+focus. Un site,
+
+10
+00:00:35,259 --> 00:00:38,519
+euh, ça a plein de pages, plusieurs buts,
+on peut naviguer partout.
+
+11
+00:00:38,799 --> 00:00:42,359
+La landing page, elle, non. C'est direct,
+un seul objectif.
+
+12
+00:00:42,360 --> 00:00:45,339
+On enlève même souvent la navigation pour
+pas distraire,
+
+13
+00:00:45,579 --> 00:00:49,280
+pour vraiment guider vers l'action voulue.
+C'est une super manière de résumer.
+
+14
+00:00:49,680 --> 00:00:53,680
+Donc notre objectif pour cette discussion,
+c'est de décortiquer ce qui fait qu'une
+
+15
+00:00:53,719 --> 00:00:56,759
+landing page marche vraiment, euh, d'après
+ce qu'on a lu.
+
+16
+00:00:57,239 --> 00:01:00,759
+Justement, la source parle de différents
+types. Il y a la squeeze page,
+
+17
+00:01:00,759 --> 00:01:03,779
+par exemple. Très simple, juste pour avoir
+un contact,
+
+18
+00:01:03,779 --> 00:01:07,199
+un email souvent. On offre un petit
+quelque chose en échange,
+
+19
+00:01:07,279 --> 00:01:12,039
+genre un guide, un livre blanc. Mh. Mh. Et
+puis, il y a la page de
+
+20
+00:01:12,099 --> 00:01:16,539
+vente. Là, c'est plus costaud. On
+argumente, on montre la valeur,
+
+21
+00:01:16,639 --> 00:01:20,039
+les témoignages, avec un bouton Acheter
+bien visible.
+
+22
+00:01:20,259 --> 00:01:23,319
+Tout à fait. Et il ne faut pas oublier la
+thank you page.
+
+23
+00:01:23,699 --> 00:01:25,879
+C'est la page qu'on voit juste après avoir
+fait l'action,
+
+24
+00:01:25,939 --> 00:01:28,939
+genre après un achat ou une inscription.
+Elle dit merci,
+
+25
+00:01:29,039 --> 00:01:32,659
+confirme que tout s'est bien passé et,
+euh, c'est l'occasion de proposer autre
+
+26
+00:01:32,719 --> 00:01:35,499
+chose, un produit en plus peut-être. C'est
+malin. Ah oui,
+
+27
+00:01:35,519 --> 00:01:40,519
+bien vu. Il y a aussi la splash page,
+cette page un peu intermédiaire qu'on voit
+
+28
+00:01:40,539 --> 00:01:44,439
+parfois avant d'arriver sur le site
+principal, pour choisir sa langue ou son
+
+29
+00:01:44,459 --> 00:01:47,199
+pays, par exemple. Ça doit être rapide,
+ça. Oui,
+
+30
+00:01:47,339 --> 00:01:50,979
+très rapide. Et enfin, la page de
+téléchargement d'application.
+
+31
+00:01:51,559 --> 00:01:55,679
+Très visuelle, pour pousser à installer
+l'app, avec les gros boutons des stores
+
+32
+00:01:55,719 --> 00:01:59,259
+Apple, Google Play. Et ce qui est
+intéressant, c'est que chaque type montre
+
+33
+00:01:59,259 --> 00:02:02,719
+bien cette idée de concentration sur
+l'objectif. La structure change
+
+34
+00:02:02,719 --> 00:02:04,879
+complètement selon ce qu'on veut faire
+faire au visiteur.
+
+35
+00:02:05,099 --> 00:02:08,318
+Une squeeze page, c'est épuré. Une page de
+vente peut être très longue.
+
+36
+00:02:08,699 --> 00:02:12,219
+La forme suit vraiment la fonction.
+D'accord. Et pour que ça marche,
+
+37
+00:02:12,259 --> 00:02:15,279
+peu importe le type, il y a des éléments
+clés d'après la source.
+
+38
+00:02:15,619 --> 00:02:19,279
+Déjà, le design. Il faut que ce soit pro,
+que ça colle à l'image de la marque.
+
+39
+00:02:19,639 --> 00:02:23,539
+Et surtout, hyper important aujourd'hui,
+que ça s'affiche nickel sur mobile,
+
+40
+00:02:23,639 --> 00:02:26,699
+le fameux responsive design. Et une
+structure claire,
+
+41
+00:02:26,759 --> 00:02:31,179
+évidemment. Exact. Ensuite, le contenu. La
+promesse, ce que le visiteur y gagne,
+
+42
+00:02:31,239 --> 00:02:35,099
+ça doit sauter aux yeux tout de suite. Un
+bon titre qui accroche et parler des
+
+43
+00:02:35,099 --> 00:02:37,659
+bénéfices, pas juste des caractéristiques
+techniques. Ça,
+
+44
+00:02:37,679 --> 00:02:40,659
+c'est crucial. La source met vraiment
+l'accent sur deux points.
+
+45
+00:02:40,959 --> 00:02:44,619
+D'abord, le call to action, le CTA, le
+bouton quoi.
+
+46
+00:02:45,279 --> 00:02:49,839
+Il doit pas juste être là, il doit se
+voir. Bon contraste de couleur,
+
+47
+00:02:50,139 --> 00:02:55,039
+un verbe d'action clair, téléchargez,
+inscrivez-vous, achetez maintenant et
+
+48
+00:02:55,039 --> 00:02:58,559
+bien placé sur la page. Ok pour le CTA et
+le deuxième point?
+
+49
+00:02:59,019 --> 00:03:03,059
+La crédibilité. C'est la base pour
+convaincre. Si les gens n'ont pas
+
+50
+00:03:03,059 --> 00:03:07,459
+confiance, ils ne cliquent pas. Donc,
+utilisez des témoignages clients,
+
+51
+00:03:07,779 --> 00:03:11,059
+des logos d'entreprises connues si on en
+a, des chiffres,
+
+52
+00:03:11,259 --> 00:03:15,019
+des avis. Le texte dit même que sans
+preuve sociale solide,
+
+53
+00:03:15,419 --> 00:03:18,279
+ben ça augmente fortement les chances que
+la page ne convertisse pas.
+
+54
+00:03:18,279 --> 00:03:22,659
+Intéressant cette insistance sur la preuve
+sociale. Le document parle aussi un peu de
+
+55
+00:03:22,679 --> 00:03:26,779
+la navigation. Parfois, il n'y en a pas du
+tout. C'est un vrai tunnel pour aller
+
+56
+00:03:26,799 --> 00:03:29,559
+direct à la conversion. Plutôt pour des
+offres simples,
+
+57
+00:03:29,559 --> 00:03:32,999
+j'imagine. C'est ça. Ou alors une
+navigation très,
+
+58
+00:03:33,099 --> 00:03:37,539
+très simplifiée, juste le minimum, si la
+décision est un peu plus complexe et qu'on
+
+59
+00:03:37,559 --> 00:03:39,779
+ne veut pas non plus perdre complètement
+le visiteur.
+
+60
+00:03:40,379 --> 00:03:44,319
+Logique. Et la question qui tue : comment
+on sait si ça marche,
+
+61
+00:03:44,459 --> 00:03:49,079
+tout ça? Comment on mesure? Ha, la mesure.
+Oui, le document est clair
+
+62
+00:03:49,079 --> 00:03:52,339
+là-dessus. Les chiffres, il y a que ça de
+vrai. Le taux de conversion,
+
+63
+00:03:52,339 --> 00:03:55,519
+c'est le roi des indicateurs. Quel
+pourcentage de visiteurs fait ce qu'on
+
+64
+00:03:55,539 --> 00:03:59,699
+attend d'eux? C'est la question clé. Mais
+on regarde aussi le nombre total de
+
+65
+00:03:59,719 --> 00:04:02,519
+conversions, bien sûr. Et d'autres
+indicateurs? Oui,
+
+66
+00:04:02,879 --> 00:04:06,159
+il y a le taux de rebond, ceux qui
+arrivent et repartent direct sans rien
+
+67
+00:04:06,179 --> 00:04:09,519
+faire. Le temps passé sur la page, ça peut
+donner des indices.
+
+68
+00:04:10,059 --> 00:04:13,599
+D'où viennent les visiteurs aussi? Quelle
+source de trafic marche le mieux?
+
+69
+00:04:14,059 --> 00:04:18,738
+Et surtout, surtout, faire des tests A/B.
+Essayez deux versions d'un titre,
+
+70
+00:04:18,738 --> 00:04:21,999
+d'un bouton, d'une image et voir laquelle
+donne les meilleurs résultats.
+
+71
+00:04:22,259 --> 00:04:24,599
+C'est comme ça qu'on optimise. Et pour ça,
+il faut des outils,
+
+72
+00:04:24,599 --> 00:04:27,859
+j'imagine? Oui, la source mentionne Google
+Analytics, évidemment,
+
+73
+00:04:28,179 --> 00:04:32,079
+et aussi des outils comme Hotjar ou
+Microsoft Clarity qui permettent de voir
+
+74
+00:04:32,099 --> 00:04:34,459
+comment les gens interagissent réellement
+avec la page.
+
+75
+00:04:34,699 --> 00:04:37,559
+C'est indispensable pour piloter par la
+donnée. Bon,
+
+76
+00:04:37,679 --> 00:04:40,759
+pour résumer, alors. Euh, une bonne
+landing page,
+
+77
+00:04:40,859 --> 00:04:45,579
+c'est un objectif ultra clair, un message
+ciblé et un chemin simplifié vers
+
+78
+00:04:45,599 --> 00:04:48,539
+l'action. C'est un peu un concentré de
+persuasion. Exactement.
+
+79
+00:04:49,019 --> 00:04:51,959
+Et le point final important du document,
+c'est que ce n'est jamais fini.
+
+80
+00:04:52,359 --> 00:04:55,239
+L'efficacité, ça se travaille en continu.
+Il faut mesurer,
+
+81
+00:04:55,339 --> 00:04:59,339
+analyser, tester, optimiser encore et
+encore. C'est un processus.
+
+82
+00:04:59,479 --> 00:05:04,479
+Faut passer un processus itératif. Et pour
+finir, une petite question pour la route :
+
+83
+00:05:05,159 --> 00:05:08,759
+si une landing page est si focalisée sur
+une seule action,
+
+84
+00:05:09,179 --> 00:05:12,779
+est-ce que ça pourrait avoir un effet,
+euh, disons secondaire,
+
+85
+00:05:13,179 --> 00:05:15,779
+sur comment les gens perçoivent la marque
+en général?
+
+86
+00:05:16,239 --> 00:05:20,299
+Même ceux qui ne convertissent pas tout de
+suite. Est-ce que cette hyperfocalisation
+
+87
+00:05:20,319 --> 00:05:24,619
+influence l'image globale au-delà de
+l'objectif premier?
+
+88
+00:05:24,919 --> 00:05:26,310
+Voilà, matière à réflexion.
