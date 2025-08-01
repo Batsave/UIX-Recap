@@ -1,0 +1,474 @@
+1
+00:00:00,079 --> 00:00:04,779
+Bienvenue. Aujourd'hui, on plonge dans
+l'idéation, un moment vraiment
+
+2
+00:00:04,779 --> 00:00:08,899
+central du design thinking. On a pas mal
+de documents là-dessus qui nous guident un
+
+3
+00:00:08,920 --> 00:00:12,299
+peu sur comment faire jaillir plein
+d'idées pour un problème donné,
+
+4
+00:00:12,679 --> 00:00:15,499
+et puis surtout, comment choisir la plus
+prometteuse après.
+
+5
+00:00:16,158 --> 00:00:21,039
+Notre mission, si on l'accepte, en tirer
+des techniques concrètes pour booster
+
+6
+00:00:21,059 --> 00:00:24,439
+la créativité et aider à décider. C'est
+tout à fait ça.
+
+7
+00:00:24,600 --> 00:00:28,840
+L'idéation, c'est vraiment le pont entre
+le moment où on a bien défini le problème
+
+8
+00:00:28,920 --> 00:00:33,060
+et celui où on cherche activement des
+solutions. Et c'est un processus en deux
+
+9
+00:00:33,119 --> 00:00:37,119
+temps très important. D'abord, on ouvre à
+fond les possibilités,
+
+10
+00:00:37,119 --> 00:00:41,080
+ça, c'est la divergence, et ensuite, on
+referme un peu pour choisir,
+
+11
+00:00:41,159 --> 00:00:43,860
+pour converger. Ok. Alors, commençons par
+la divergence.
+
+12
+00:00:43,860 --> 00:00:47,279
+Comment on fait concrètement pour générer
+un max d'idées?
+
+13
+00:00:48,020 --> 00:00:50,899
+La technique reine, j'imagine, c'est le
+brainstorming? Oui,
+
+14
+00:00:51,000 --> 00:00:53,579
+c'est un grand classique. C'est un atelier
+de groupe.
+
+15
+00:00:53,840 --> 00:00:57,379
+Mais attention, les règles sont super
+importantes pour que ça marche.
+
+16
+00:00:57,819 --> 00:01:00,899
+Il faut un bon facilitateur euh, pour
+guider la session.
+
+17
+00:01:01,239 --> 00:01:03,339
+Quarante-cinq minutes, c'est bien. Pas
+trop de monde.
+
+18
+00:01:03,519 --> 00:01:07,499
+Huit ou dix personnes, c'est l'idéal. Et
+surtout une ambiance très ouverte,
+
+19
+00:01:07,499 --> 00:01:12,119
+positive. Et la règle d'or? Ah oui,
+cruciale. Toutes les idées
+
+20
+00:01:12,339 --> 00:01:16,299
+sont bonnes à prendre, même les plus
+dingues. Et zéro critique pendant qu'on
+
+21
+00:01:16,419 --> 00:01:19,939
+génère les idées. C'est seulement à la fin
+qu'on fait une synthèse,
+
+22
+00:01:20,019 --> 00:01:22,539
+qu'on regroupe un peu les meilleures
+pistes. D'accord,
+
+23
+00:01:23,039 --> 00:01:26,279
+mais euh, parfois, parler en groupe, c'est
+pas évident pour tout le monde.
+
+24
+00:01:26,699 --> 00:01:30,399
+Il y a des alternatives, non? J'ai lu
+quelque chose sur le brainwriting.
+
+25
+00:01:30,399 --> 00:01:34,179
+Exactement. Le brainwriting, ça passe par
+l'écrit et ça,
+
+26
+00:01:34,199 --> 00:01:37,779
+ça aide beaucoup. L'anonymat, même
+relatif, ça libère la parole.
+
+27
+00:01:38,119 --> 00:01:41,039
+Il y a deux formes principales : le
+brainwriting pool,
+
+28
+00:01:41,359 --> 00:01:46,139
+chacun note ses idées sur des post-it, les
+met dans un pool commun et après,
+
+29
+00:01:46,179 --> 00:01:49,019
+les autres piochent dedans, s'inspirent,
+ajoutent des choses.
+
+30
+00:01:49,019 --> 00:01:52,619
+Ha, pas mal ça. Et l'autre forme? C'est le
+brainwriting six,
+
+31
+00:01:52,639 --> 00:01:56,119
+trois, cinq. Alors là, c'est très
+structuré. Six participants,
+
+32
+00:01:56,399 --> 00:02:00,759
+chacun écrit trois idées en cinq minutes,
+puis on fait tourner les feuilles et
+
+33
+00:02:00,759 --> 00:02:03,739
+chacun complète ou enrichit les idées des
+autres. Intéressant.
+
+34
+00:02:04,099 --> 00:02:07,519
+Moins d'inhibition, donc, et euh, toutes
+les voix comptent vraiment.
+
+35
+00:02:07,759 --> 00:02:11,479
+C'est ça. Et souvent, les idées sont même
+un peu plus creusées dès le départ parce
+
+36
+00:02:11,479 --> 00:02:14,919
+qu'on prend le temps d'écrire. Ok. Et si
+on veut quelque chose de très,
+
+37
+00:02:14,939 --> 00:02:18,559
+très rapide et de visuel? J'ai entendu
+parler du Crazy 8.
+
+38
+00:02:18,779 --> 00:02:22,019
+Le nom est sympa. Ha oui, le Crazy 8,
+c'est intense.
+
+39
+00:02:22,259 --> 00:02:26,579
+Huit idées en huit minutes. Carrément?
+Oui, chaque participant prend une feuille,
+
+40
+00:02:26,879 --> 00:02:31,139
+la plie en huit cases, et là, top chrono,
+une minute pour
+
+41
+00:02:31,639 --> 00:02:36,119
+gribouiller, esquisser une idée par case.
+C'est super efficace pour
+
+42
+00:02:36,199 --> 00:02:39,379
+visualiser des solutions, genre des
+interfaces, des parcours.
+
+43
+00:02:39,379 --> 00:02:42,159
+Faut pas avoir peur de les dessiner, même
+mal. Exactement.
+
+44
+00:02:42,299 --> 00:02:45,059
+C'est pas un concours d'art. L'idée, c'est
+de sortir des trucs vite.
+
+45
+00:02:45,359 --> 00:02:49,959
+Ensuite, présentation éclair et on vote.
+Bon, une fois qu'on a généré tout ça
+
+46
+00:02:50,339 --> 00:02:53,379
+avec ces méthodes, on se retrouve avec une
+montagne d'idées,
+
+47
+00:02:53,399 --> 00:02:55,919
+parfois un peu en vrac. Comment on y met
+de l'ordre?
+
+48
+00:02:55,919 --> 00:03:00,299
+C'est là qu'intervient le mind mapping, la
+cartographie mentale.
+
+49
+00:03:00,659 --> 00:03:05,479
+Ha oui, les cartes mentales. Voilà. On met
+le problème ou le sujet au centre
+
+50
+00:03:05,859 --> 00:03:09,559
+et on déploie les idées comme des
+branches. Les idées principales d'abord,
+
+51
+00:03:09,919 --> 00:03:13,599
+puis des sous-branches pour les détails.
+Ça donne une vue d'ensemble,
+
+52
+00:03:13,639 --> 00:03:17,079
+une structure visuelle. On voit les liens,
+on hiérarchise.
+
+53
+00:03:17,219 --> 00:03:20,959
+On peut faire ça sur un tableau blanc?
+Oui, ou avec des outils numériques.
+
+54
+00:03:20,959 --> 00:03:24,879
+Il y en a plein : XMind, MindMeister,
+Coggle. L'important,
+
+55
+00:03:24,879 --> 00:03:29,079
+c'est de visualiser l'ensemble. D'accord.
+Donc, divergence,
+
+56
+00:03:29,139 --> 00:03:31,919
+on a généré, on a organisé un peu avec le
+mind mapping.
+
+57
+00:03:32,199 --> 00:03:36,939
+Et maintenant, le moment fatidique, la
+convergence. Il faut choisir.
+
+58
+00:03:37,179 --> 00:03:40,979
+C'est ça. Il faut trier, sélectionner pour
+ne garder que le meilleur,
+
+59
+00:03:40,999 --> 00:03:43,899
+ce qu'on va vraiment avoir envie de
+prototyper. Comment on fait ce tri?
+
+60
+00:03:43,899 --> 00:03:46,899
+Il y a des méthodes assez simples et
+courantes. La première,
+
+61
+00:03:46,899 --> 00:03:50,019
+c'est le vote par Post-it ou avec des
+gommettes. Classique.
+
+62
+00:03:50,399 --> 00:03:52,659
+Chacun a quelques votes? Oui, trois ou
+cinq points,
+
+63
+00:03:52,659 --> 00:03:56,059
+par exemple. Et chacun marque ses idées
+préférées sur le mur d'idées.
+
+64
+00:03:56,599 --> 00:04:00,239
+Celle qui récolte le plus de gommettes,
+ben, elle passe à l'étape suivante.
+
+65
+00:04:00,379 --> 00:04:04,039
+C'est rapide, démocratique. Simple et
+efficace pour un premier écrémage,
+
+66
+00:04:04,419 --> 00:04:07,019
+mais ça risque pas de favoriser un peu les
+idées consensuelles?
+
+67
+00:04:07,139 --> 00:04:11,739
+Si, c'est un peu le risque. Pour éviter ça
+ou pour avoir une vision plus nuancée,
+
+68
+00:04:12,039 --> 00:04:15,339
+il y a une autre méthode intéressante à
+mentionner : le classement en quatre
+
+69
+00:04:15,359 --> 00:04:20,178
+catégories. Ha, c'est-à-dire? On demande
+au groupe d'identifier ensemble quatre
+
+70
+00:04:20,319 --> 00:04:22,519
+types d'idées parmi toutes celles qui ont
+été générées.
+
+71
+00:04:23,219 --> 00:04:25,939
+D'abord, le choix le plus rationnel, le
+plus logique,
+
+72
+00:04:26,019 --> 00:04:29,079
+le plus faisable. Ensuite, celui qui plaît
+le plus,
+
+73
+00:04:29,179 --> 00:04:31,099
+le coup de cœur, même s'il est moins
+rationnel. D'accord.
+
+74
+00:04:31,099 --> 00:04:36,039
+Puis, le choix qui représente le meilleur
+compromis, celui qui mettrait à peu
+
+75
+00:04:36,039 --> 00:04:39,079
+près tout le monde d'accord, et enfin,
+très important,
+
+76
+00:04:39,399 --> 00:04:43,079
+l'idée la plus audacieuse, la plus
+innovante, mais peut-être aussi la plus
+
+77
+00:04:43,179 --> 00:04:46,699
+risquée. Le long shot, quoi. Ha oui, ça
+force à regarder les idées sous différents
+
+78
+00:04:46,739 --> 00:04:50,339
+angles. Ça donne une palette plus riche
+avant de décider où mettre l'effort de
+
+79
+00:04:50,339 --> 00:04:55,319
+prototypage. L'ouverture d'esprit, cette
+créativité débridée de la divergence avec
+
+80
+00:04:55,339 --> 00:04:59,139
+une sélection plus méthodique, plus
+réfléchie pendant la convergence.
+
+81
+00:04:59,239 --> 00:05:03,379
+Donc, l'idée, ce n'est pas de tuer la
+créativité, mais de la canaliser pour
+
+82
+00:05:03,379 --> 00:05:06,279
+qu'elle débouche sur quelque chose de
+concret. C'est exactement ça.
+
+83
+00:05:06,559 --> 00:05:10,259
+Transformer une intuition, un besoin en
+une vraie solution qu'on va pouvoir
+
+84
+00:05:10,359 --> 00:05:15,099
+tester. Donc, si on résume, brainstorming
+ou brainwriting pour faire jaillir les
+
+85
+00:05:15,159 --> 00:05:18,799
+idées, Crazy 8 pour un shot de créativité
+visuelle rapide,
+
+86
+00:05:19,319 --> 00:05:23,739
+mind mapping pour structurer tout ça et
+après, vote par gommette ou classement en
+
+87
+00:05:23,819 --> 00:05:26,619
+quatre catégories pour, euh, pour choisir
+la direction.
+
+88
+00:05:26,619 --> 00:05:30,419
+Voilà, une boîte à outils assez complète
+pour cette phase d'idéation.
+
+89
+00:05:30,519 --> 00:05:33,059
+C'est vrai que ces outils sont très
+utilisés dans les projets de design,
+
+90
+00:05:33,179 --> 00:05:37,239
+d'innovation. Et en vous écoutant, je me
+dis : est-ce qu'on pourrait pas appliquer
+
+91
+00:05:37,279 --> 00:05:42,199
+ces principes, explorer largement, puis
+choisir consciemment à d'autres types
+
+92
+00:05:42,219 --> 00:05:45,719
+de problèmes? Peut-être même dans notre
+vie perso ou pro,
+
+93
+00:05:45,819 --> 00:05:48,619
+au quotidien? C'est une excellente piste
+de réflexion.
+
+94
+00:05:48,699 --> 00:05:52,279
+Ça pourrait peut-être aider à débloquer
+des situations où on tourne un peu en
+
+95
+00:05:52,299 --> 00:05:56,774
+rond. Sortir du cadre habituel, puis
+recentrer. Intéressant.
