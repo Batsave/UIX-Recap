@@ -14,8 +14,8 @@
   align-items: stretch;
   background: linear-gradient(
     380deg,
-    rgb(237, 234, 244) 0%,
-    rgb(231, 222, 213) 100%
+    rgba(228, 217, 255, 1) 0%,
+    rgba(252, 209, 162, 1) 100%
   );
 
   // contenu au-dessus du fond animé
@@ -44,6 +44,7 @@
   -ms-overflow-style: none;
   scrollbar-width: none;
   scroll-behavior: smooth;
+  font-weight: 600;
 }
 
 .srt-text-inner {
@@ -59,6 +60,7 @@
   cursor: pointer;
   transition: color 0.2s;
   color: rgba($black, 0.7);
+  font-weight: 400;
 }
 
 .srt-text p:hover {

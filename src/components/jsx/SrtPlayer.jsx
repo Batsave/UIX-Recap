@@ -273,7 +273,7 @@ export default function SrtPlayer({
         </div>
 
         <div className="srt-controls">
-          <button onClick={togglePlay}>
+          <button onClick={togglePlay} title="Play/Pause" aria-label="Play/Pause">
             {isPlaying ? <FaPause /> : <FaPlay />}
           </button>
           <div className="srt-timer-spectrum">
