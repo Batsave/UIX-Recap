@@ -1,0 +1,478 @@
+1
+00:00:00,119 --> 00:00:04,779
+Bonjour et bienvenue. Aujourd'hui, on va
+faire une exploration ciblée d'un
+
+2
+00:00:04,880 --> 00:00:09,719
+texte : l'empathie UX, comprendre
+l'utilisateur et créer des personas.
+
+3
+00:00:10,920 --> 00:00:14,859
+L'objectif, c'est de voir comment on peut
+vraiment se connecter aux attentes et
+
+4
+00:00:14,859 --> 00:00:18,479
+parfois aux frustrations des utilisateurs.
+Pour mieux concevoir,
+
+5
+00:00:18,479 --> 00:00:22,899
+quoi. L'UX, l'expérience utilisateur,
+c'est vraiment le cœur du sujet ici.
+
+6
+00:00:23,600 --> 00:00:26,840
+Alors, le document, il détaille un peu un
+parcours. D'abord,
+
+7
+00:00:26,840 --> 00:00:30,819
+des entretiens pour la profondeur, ensuite
+l'analyse de données pour voir plus large
+
+8
+00:00:31,420 --> 00:00:35,140
+et enfin, la création de personas pour
+incarner tout ça.
+
+9
+00:00:36,059 --> 00:00:39,100
+L'empathie, c'est la base : se mettre à la
+place de l'autre.
+
+10
+00:00:39,700 --> 00:00:43,700
+Bon, mais comment ça se passe concrètement
+dans la démarche UX que le texte décrit?
+
+11
+00:00:43,700 --> 00:00:47,680
+C'est vraiment le socle, oui. Pour éviter
+de, de créer des solutions qui sont
+
+12
+00:00:47,700 --> 00:00:50,599
+déconnectées de la réalité des gens. Et le
+texte, justement,
+
+13
+00:00:50,599 --> 00:00:54,600
+il propose une approche assez structurée
+qui commence par une écoute,
+
+14
+00:00:54,899 --> 00:00:58,099
+une écoute vraiment attentive. D'accord.
+Alors, allons-y.
+
+15
+00:00:58,399 --> 00:01:01,599
+Commençons par ces fameux entretiens
+qualitatifs. L'idée,
+
+16
+00:01:01,599 --> 00:01:04,039
+si je saisis bien, c'est d'avoir des
+discussions euh,
+
+17
+00:01:04,138 --> 00:01:06,559
+assez poussées avec un petit groupe
+d'utilisateurs cibles.
+
+18
+00:01:06,819 --> 00:01:09,179
+C'est ça? Pour comprendre leurs
+motivations profondes,
+
+19
+00:01:09,219 --> 00:01:12,839
+leurs blocages. Exactement, c'est ça. Et
+ce qui est intéressant,
+
+20
+00:01:12,839 --> 00:01:17,179
+c'est comment le texte insiste sur la
+méthode. Il faut préparer un guide,
+
+21
+00:01:17,299 --> 00:01:19,819
+bien sûr, mais attention avec des
+questions ouvertes.
+
+22
+00:01:20,219 --> 00:01:24,539
+Pour laisser la conversation, euh,
+respirer. Il faut aussi observer très
+
+23
+00:01:24,559 --> 00:01:28,539
+finement, pas juste ce qui est dit, le
+verbal, mais aussi le non-verbal.
+
+24
+00:01:28,919 --> 00:01:32,539
+Les silences, les hésitations, le langage
+corporel. Ah oui,
+
+25
+00:01:32,539 --> 00:01:35,739
+ça, ça révèle énormément de choses. Le
+non-verbal, oui,
+
+26
+00:01:35,819 --> 00:01:39,619
+c'est un point important. On peut vite se
+focaliser sur les mots et passer à côté
+
+27
+00:01:39,659 --> 00:01:42,339
+d'infos clés si on n'est pas vigilants.
+Tout à fait.
+
+28
+00:01:42,399 --> 00:01:46,399
+Et le texte insiste aussi sur un point :
+ne pas influencer les réponses,
+
+29
+00:01:46,699 --> 00:01:50,919
+ne pas projeter ses propres biais. On peut
+même proposer des petites mises en
+
+30
+00:01:50,919 --> 00:01:54,199
+situation, des tâches à accomplir pour
+voir les réactions en direct.
+
+31
+00:01:54,539 --> 00:01:58,279
+C'est très riche. Hmm, intéressant. Et
+pour être sûr de rien rater,
+
+32
+00:01:58,499 --> 00:02:02,159
+le document suggère d'enregistrer ou
+d'avoir quelqu'un qui prend des notes
+
+33
+00:02:02,159 --> 00:02:05,659
+spécifiquement. Oui, c'est une bonne
+pratique pour pouvoir revenir dessus
+
+34
+00:02:05,659 --> 00:02:08,679
+tranquillement après. Parce que ces
+échanges qualitatifs,
+
+35
+00:02:08,919 --> 00:02:12,099
+ils sont vraiment là pour faire émerger
+des premières pistes,
+
+36
+00:02:12,319 --> 00:02:15,879
+des hypothèses sur ce qui motive ou freine
+les utilisateurs.
+
+37
+00:02:16,259 --> 00:02:20,319
+Le pourquoi derrière les choses. D'accord.
+Bon, on a ces listes,
+
+38
+00:02:20,499 --> 00:02:23,819
+ces hypothèses qualitatives, mais après,
+le défi,
+
+39
+00:02:23,819 --> 00:02:25,999
+c'est de voir si ça tient la route à plus
+grande échelle,
+
+40
+00:02:26,099 --> 00:02:28,979
+j'imagine hein. C'est là qu'interviennent
+les études quantitatives.
+
+41
+00:02:29,059 --> 00:02:33,339
+C'est ça que dit le document. Précisément.
+Là, on change complètement de dimension.
+
+42
+00:02:33,799 --> 00:02:38,439
+Fini le petit groupe, on vise le volume.
+Le texte mentionne plusieurs choses : les
+
+43
+00:02:38,479 --> 00:02:41,939
+enquêtes en ligne, bien sûr, avec des
+outils comme Typeform,
+
+44
+00:02:42,019 --> 00:02:45,119
+Jotform. C'est assez facile aujourd'hui de
+faire des questionneurs.
+
+45
+00:02:45,539 --> 00:02:48,559
+Ils parlent aussi d'analyser les données
+web, Google Analytics,
+
+46
+00:02:48,559 --> 00:02:53,179
+par exemple, pour voir les parcours des
+gens sur un site ou Hotjar pour visualiser
+
+47
+00:02:53,299 --> 00:02:56,939
+où ils cliquent, où ils s'arrêtent de
+lire. Et puis l'A/B testing aussi.
+
+48
+00:02:57,239 --> 00:02:59,699
+Comparer deux versions pour voir laquelle
+marche le mieux.
+
+49
+00:02:59,719 --> 00:03:02,919
+Je vois. Donc, euh, si je résume la
+logique que le texte présente,
+
+50
+00:03:03,479 --> 00:03:06,519
+le qualitatif donne des idées, des
+intuitions fines,
+
+51
+00:03:06,679 --> 00:03:10,959
+le pourquoi. C'est ça. Et le quantitatif
+vient derrière pour,
+
+52
+00:03:11,319 --> 00:03:15,279
+pour vérifier. Pour confirmer ou infirmer
+ses idées à grande échelle.
+
+53
+00:03:15,459 --> 00:03:19,319
+Pour donner le combien. Exactement. C'est
+vraiment la combinaison des deux qui donne
+
+54
+00:03:19,339 --> 00:03:23,139
+une compréhension solide, robuste. Le
+qualitatif inspire,
+
+55
+00:03:23,399 --> 00:03:27,059
+il donne de la chair et le quantitatif
+valide, il mesure l'ampleur.
+
+56
+00:03:27,319 --> 00:03:30,059
+C'est essentiel pour pas se baser juste
+sur quelques anecdotes,
+
+57
+00:03:30,159 --> 00:03:33,659
+même si elles sont parlantes. Logique. Et
+tout ce travail de collecte,
+
+58
+00:03:33,699 --> 00:03:36,919
+qu'il soit qualitatif ou quantitatif, il
+aboutit à quoi?
+
+59
+00:03:37,019 --> 00:03:40,259
+À la création des personas. Le document
+les décrit comme des portraits robots
+
+60
+00:03:40,259 --> 00:03:43,979
+d'utilisateurs types, fictifs, mais basés
+sur les données réelles qu'on a
+
+61
+00:03:43,979 --> 00:03:46,879
+collectées. C'est quoi leur fonction
+exacte dans le processus?
+
+62
+00:03:46,979 --> 00:03:50,919
+À quoi ils servent concrètement? Ah, leur
+rôle est crucial,
+
+63
+00:03:50,919 --> 00:03:54,239
+vraiment. Ils aident toute l'équipe. Et
+quand je dis toute l'équipe,
+
+64
+00:03:54,239 --> 00:03:59,159
+c'est design, développeurs, marketing,
+tout le monde a gardé l'utilisateur final
+
+65
+00:03:59,159 --> 00:04:02,039
+en tête, constamment. Un persona bien
+construit, ben,
+
+66
+00:04:02,299 --> 00:04:06,819
+il synthétise les objectifs, les
+habitudes, les motivations et surtout les
+
+67
+00:04:06,859 --> 00:04:09,999
+points de friction, les pain points d'un
+segment d'utilisateurs.
+
+68
+00:04:10,479 --> 00:04:14,299
+Ça devient une sorte de référence commune,
+un guide très concret pour prendre des
+
+69
+00:04:14,299 --> 00:04:18,879
+décisions. Ah oui, je vois. Donc, au lieu
+de parler de l'utilisateur de façon
+
+70
+00:04:18,899 --> 00:04:23,019
+abstraite, on peut dire : Bon, pour
+Sophie, notre persona étudiante qui galère
+
+71
+00:04:23,019 --> 00:04:25,599
+avec son budget, est-ce que cette
+fonctionnalité est simple?
+
+72
+00:04:25,599 --> 00:04:28,779
+C'est exactement ça. Ça rend les besoins
+beaucoup plus tangibles,
+
+73
+00:04:29,119 --> 00:04:33,279
+ça humanise la conception et ça soulève
+une question importante d'ailleurs,
+
+74
+00:04:33,319 --> 00:04:36,479
+qui est un peu en filigrane dans le texte
+ : comment on fait pour que ces
+
+75
+00:04:36,499 --> 00:04:39,919
+personnages restent vivants, qu'ils ne
+finissent pas juste affichés au mur et
+
+76
+00:04:39,919 --> 00:04:44,639
+oubliés. C'est un vrai défi vu leur rôle
+central. Bon essayons de synthétiser tout
+
+77
+00:04:44,679 --> 00:04:48,059
+ça. Pour vraiment comprendre
+l'utilisateur, le point de départ,
+
+78
+00:04:48,059 --> 00:04:51,159
+on est d'accord, c'est l'empathie. Oui, la
+base. Ensuite,
+
+79
+00:04:51,259 --> 00:04:54,059
+les entretiens qualitatifs pour aller
+chercher la profondeur,
+
+80
+00:04:54,099 --> 00:04:56,979
+les insights, les pépites comme on dit
+parfois. Tout à fait.
+
+81
+00:04:57,139 --> 00:05:00,859
+Après les études quantitatives pour
+valider, pour mesurer à grande échelle?
+
+82
+00:05:00,859 --> 00:05:05,539
+La confirmation. Et enfin, les personas
+qui viennent synthétiser tout ça pour,
+
+83
+00:05:05,939 --> 00:05:09,659
+ben pour guider l'action, la conception.
+Voilà, c'est une excellente synthèse de la
+
+84
+00:05:09,719 --> 00:05:13,139
+démarche décrite dans le texte. C'est
+présenté comme un cadre euh,
+
+85
+00:05:13,219 --> 00:05:17,479
+assez structuré, mais essentiel pour une
+conception qui soit vraiment centrée sur
+
+86
+00:05:17,499 --> 00:05:21,539
+l'utilisateur, pour faire des produits ou
+services qui résonnent vraiment avec les
+
+87
+00:05:21,639 --> 00:05:25,079
+besoins réels, pas juste basés sur des
+intuitions. Bien.
+
+88
+00:05:25,979 --> 00:05:29,319
+Notre exploration de ce document sur
+l'empathie UX touche à sa fin.
+
+89
+00:05:29,959 --> 00:05:33,939
+Une approche méthodique, finalement, pour
+mieux écouter et mieux servir les
+
+90
+00:05:33,979 --> 00:05:37,739
+utilisateurs. Exactement, et peut-être
+pour ouvrir une dernière piste de
+
+91
+00:05:37,739 --> 00:05:41,779
+réflexion. Au-delà des entretiens et des
+sondages qui sont très structurés,
+
+92
+00:05:42,059 --> 00:05:45,679
+qu'est-ce que l'observation simple,
+discrète des gens dans leur environnement
+
+93
+00:05:45,679 --> 00:05:49,839
+naturel pourrait nous apprendre? Observer
+quelqu'un utiliser un service chez lui,
+
+94
+00:05:49,879 --> 00:05:52,899
+au travail. Ça pourrait révéler des
+besoins inexprimés,
+
+95
+00:05:52,899 --> 00:05:56,439
+des choses qu'il ne dirait jamais en
+entretien. C'est une piste intéressante à
+
+96
+00:05:56,439 --> 00:05:57,215
+creuser, je trouve.
