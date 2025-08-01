@@ -1,0 +1,494 @@
+1
+00:00:00,079 --> 00:00:04,299
+Bonjour et bienvenue. Aujourd'hui, on fait
+une petite plongée dans une phase
+
+2
+00:00:04,480 --> 00:00:09,139
+vraiment, euh, super importante du design
+thinking. C'est le moment du test
+
+3
+00:00:09,279 --> 00:00:12,480
+utilisateur. Voilà, après avoir bossé sur
+un prototype,
+
+4
+00:00:12,840 --> 00:00:15,959
+la question, c'est : hum, comment on sait
+si ça tient la route?
+
+5
+00:00:16,539 --> 00:00:19,719
+C'est un peu ça qu'on va explorer
+ensemble, à partir des infos qu'on a.
+
+6
+00:00:20,139 --> 00:00:23,319
+L'idée, c'est assez clair : comprendre
+pourquoi ces tests sont,
+
+7
+00:00:23,479 --> 00:00:28,439
+ben essentiels, et puis décortiquer un peu
+ce mot utilisabilité et
+
+8
+00:00:28,479 --> 00:00:32,380
+voir concrètement comment on s'y prend
+pour faire ces tests et en tirer quelque
+
+9
+00:00:32,459 --> 00:00:37,340
+chose. Exactement. Le test, euh, faut voir
+ça comme bien plus qu'une simple vérif'
+
+10
+00:00:37,360 --> 00:00:41,039
+technique. C'est vraiment le moment où on
+voit si la solution qu'on a imaginée,
+
+11
+00:00:41,399 --> 00:00:43,719
+ben elle répond vraiment au besoin de
+départ de l'utilisateur.
+
+12
+00:00:43,860 --> 00:00:47,220
+On essaye d'identifier là où ça coince,
+euh, les frictions quoi.
+
+13
+00:00:47,799 --> 00:00:51,340
+De voir si les fonctionnalités sont
+pertinentes. Et puis il y a une dimension
+
+14
+00:00:51,340 --> 00:00:54,019
+efficacité, c'est clair. Repérer les
+soucis tôt,
+
+15
+00:00:54,020 --> 00:00:56,519
+ça évite de jeter de l'argent et du temps
+par les fenêtres plus tard.
+
+16
+00:00:56,599 --> 00:00:59,519
+Faut pas oublier non plus que le design
+thinking, c'est un cycle.
+
+17
+00:00:59,899 --> 00:01:01,839
+Un test, ça peut tout à fait nous ramener
+en arrière,
+
+18
+00:01:01,839 --> 00:01:06,659
+genre retour à l'idéation ou même au
+proto, voire nous faire revoir notre
+
+19
+00:01:06,719 --> 00:01:10,299
+compréhension du problème initial. C'est
+itératif. Oui,
+
+20
+00:01:10,339 --> 00:01:13,919
+c'est une étape clé pour pas construire un
+truc dont personne n'a vraiment envie au
+
+21
+00:01:13,959 --> 00:01:18,739
+final. Et sur les participants, euh, les
+testeurs, on nous dit de cibler le
+
+22
+00:01:18,879 --> 00:01:23,559
+public visé. Logique et même, si possible,
+de faire revenir des gens qu'on a vus en
+
+23
+00:01:23,599 --> 00:01:26,219
+phase d'empathie. Et il y a cette idée qui
+revient souvent là,
+
+24
+00:01:26,219 --> 00:01:29,579
+que cinq testeurs, ça suffirait. Ça paraît
+peu, non?
+
+25
+00:01:29,599 --> 00:01:32,519
+Ben, c'est un chiffre assez connu qui
+vient de recherches,
+
+26
+00:01:32,719 --> 00:01:36,379
+notamment du Nielsen Norman Group. L'idée
+derrière, c'est qu'avec environ cinq
+
+27
+00:01:36,419 --> 00:01:39,739
+utilisateurs qui représentent bien la
+cible, on trouve déjà,
+
+28
+00:01:40,419 --> 00:01:44,199
+euh, la grande majorité des problèmes
+d'utilisabilité, genre autour de
+
+29
+00:01:44,219 --> 00:01:46,519
+quatre-vingt-cinq pour cent des gros
+soucis. Après,
+
+30
+00:01:46,519 --> 00:01:49,979
+souvent, on voit les mêmes choses revenir.
+Le gain d'infos devient moins rentable,
+
+31
+00:01:50,159 --> 00:01:52,739
+moins rentable, si tu veux. Et au cœur de
+tout ça,
+
+32
+00:01:52,759 --> 00:01:56,579
+il y a ce concept et l'utilisabilité. En
+gros, c'est la facilité avec laquelle
+
+33
+00:01:56,599 --> 00:01:59,999
+quelqu'un, euh, utilise un produit pour
+faire ce qu'il a à faire.
+
+34
+00:02:00,819 --> 00:02:04,479
+On pense souvent, euh, ça marche égale pas
+de bug,
+
+35
+00:02:04,699 --> 00:02:07,519
+mais c'est plus fin que ça. L'Interaction
+Design Foundation,
+
+36
+00:02:07,599 --> 00:02:11,119
+elle, donne cinq critères importants.
+D'abord, l'efficacité.
+
+37
+00:02:11,479 --> 00:02:13,519
+Est-ce que l'utilisateur arrive au bout de
+sa tâche?
+
+38
+00:02:13,819 --> 00:02:17,619
+Oui ou non? Ensuite, la productivité.
+Est-ce qu'il le fait vite sans galérer?
+
+39
+00:02:18,059 --> 00:02:20,259
+Après, il y a l'engagement. Est-ce que
+c'est agréable,
+
+40
+00:02:20,299 --> 00:02:23,399
+intuitif? On a envie de l'utiliser. La
+tolérance aux erreurs,
+
+41
+00:02:23,539 --> 00:02:27,959
+ça, c'est crucial. Si l'utilisateur se
+trompe, est-ce que le système l'aide ou
+
+42
+00:02:27,979 --> 00:02:31,019
+est-ce que c'est la frustration assurée?
+Personne n'aime les messages d'erreur
+
+43
+00:02:31,059 --> 00:02:35,959
+cryptiques. Et enfin, la facilité
+d'apprentissage. Pour un nouveau,
+
+44
+00:02:36,339 --> 00:02:38,619
+c'est simple à prendre en main ou c'est
+une usine à gaz?
+
+45
+00:02:38,619 --> 00:02:41,779
+Hum, ces cinq points, ça donne une bonne
+grille de lecture,
+
+46
+00:02:41,799 --> 00:02:45,459
+c'est vrai. Mais alors, concrètement, ça
+se passe comment un test usage?
+
+47
+00:02:46,219 --> 00:02:48,619
+On met quelqu'un devant l'écran et...
+C'est ça,
+
+48
+00:02:48,639 --> 00:02:51,999
+l'image qu'on a. On prépare un petit
+scénario, un truc réaliste,
+
+49
+00:02:52,099 --> 00:02:55,139
+genre : imaginez, vous voulez réserver un
+Paris-Lyon pour demain.
+
+50
+00:02:55,619 --> 00:02:59,099
+Simple, clair. Après, on lance le test
+sans trop en dire.
+
+51
+00:02:59,859 --> 00:03:02,419
+Et surtout, on demande à la personne de
+penser à voix haute,
+
+52
+00:03:02,539 --> 00:03:04,999
+de dire tout ce qui lui passe par la tête,
+et ce qu'elle fait,
+
+53
+00:03:05,079 --> 00:03:08,899
+pourquoi, ses doutes. Mais, euh, question
+bête peut-être,
+
+54
+00:03:09,359 --> 00:03:11,939
+cette histoire de penser à voix haute, ça
+risque pas de,
+
+55
+00:03:11,939 --> 00:03:14,259
+de fausser un peu le truc, de rendre ça
+moins naturel?
+
+56
+00:03:14,359 --> 00:03:18,699
+C'est une excellente remarque. Oui, ça
+demande un petit effort aux participants,
+
+57
+00:03:18,699 --> 00:03:21,199
+c'est sûr. Mais les infos qu'on récupère
+comme ça,
+
+58
+00:03:21,199 --> 00:03:24,819
+c'est, c'est de l'or. L'observateur, lui,
+son rôle,
+
+59
+00:03:24,819 --> 00:03:28,179
+c'est d'être neutre. Écouter, euh,
+vraiment écouter,
+
+60
+00:03:28,719 --> 00:03:32,679
+noter les parcours, où ça clique, où ça
+hésite. On peut poser des questions,
+
+61
+00:03:32,679 --> 00:03:35,199
+mais toujours ouvertes. Jamais de trucs
+qui orientent la réponse.
+
+62
+00:03:35,419 --> 00:03:37,859
+Plutôt : qu'est-ce que vous attendiez en
+cliquant là?
+
+63
+00:03:38,159 --> 00:03:40,059
+Ou : qu'est-ce qui se passe dans votre
+tête, là,
+
+64
+00:03:40,099 --> 00:03:43,539
+maintenant? On note tout : ce qui marche,
+ce qui marche pas,
+
+65
+00:03:43,859 --> 00:03:47,239
+les signes de, de frustration ou au
+contraire de satisfaction.
+
+66
+00:03:47,919 --> 00:03:51,859
+Et à la fin, important, un petit debrief
+pour avoir son ressenti général.
+
+67
+00:03:51,859 --> 00:03:56,519
+D'accord. Et une fois qu'on a toutes ces
+notes précieuses-là de plusieurs testeurs,
+
+68
+00:03:56,699 --> 00:03:59,639
+qu'est-ce qu'on en fait? On a une montagne
+de retours.
+
+69
+00:03:59,819 --> 00:04:04,719
+Ah, là, c'est l'analyse. On regroupe tout
+ça. On cherche les problèmes qui
+
+70
+00:04:04,739 --> 00:04:07,499
+reviennent le plus souvent, ceux qui sont
+les plus bloquants.
+
+71
+00:04:08,199 --> 00:04:11,359
+Et c'est à ce moment-là qu'on décide.
+Est-ce qu'il faut revoir une partie du
+
+72
+00:04:11,379 --> 00:04:16,199
+concept? Juste modifier le proto? Le point
+essentiel, et c'est un changement de
+
+73
+00:04:16,219 --> 00:04:19,499
+mentalité parfois, c'est de voir ces
+problèmes pas comme des échecs,
+
+74
+00:04:19,719 --> 00:04:23,719
+mais comme des chances incroyables
+d'améliorer la solution avant d'aller plus
+
+75
+00:04:23,759 --> 00:04:27,279
+loin, avant d'investir plus. C'est
+vraiment constructif comme approche.
+
+76
+00:04:27,419 --> 00:04:29,839
+Oui, complètement. Changer de regard sur
+le problème,
+
+77
+00:04:29,979 --> 00:04:33,399
+c'est ça la clé. Les sources qu'on avait,
+elles parlaient aussi de différentes
+
+78
+00:04:33,419 --> 00:04:36,799
+manières de faire ces tests, non? Il y
+avait le test en labo,
+
+79
+00:04:36,799 --> 00:04:41,259
+très contrôlé, le test à distance avec des
+outils comme Maise qui enregistre tout.
+
+80
+00:04:41,599 --> 00:04:44,599
+Et puis le guérilla testing, un peu plus à
+l'arrache quoi,
+
+81
+00:04:44,819 --> 00:04:48,919
+dans des cafés, des lieux publics. Donc,
+si on essaye de résumer un peu tout ça,
+
+82
+00:04:49,339 --> 00:04:51,779
+tester son prototype avec de vraies gens,
+c'est, euh,
+
+83
+00:04:51,779 --> 00:04:55,839
+vital. Ça permet de corriger le tir avant
+de se lancer dans le développement et ça
+
+84
+00:04:55,879 --> 00:04:59,879
+évite des erreurs qui coûtent cher. Et
+cette fameuse utilisabilité qu'on mesure,
+
+85
+00:05:00,219 --> 00:05:04,279
+elle a plusieurs facettes : être efficace,
+rapide, agréable,
+
+86
+00:05:04,559 --> 00:05:08,699
+savoir gérer les erreurs et être simple à
+apprendre. C'est tout à fait ça.
+
+87
+00:05:09,119 --> 00:05:13,299
+Le test utilisateur, ça structure vraiment
+cette boucle : observer,
+
+88
+00:05:13,859 --> 00:05:18,759
+analyser et puis itérer pour améliorer le
+produit. C'est un peu comme un
+
+89
+00:05:18,879 --> 00:05:22,959
+contrôle qualité, mais centré sur l'humain
+avant de passer à la production,
+
+90
+00:05:23,419 --> 00:05:26,539
+pour être sûr que la solution est vraiment
+prête pour ses utilisateurs finaux.
+
+91
+00:05:26,759 --> 00:05:31,379
+Et juste pour ouvrir une dernière piste de
+réflexion, les méthodes qu'on a vues se
+
+92
+00:05:31,439 --> 00:05:35,159
+concentrent beaucoup sur le fonctionnel,
+sur l'accomplissement des tâches.
+
+93
+00:05:35,519 --> 00:05:39,259
+Mais est-ce qu'on ne pourrait pas aussi,
+en analysant finement ces observations,
+
+94
+00:05:39,679 --> 00:05:43,379
+les hésitations, les expressions du
+visage, les commentaires spontanés,
+
+95
+00:05:43,999 --> 00:05:47,979
+essayer de comprendre des choses plus
+subtiles? Je pense à la confiance que
+
+96
+00:05:47,999 --> 00:05:52,219
+l'utilisateur met dans le produit ou même
+son ressenti émotionnel général face à ce
+
+97
+00:05:52,219 --> 00:05:55,739
+qu'on lui propose. Ces aspects-là, ils
+sont moins directs à mesurer,
+
+98
+00:05:55,739 --> 00:05:59,719
+c'est sûr, mais ils sont souvent décisifs
+pour que le produit soit adopté au final,
+
+99
+00:05:59,739 --> 00:06:01,418
+non? C'est une question intéressante, je
+trouve.
