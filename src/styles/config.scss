@@ -1,20 +1,5 @@
-// Font
-@font-face {
-  font-family: "Heebo";
-  src: url("/fonts/heebo.ttf") format("truetype");
-  font-weight: 1 999;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Unbounded";
-  src: url("/fonts/Unbounded.ttf") format("truetype");
-  font-weight: 1 999;
-  font-style: normal;
-}
-
-$font: "Heebo", sans-serif;
-$font-alt: "Unbounded", sans-serif;
+$font: system-ui, sans-serif;
+$font-alt: system-ui, sans-serif;
 
 // Colors
 $interface: #f5f5f5;

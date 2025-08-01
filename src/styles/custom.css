@@ -64,44 +64,39 @@
 }
 
 :root {
-    table tbody tr td {
-        vertical-align: middle;
+    font-family: system-ui, sans-serif;
+}
 
-        img {
-            width: 48px;
-            height: auto;
-            margin: auto;
-        }
-    }
+table tbody tr td {
+    vertical-align: middle;
 
     img {
-        border-radius: 12px;
-        max-width: 600px;
+        width: 48px;
+        height: auto;
+        margin: auto;
     }
+}
 
-    .site-title span {
-        display: none !important;
-    }
+img {
+    border-radius: 12px;
+    max-width: 600px;
+}
 
-    h2 {
-        font-size: 24px;
-        font-weight: 500;
-    }
+.site-title span {
+    display: none !important;
+}
 
-    h3,
-    h4,
-    h5,
-    h6 {
-        font-size: 20px;
-        font-weight: 500;
-    }
+h2 {
+    font-size: 24px;
+    font-weight: 500;
+}
 
-    .highlighted {
-        background: yellow;
-        padding: 0 2px;
-        border-radius: 3px;
-    }
-
+h3,
+h4,
+h5,
+h6 {
+    font-size: 20px;
+    font-weight: 500;
 }
 
 /* ----------- CALLOUT ----------- */
