@@ -30,10 +30,6 @@ export default defineConfig({
           tag: "meta",
           attrs: { name: "robots", content: "noindex, nofollow" },
         },
-        {
-          tag: "script",
-          attrs: { type: "module", src: "/scripts/highlight.js" },
-        },
       ],
       defaultLocale: "fr",
       locales: {
