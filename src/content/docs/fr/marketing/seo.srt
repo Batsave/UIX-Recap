@@ -1,0 +1,519 @@
+1
+00:00:00,099 --> 00:00:04,279
+Bienvenue à miss. Aujourd'hui, on explore
+ensemble les bases du SEO,
+
+2
+00:00:04,380 --> 00:00:07,519
+l'optimisation pour les moteurs de
+recherche. Salut à miss.
+
+3
+00:00:07,779 --> 00:00:11,819
+Oui, on va s'appuyer sur des extraits du
+guide Fondamentaux du SEO,
+
+4
+00:00:12,099 --> 00:00:15,639
+optimiser sa visibilité en ligne. L'idée,
+c'est vraiment de comprendre comment
+
+5
+00:00:15,719 --> 00:00:18,379
+sortir de l'ombre sur le web. Parce que le
+SEO, au fond,
+
+6
+00:00:18,379 --> 00:00:21,239
+c'est quoi? C'est un peu l'art de montrer
+à Google,
+
+7
+00:00:21,420 --> 00:00:25,079
+surtout, que notre contenu, c'est la
+meilleure réponse aux questions des gens.
+
+8
+00:00:25,239 --> 00:00:27,239
+Sans ça, on n'existe quasiment pas en
+ligne, c'est ça?
+
+9
+00:00:27,239 --> 00:00:30,879
+C'est un peu l'idée, oui. Et pour ça, il
+faut d'abord piger ce que veulent les
+
+10
+00:00:30,899 --> 00:00:33,700
+moteurs. Et Google domine largement en
+France, non?
+
+11
+00:00:33,880 --> 00:00:37,579
+Surtout sur mobile. Ah oui, carrément. On
+parle de quatre-vingt-dix-sept pour cent
+
+12
+00:00:37,639 --> 00:00:41,539
+des recherches mobiles. Et leur but, c'est
+simple : donner la réponse la plus
+
+13
+00:00:41,540 --> 00:00:45,239
+pertinente, la plus rapide. Résoudre le
+problème de l'utilisateur,
+
+14
+00:00:45,239 --> 00:00:48,159
+quoi. D'accord. Et ça rejoint une idée
+forte du guide.
+
+15
+00:00:48,539 --> 00:00:51,799
+Le SEO, ce n'est plus une technique de
+bidouille. Non,
+
+16
+00:00:51,919 --> 00:00:55,359
+ça, c'est fini. On n'essaie plus de juste
+tromper l'algorithme.
+
+17
+00:00:55,360 --> 00:00:58,600
+C'est ça. Maintenant, il faut se
+concentrer sur l'utilisateur,
+
+18
+00:00:58,919 --> 00:01:03,299
+aider les moteurs à comprendre, oui, mais
+surtout... Prouver la valeur,
+
+19
+00:01:03,759 --> 00:01:07,319
+la crédibilité du contenu et le rendre
+super accessible.
+
+20
+00:01:07,499 --> 00:01:10,339
+Ok. Comment ça marche concrètement un
+moteur comme Google?
+
+21
+00:01:10,399 --> 00:01:14,019
+Alors, il y a d'abord les robots, les
+crawlers, qui parcourent le web.
+
+22
+00:01:14,179 --> 00:01:17,279
+Ils explorent, ils indexent les pages.
+C'est la base.
+
+23
+00:01:17,299 --> 00:01:20,519
+L'indexation. Exactement. Et ensuite, il y
+a l'algorithme.
+
+24
+00:01:20,859 --> 00:01:24,739
+Et là, c'est une machine complexe. Qui
+analyse plein de signaux,
+
+25
+00:01:24,739 --> 00:01:28,879
+c'est ça? Des centaines. Pour classer les
+résultats. Ils cherchent la meilleure
+
+26
+00:01:28,879 --> 00:01:31,899
+réponse, la plus satisfaisante pour
+l'utilisateur. Et pour trouver cette
+
+27
+00:01:31,919 --> 00:01:34,499
+réponse, les utilisateurs tapent des mots
+clés. Oui,
+
+28
+00:01:34,859 --> 00:01:38,839
+mais attention, le guide insiste
+là-dessus. C'est pas juste de faire une
+
+29
+00:01:38,839 --> 00:01:42,119
+liste de mots. Non, il faut aller plus
+loin. Il faut vraiment se mettre dans la
+
+30
+00:01:42,279 --> 00:01:46,379
+peau de l'utilisateur cible, le fameux
+persona. Utiliser ses mots,
+
+31
+00:01:46,679 --> 00:01:49,879
+comprendre ses questions. Comprendre
+l'intention derrière la recherche,
+
+32
+00:01:49,879 --> 00:01:53,299
+c'est ça? Tout à fait. L'intention. Est-ce
+qu'il cherche une info?
+
+33
+00:01:53,539 --> 00:01:57,839
+Est-ce qu'il veut acheter? Comparer? Le
+contenu doit coller pile à ça.
+
+34
+00:01:57,919 --> 00:02:00,599
+Et c'est pour ça que Google met tout le
+temps son algorithme à jour,
+
+35
+00:02:00,899 --> 00:02:04,759
+hein, pour mieux saisir cette intention?
+Exactement. Pense à Panda,
+
+36
+00:02:04,759 --> 00:02:08,419
+par exemple, contre les contenus de
+mauvaise qualité ou Penguin pour les liens
+
+37
+00:02:08,419 --> 00:02:11,119
+un peu louches. Et Hummingbird. Ah oui,
+lui, c'était plus pour comprendre le
+
+38
+00:02:11,159 --> 00:02:14,499
+langage naturel, les phrases complètes,
+pas juste les mots clés bruts.
+
+39
+00:02:14,599 --> 00:02:18,379
+Donc l'algo apprend en permanence, mais il
+n'est pas tout seul à juger.
+
+40
+00:02:18,679 --> 00:02:22,819
+Le guide parle d'évaluateur humain. Oui,
+et c'est super important.
+
+41
+00:02:23,299 --> 00:02:27,299
+Google emploie des gens pour vérifier les
+qualités des pages selon des critères
+
+42
+00:02:27,299 --> 00:02:32,279
+précis. Les critères EAT. C'est ça.
+Expertise, autorité,
+
+43
+00:02:32,339 --> 00:02:37,119
+fiabilité. En anglais, expertise authority
+trustworthiness. En
+
+44
+00:02:37,139 --> 00:02:41,519
+gros, est-ce que c'est écrit par un
+expert? Est-ce que le site fait autorité?
+
+45
+00:02:41,719 --> 00:02:45,699
+Et est-ce que l'info est fiable, digne de
+confiance? C'est un peu comme si Google se
+
+46
+00:02:45,719 --> 00:02:47,879
+demandait : est-ce que je recommanderais
+ça à un pote?
+
+47
+00:02:48,339 --> 00:02:52,079
+Ça rend le truc plus humain quand même.
+Bon, alors concrètement,
+
+48
+00:02:52,079 --> 00:02:55,919
+on fait comment pour construire tout ça?
+Le guide parle de quatre piliers.
+
+49
+00:02:56,039 --> 00:03:00,539
+Oui, les fondations. Le premier, c'est la
+technique, le côté on page.
+
+50
+00:03:00,679 --> 00:03:04,379
+C'est-à-dire? Est-ce que le site charge
+vite? Est-ce qu'il s'affiche bien sur
+
+51
+00:03:04,379 --> 00:03:08,779
+mobile? Importantissime, ça. Est-ce qu'il
+est sécurisé en HTTPS?
+
+52
+00:03:09,019 --> 00:03:12,299
+Le petit cadenas vert. Un gage de
+confiance. Exactement.
+
+53
+00:03:12,559 --> 00:03:16,559
+Et puis, est-ce que le code est propre?
+Est-ce qu'on utilise le balisage Schéma
+
+54
+00:03:16,619 --> 00:03:19,559
+PROR? Pour aider Google à comprendre ce
+qu'il y a sur la page.
+
+55
+00:03:19,639 --> 00:03:23,699
+Genre ça, c'est une recette. Voilà. Ça
+peut même améliorer l'affichage dans les
+
+56
+00:03:23,719 --> 00:03:27,619
+résultats. D'accord. Pilier numéro deux,
+le contenu,
+
+57
+00:03:27,779 --> 00:03:31,159
+aussi en on page. Le cœur du réacteur,
+j'imagine? Carrément.
+
+58
+00:03:31,519 --> 00:03:35,359
+Là, on parle des titres, des descriptions.
+Il faut que ça donne envie de cliquer,
+
+59
+00:03:35,619 --> 00:03:39,019
+que ce soit pertinent. Le texte en
+lui-même utile,
+
+60
+00:03:39,219 --> 00:03:43,079
+bien écrit, bien structuré. Avec des
+images, des vidéos.
+
+61
+00:03:43,159 --> 00:03:46,379
+Oui, des médias riches. Et aussi le
+maillage interne.
+
+62
+00:03:46,719 --> 00:03:49,799
+Lier les pages de son propre site entre
+elles, c'est crucial.
+
+63
+00:03:50,279 --> 00:03:54,079
+Ça aide Google à naviguer et ça diffuse
+l'autorité. Ne pas oublier de mettre à
+
+64
+00:03:54,079 --> 00:03:57,099
+jour le contenu et de faire des liens vers
+d'autres sites fiables aussi.
+
+65
+00:03:57,199 --> 00:04:01,199
+Tout à fait. Troisième pilier, la
+popularité. Là,
+
+66
+00:04:01,219 --> 00:04:05,299
+on est en off page. C'est la réputation du
+site vue de l'extérieur.
+
+67
+00:04:05,519 --> 00:04:08,439
+Les fameux backlinks, les liens qui
+viennent d'autres sites.
+
+68
+00:04:08,739 --> 00:04:13,599
+C'est ça. Et là, la qualité du site qui
+fait le lien est plus importante que la
+
+69
+00:04:13,619 --> 00:04:17,539
+quantité de liens. Vous visez des sites
+crédibles dans son domaine.
+
+70
+00:04:17,759 --> 00:04:22,299
+Les mentions de la marque comptent aussi?
+Oui. Et le texte d'ancrage du lien,
+
+71
+00:04:22,819 --> 00:04:27,299
+les mots sur lesquels on clique, doit être
+pertinent. C'est un indice fort pour
+
+72
+00:04:27,339 --> 00:04:30,979
+Google sur le sujet de la page lié. Ok. Et
+le dernier pilier,
+
+73
+00:04:31,199 --> 00:04:35,219
+l'ergonomie, l'expérience utilisateur ou
+UX. Essentiel.
+
+74
+00:04:35,599 --> 00:04:38,639
+Un site peut être nickel techniquement
+avec un contenu génial.
+
+75
+00:04:38,739 --> 00:04:41,739
+Mais si c'est le bazar pour naviguer ou si
+c'est moche,
+
+76
+00:04:42,019 --> 00:04:44,919
+les gens partent. Exactement. Et Google le
+voit, ça.
+
+77
+00:04:45,279 --> 00:04:48,679
+Taux de rebond élevé, temps passé faible,
+donc navigation claire,
+
+78
+00:04:49,099 --> 00:04:52,939
+design agréable qui s'adapte à tous les
+écrans. Et pour le contenu lui-même,
+
+79
+00:04:52,959 --> 00:04:54,999
+on évite le bourrage de mots clés, c'est
+bien ça?
+
+80
+00:04:55,139 --> 00:04:58,739
+Ah oui, surtout pas bot moche. Il faut
+écrire naturellement pour les humains,
+
+81
+00:04:59,239 --> 00:05:03,039
+répondre à leurs vraies questions. Et
+varier les formats : listes,
+
+82
+00:05:03,159 --> 00:05:07,679
+guides, vidéos... Oui, infographies,
+podcasts, ce qui marche le mieux pour
+
+83
+00:05:07,699 --> 00:05:10,979
+l'info et pour l'audience. Et bien sûr,
+optimiser les images,
+
+84
+00:05:11,319 --> 00:05:13,939
+légères et bien décrites. Une fois qu'on a
+fait tout ça,
+
+85
+00:05:13,939 --> 00:05:18,039
+il faut mesurer, j'imagine? Indispensable.
+Sinon, on navigue à vue.
+
+86
+00:05:18,539 --> 00:05:21,479
+Quels indicateurs regarder? Taux de
+conversion, peut-être?
+
+87
+00:05:21,559 --> 00:05:24,879
+Est-ce que les gens font ce qu'on veut?
+Oui. Et le taux de rebond?
+
+88
+00:05:25,159 --> 00:05:28,139
+Est-ce qu'ils repartent direct? Le temps
+passé sur le site?
+
+89
+00:05:28,619 --> 00:05:32,339
+Les sources de trafic? D'où viennent les
+visiteurs? Et on utilise quoi comme outil?
+
+90
+00:05:32,719 --> 00:05:35,699
+Google Analytics, Search Console? Ce sont
+les bases,
+
+91
+00:05:35,699 --> 00:05:40,219
+oui. Et les tests A-B sont très utiles
+pour comparer deux versions d'une page et
+
+92
+00:05:40,219 --> 00:05:43,739
+voir ce qui marche le mieux. Bon, pour
+résumer, le SEO,
+
+93
+00:05:43,839 --> 00:05:46,899
+c'est pas de la magie noire, c'est un
+travail sur le long terme.
+
+94
+00:05:46,919 --> 00:05:50,019
+Exactement. Tout est basé sur la
+compréhension de l'utilisateur,
+
+95
+00:05:50,279 --> 00:05:54,119
+la création de valeur, avoir un contenu
+utile, fiable,
+
+96
+00:05:54,279 --> 00:05:59,039
+accessible. Bien présenté, qui gagne la
+confiance des visiteurs et des
+
+97
+00:05:59,059 --> 00:06:02,239
+moteurs. C'est un investissement, pas une
+dépense ponctuelle.
+
+98
+00:06:02,259 --> 00:06:06,179
+C'est clair. Un travail continu. Belle
+synthèse. Et pour finir,
+
+99
+00:06:06,519 --> 00:06:11,019
+une petite question pour réfléchir. Si on
+pousse vraiment cette idée de comprendre
+
+100
+00:06:11,019 --> 00:06:14,999
+l'intention de recherche au maximum. Oui.
+Comment ça pourrait changer toute notre
+
+101
+00:06:15,039 --> 00:06:17,639
+façon de communiquer en ligne? Pas juste
+sur un site web.
+
+102
+00:06:17,899 --> 00:06:20,179
+Je pense aux applis, aux chatbots, aux
+réseaux sociaux,
+
+103
+00:06:20,519 --> 00:06:24,119
+même aux assistants vocaux. Ah oui, ça
+ouvre pas mal de portes sur l'avenir de
+
+104
+00:06:24,139 --> 00:06:26,008
+l'interaction digitale, en effet. Facile
+à...
