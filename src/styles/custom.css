@@ -95,6 +95,13 @@
         font-size: 20px;
         font-weight: 500;
     }
+
+    .highlighted {
+        background: yellow;
+        padding: 0 2px;
+        border-radius: 3px;
+    }
+
 }
 
 /* ----------- CALLOUT ----------- */

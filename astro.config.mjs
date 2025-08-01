@@ -30,6 +30,10 @@ export default defineConfig({
           tag: "meta",
           attrs: { name: "robots", content: "noindex, nofollow" },
         },
+        {
+          tag: "script",
+          attrs: { type: "module", src: "./src/scripts/highlight.js" },
+        },
       ],
       defaultLocale: "fr",
       locales: {
@@ -66,15 +70,19 @@ export default defineConfig({
           label: "Design Sprint",
           items: [
             { label: "Introduction", link: "/design-sprint/" },
-            { label: "Understand, Sketch, Decide", link: "/design-sprint/understand-sketch-decide" },
-            { label: "Storyboarding, Prototypage & Tests", link: "/design-sprint/storyboarding-prototyping-testing" },
+            {
+              label: "Understand, Sketch, Decide",
+              link: "/design-sprint/understand-sketch-decide",
+            },
+            {
+              label: "Storyboarding, Prototypage & Tests",
+              link: "/design-sprint/storyboarding-prototyping-testing",
+            },
           ],
         },
         {
           label: "Marketing",
-          items: [
-            { label: "Introduction", link: "/marketing/" },
-          ],
+          items: [{ label: "Introduction", link: "/marketing/" }],
         },
       ],
     }),
