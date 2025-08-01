@@ -1,0 +1,413 @@
+1
+00:00:00,099 --> 00:00:03,239
+Bienvenue à cette exploration des
+stratégies de marketing sur les réseaux
+
+2
+00:00:03,259 --> 00:00:07,959
+sociaux. On a regardé quelques extraits
+d'un guide sur le sujet et ce qui ressort,
+
+3
+00:00:07,960 --> 00:00:09,980
+c'est qu'être présent, bon, c'est une
+chose... Oui.
+
+4
+00:00:10,420 --> 00:00:13,619
+Mais transformer ça en vrai levier
+stratégique, c'en est une autre.
+
+5
+00:00:14,039 --> 00:00:18,819
+Voyons un peu comment on fait ça.
+Absolument. Il s'agit pas juste d'être là
+
+6
+00:00:18,959 --> 00:00:23,499
+pour dire qu'on y est. Non, l'idée, c'est
+vraiment de construire méthodiquement la
+
+7
+00:00:23,519 --> 00:00:26,940
+visibilité, l'interaction, la réputation
+d'une marque.
+
+8
+00:00:27,459 --> 00:00:30,059
+C'est, c'est une démarche qui demande de
+la réflexion.
+
+9
+00:00:30,159 --> 00:00:33,959
+Alors justement, au-delà de la simple
+présence, quels bénéfices concrets sont
+
+10
+00:00:33,959 --> 00:00:37,639
+mis en avant? On lit des choses sur
+l'augmentation de la notoriété,
+
+11
+00:00:38,000 --> 00:00:41,539
+euh, créer du lien avec les clients,
+maîtriser son image.
+
+12
+00:00:41,700 --> 00:00:45,099
+Tout à fait. Et aussi ce ciblage très
+précis du public.
+
+13
+00:00:45,559 --> 00:00:49,979
+Il y a même cette vieille citation d'IBM
+qui rappelait sur la nouvelle d'un bon
+
+14
+00:00:49,979 --> 00:00:52,679
+produit qui se répand comme une traînée de
+poudre. Bon,
+
+15
+00:00:52,819 --> 00:00:55,159
+est-ce que ça tient toujours, ça, avec les
+algos d'aujourd'hui?
+
+16
+00:00:55,159 --> 00:00:58,319
+C'est une excellente question. Le principe
+de base,
+
+17
+00:00:58,319 --> 00:01:02,019
+oui, il reste valable. Un bon réputation,
+un produit qui plaît,
+
+18
+00:01:02,039 --> 00:01:05,539
+ça peut se propager vite. Mais, et c'est
+ce que les sources soulignent bien,
+
+19
+00:01:05,879 --> 00:01:09,199
+les mécanismes ont changé. Ah oui. Oui, la
+viralité aujourd'hui,
+
+20
+00:01:09,199 --> 00:01:11,819
+elle est très influencée par les
+algorithmes. Du coup,
+
+21
+00:01:11,839 --> 00:01:16,059
+une stratégie bien pensée et encore plus,
+euh, indispensable.
+
+22
+00:01:16,359 --> 00:01:19,239
+On peut plus juste compter sur le hasard
+quoi. Et comme vous disiez,
+
+23
+00:01:19,239 --> 00:01:22,339
+la présence seule, ça suffit pas. Le choix
+des plateformes,
+
+24
+00:01:22,619 --> 00:01:25,499
+c'est, c'est déterminant. Justement,
+comment on choisit?
+
+25
+00:01:25,919 --> 00:01:28,839
+C'est pas évident, il y en a tellement.
+Bah, les documents sont assez clairs
+
+26
+00:01:28,939 --> 00:01:32,359
+là-dessus. Ça dépend des objectifs et du
+public qu'on veut toucher.
+
+27
+00:01:32,399 --> 00:01:37,139
+D'accord. Par exemple, euh, pour les
+jeunes, avec du contenu très court,
+
+28
+00:01:37,139 --> 00:01:40,179
+très percutant, bah souvent, c'est TikTok
+qui est privilégié.
+
+29
+00:01:40,599 --> 00:01:44,999
+Pour le B2B, la com entre entreprises, et
+puis pour montrer son expertise,
+
+30
+00:01:45,019 --> 00:01:48,439
+là, c'est LinkedIn. C'est incontournable.
+Logique. Instagram,
+
+31
+00:01:48,459 --> 00:01:52,319
+lui, c'est beaucoup sur l'image, le
+visuel, le storytelling.
+
+32
+00:01:52,599 --> 00:01:55,839
+Et Facebook, bon, ça reste intéressant
+pour une audience très large et pour les
+
+33
+00:01:55,859 --> 00:01:59,199
+groupes, les communautés. D'accord. On
+voit bien qu'il faut vraiment adapter
+
+34
+00:01:59,219 --> 00:02:04,159
+l'approche. Et, euh, les sources insistent
+pas mal sur l'importance de définir
+
+35
+00:02:04,159 --> 00:02:07,079
+des objectifs clairs avant de, bah, avant
+de se lancer quoi.
+
+36
+00:02:07,139 --> 00:02:11,119
+Exactement. Elles parlent de trois
+niveaux. Faire connaître la marque,
+
+37
+00:02:11,139 --> 00:02:16,139
+ça c'est le cognitif, la faire aimer,
+l'affectif, et puis pousser à l'action,
+
+38
+00:02:16,159 --> 00:02:20,619
+genre un achat ou une inscription, le
+comportemental. Mais comment on,
+
+39
+00:02:20,859 --> 00:02:24,679
+on choisit entre ces trois-là? En fait, ça
+découle de la stratégie globale de
+
+40
+00:02:24,679 --> 00:02:27,279
+l'entreprise. Ces objectifs sur les
+réseaux sociaux,
+
+41
+00:02:27,299 --> 00:02:29,379
+ils doivent servir les buts commerciaux
+plus larges,
+
+42
+00:02:29,379 --> 00:02:31,619
+si vous voulez. Et pour structurer un peu
+tout ça,
+
+43
+00:02:31,639 --> 00:02:35,219
+il y a une méthode qui est présentée, euh,
+TomStor. TomStor?
+
+44
+00:02:35,299 --> 00:02:39,619
+Oui, c'est un acronyme. Cible, target,
+objectif, message,
+
+45
+00:02:39,859 --> 00:02:43,459
+stratégie, donc les plateformes, les
+outils comme Hootsuite ou Buffer,
+
+46
+00:02:43,939 --> 00:02:48,099
+évaluation et ressource. TomStor. Ah oui,
+ça a l'air d'être une bonne checklist
+
+47
+00:02:48,099 --> 00:02:51,899
+pour, euh, pour être sûr de rien oublier.
+Est-ce qu'il y a un élément de cette
+
+48
+00:02:51,939 --> 00:02:55,079
+méthode qui est particulièrement important
+selon les sources?
+
+49
+00:02:55,299 --> 00:02:58,059
+Ce qui ressort, peut-être, c'est
+l'insistance sur la fin,
+
+50
+00:02:58,539 --> 00:03:03,519
+R pour ressource. Le guide rappelle qu'une
+stratégie, même si elle est
+
+51
+00:03:03,539 --> 00:03:08,279
+géniale sur le papier, bah, elle marchera
+pas sans un budget et du temps humain
+
+52
+00:03:08,819 --> 00:03:12,079
+clairement défini et alloué. C'est un
+rappel au pragmatisme quoi.
+
+53
+00:03:12,359 --> 00:03:16,559
+C'est essentiel dans ce domaine. Très
+juste. Une fois qu'on a la stratégie,
+
+54
+00:03:16,879 --> 00:03:19,939
+les ressources via TomStor, j'imagine que
+l'étape d'après,
+
+55
+00:03:20,259 --> 00:03:23,059
+qui est aussi cruciale d'après ce qu'on a
+lu, c'est de mesurer,
+
+56
+00:03:23,319 --> 00:03:25,839
+savoir si ça marche en gros. Oui, comment
+on évalue?
+
+57
+00:03:25,979 --> 00:03:29,939
+C'est ça. Grâce aux Social Media
+Analytics. En fait,
+
+58
+00:03:29,979 --> 00:03:34,699
+on analyse tout un tas de données.
+Certaines sont quantitatives : le nombre
+
+59
+00:03:34,719 --> 00:03:37,739
+d'abonnés, la portée des posts, les clics
+vers le site web,
+
+60
+00:03:37,739 --> 00:03:40,579
+les conversions. D'accord. Les chiffres,
+quoi. Voilà.
+
+61
+00:03:40,839 --> 00:03:44,159
+Et d'autres sont plus qualitatives. Euh,
+c'est quoi le ton général des
+
+62
+00:03:44,199 --> 00:03:47,779
+commentaires? Positifs, négatifs? Quels
+sujets reviennent souvent?
+
+63
+00:03:47,999 --> 00:03:51,099
+On suit des indicateurs clés de
+performance, les fameux KPI.
+
+64
+00:03:51,139 --> 00:03:54,739
+Les KPI, oui. Bon pour mesurer, par
+exemple, le taux d'engagement,
+
+65
+00:03:55,099 --> 00:03:58,599
+c'est-à-dire la proportion des gens qui
+interagissent vraiment,
+
+66
+00:03:58,759 --> 00:04:02,759
+les likes, les commentaires, les partages.
+Et on cite des outils comme Hootsuite,
+
+67
+00:04:02,819 --> 00:04:06,659
+Sprout Social, Google Analytics pour aider
+à faire ce suivi.
+
+68
+00:04:06,899 --> 00:04:09,879
+Bon donc si on essaye de résumer le
+message clé de tout ça,
+
+69
+00:04:10,679 --> 00:04:14,579
+euh, le marketing sur les réseaux sociaux,
+euh, c'est pas de l'impro.
+
+70
+00:04:14,679 --> 00:04:18,259
+Ah non. C'est une discipline qui demande
+une stratégie solide,
+
+71
+00:04:18,559 --> 00:04:21,619
+une bonne connaissance de chaque
+plateforme et puis un suivi,
+
+72
+00:04:21,839 --> 00:04:24,319
+un suivi rigoureux des résultats. C'est
+tout à fait ça.
+
+73
+00:04:24,819 --> 00:04:29,059
+Quand c'est utilisé intelligemment et que
+c'est cohérent avec les objectifs généraux
+
+74
+00:04:29,059 --> 00:04:32,839
+de l'entreprise, alors là, oui, les
+réseaux sociaux deviennent un outil très
+
+75
+00:04:32,859 --> 00:04:36,599
+puissant pour communiquer, fidéliser et
+même pour vendre.
+
+76
+00:04:37,039 --> 00:04:41,639
+Et des cas comme TomStor, justement, ça
+aide à garantir cette approche structurée,
+
+77
+00:04:41,899 --> 00:04:45,999
+réfléchie. Parfait. Et pour terminer,
+peut-être une petite question qui sort un
+
+78
+00:04:46,019 --> 00:04:48,579
+peu de nos lectures du jour. On sait que
+ces plateformes,
+
+79
+00:04:48,619 --> 00:04:51,779
+les algorithmes, ça change tout le temps,
+c'est en évolution constante.
+
+80
+00:04:52,619 --> 00:04:56,079
+Dans ce contexte, comment est-ce que la
+notion même d'engagement dont on vient de
+
+81
+00:04:56,099 --> 00:04:58,399
+parler pourrait évoluer dans les
+prochaines années?
+
+82
+00:04:58,959 --> 00:05:02,219
+Et quel impact ça pourrait avoir sur les
+stratégies marketing futures?
+
+83
+00:05:03,099 --> 00:05:04,529
+Ça laisse à réfléchir.
