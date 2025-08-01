@@ -1,0 +1,494 @@
+1
+00:00:00,119 --> 00:00:04,480
+Bonjour et bienvenue. Alors aujourd'hui,
+on va explorer un peu le design thinking.
+
+2
+00:00:04,920 --> 00:00:08,060
+C'est une approche dont on entend pas mal
+parler pour innover.
+
+3
+00:00:08,260 --> 00:00:12,060
+Oui, bonjour. On a quelques sources sous
+les yeux qui expliquent un peu le concept.
+
+4
+00:00:12,380 --> 00:00:15,699
+Et l'idée, bah, c'est de comprendre
+comment ça marche et surtout pourquoi
+
+5
+00:00:15,699 --> 00:00:18,639
+c'est utile aujourd'hui. Absolument. Et
+son utilité,
+
+6
+00:00:18,699 --> 00:00:21,600
+elle vient vraiment de cette promesse de,
+comment dire,
+
+7
+00:00:21,619 --> 00:00:25,520
+de créer des choses, des produits, des
+services qui répondent vraiment aux
+
+8
+00:00:25,539 --> 00:00:29,079
+besoins des gens. On essaye de sortir un
+peu de la simple intuition,
+
+9
+00:00:29,179 --> 00:00:31,759
+tu vois, pour aller vers une compréhension
+plus, plus fine,
+
+10
+00:00:31,760 --> 00:00:34,379
+quoi. C'est exactement ça. Le cœur du
+truc, si on veut,
+
+11
+00:00:34,700 --> 00:00:37,399
+c'est de s'attaquer à des problèmes,
+parfois assez complexes d'ailleurs,
+
+12
+00:00:37,599 --> 00:00:40,359
+mais en mettant toujours l'humain,
+l'utilisateur final,
+
+13
+00:00:40,579 --> 00:00:43,680
+au centre. Oui. C'est une démarche, en
+fait, qui essaye de stimuler la
+
+14
+00:00:43,719 --> 00:00:46,520
+créativité, mais de façon structurée. Tout
+à fait.
+
+15
+00:00:46,520 --> 00:00:50,019
+Et justement, pour cette structure, on
+parle souvent d'un parcours en cinq
+
+16
+00:00:50,059 --> 00:00:53,859
+étapes. Attention, ce n'est pas une
+recette magique qu'il faut suivre à la
+
+17
+00:00:53,879 --> 00:00:56,799
+lettre, mais c'est plus un guide, une
+méthode. Ok.
+
+18
+00:00:56,819 --> 00:01:00,359
+Alors, euh, c'est là que ça devient
+intéressant. Voyons ces cinq étapes.
+
+19
+00:01:00,659 --> 00:01:05,239
+La première, c'est l'empathie. Donc là,
+l'idée, c'est de vraiment se connecter à
+
+20
+00:01:05,279 --> 00:01:07,599
+ce que vivent les utilisateurs, leurs
+émotions aussi.
+
+21
+00:01:07,759 --> 00:01:10,579
+Oui. Concrètement, on fait comment? Ben,
+on va sur le terrain,
+
+22
+00:01:10,739 --> 00:01:15,399
+on regarde, on discute avec les gens, on
+fait des entretiens assez ouverts.
+
+23
+00:01:15,499 --> 00:01:18,939
+C'est ça. Et pour formaliser un peu tout
+ça, on peut utiliser des outils comme les
+
+24
+00:01:18,979 --> 00:01:23,059
+persona. Tu sais, ces portraits un peu
+fictifs d'utilisateurs types pour garder
+
+25
+00:01:23,079 --> 00:01:27,519
+leurs besoins en tête. Ou alors les cartes
+d'empathie qui aident à synthétiser ce que
+
+26
+00:01:27,539 --> 00:01:32,399
+la personne voit, entend, pense, ressent.
+C'est vraiment pour se mettre à sa place.
+
+27
+00:01:32,459 --> 00:01:35,499
+Fondamental, mais j'imagine que c'est
+facile de rester en surface,
+
+28
+00:01:35,519 --> 00:01:38,359
+non? Il faut vraiment faire l'effort
+d'écouter activement.
+
+29
+00:01:38,359 --> 00:01:43,179
+Exactement. Et de questionner ses propres
+biais, c'est crucial.
+
+30
+00:01:43,579 --> 00:01:48,299
+Bon, une fois qu'on a fait cette
+immersion, on passe à la définition.
+
+31
+00:01:48,819 --> 00:01:51,879
+Là, il s'agit de prendre tout ce qu'on a
+appris et de dire : OK,
+
+32
+00:01:51,939 --> 00:01:55,119
+c'est quoi le vrai problème qu'on doit
+résoudre? Du point de vue de
+
+33
+00:01:55,119 --> 00:01:58,759
+l'utilisateur, toujours? Toujours. On
+cherche pas juste les symptômes,
+
+34
+00:01:58,779 --> 00:02:01,899
+mais la cause profonde du besoin. Il y a
+des techniques pour ça,
+
+35
+00:02:01,919 --> 00:02:04,659
+comme les cinq pourquoi's, tu sais, poser
+la question : pourquoi?
+
+36
+00:02:04,679 --> 00:02:08,339
+Plusieurs fois de suite pour creuser. Ok.
+Problème bien défini.
+
+37
+00:02:08,619 --> 00:02:12,699
+Et ensuite? C'est l'idéation, c'est ça. Le
+moment où on se lâche.
+
+38
+00:02:13,019 --> 00:02:17,159
+Voilà. Là, on ouvre les vannes.
+L'objectif, c'est de générer un maximum,
+
+39
+00:02:17,359 --> 00:02:21,299
+mais vraiment un maximum d'idées de
+solutions. Surtout sans jugement à ce
+
+40
+00:02:21,339 --> 00:02:23,899
+stade. On pense tout de suite au
+brainstorming, évidemment.
+
+41
+00:02:23,979 --> 00:02:26,339
+Différentes pistes autour d'une idée
+centrale. Bon,
+
+42
+00:02:26,399 --> 00:02:29,799
+on a plein d'idées, même des un peu
+folles. Il ne faut pas que ça reste juste
+
+43
+00:02:29,799 --> 00:02:32,019
+sur le papier, j'imagine. C'est le
+prototypage, hein?
+
+44
+00:02:32,019 --> 00:02:36,519
+Exactement. C'est l'étape où on va essayer
+de rendre ces idées tangibles,
+
+45
+00:02:36,819 --> 00:02:39,379
+concrètes, et surtout rapidement et à
+faible coût.
+
+46
+00:02:39,559 --> 00:02:42,339
+Genre une maquette en carton? Un truc
+cliquable sur écran?
+
+47
+00:02:42,339 --> 00:02:45,799
+Tout à fait. Ou même un petit jeu de rôle
+pour simuler une expérience.
+
+48
+00:02:46,079 --> 00:02:49,159
+L'important, c'est de pouvoir montrer
+quelque chose pour avoir des retours.
+
+49
+00:02:49,259 --> 00:02:51,999
+On est vraiment dans l'expérimentation
+rapide. L'échec,
+
+50
+00:02:51,999 --> 00:02:55,399
+ici, c'est pas grave. Ça fait partie de
+l'apprentissage. Ce qui nous amène
+
+51
+00:02:55,759 --> 00:03:00,719
+logiquement à la cinquième étape, le test.
+On prend notre prototype et on le
+
+52
+00:03:00,759 --> 00:03:04,139
+met entre les mains des utilisateurs. Et
+on observe,
+
+53
+00:03:04,339 --> 00:03:07,499
+on écoute leurs réactions, leurs
+commentaires. Est-ce que ça répond
+
+54
+00:03:07,499 --> 00:03:10,779
+vraiment au problème qu'on avait défini au
+départ? C'est souvent là qu'on a des
+
+55
+00:03:10,799 --> 00:03:13,599
+surprises, d'ailleurs. On découvre des
+trucs auxquels on n'avait pas pensé.
+
+56
+00:03:13,599 --> 00:03:16,599
+Voilà, des usages détournés ou des points
+qui bloquent.
+
+57
+00:03:16,859 --> 00:03:19,219
+Et alors, ce qui est important de
+comprendre, c'est que ce n'est pas une
+
+58
+00:03:19,219 --> 00:03:23,839
+autoroute, ces cinq étapes. Ah non, pas du
+tout. C'est là toute la beauté du truc,
+
+59
+00:03:23,839 --> 00:03:27,479
+si on peut dire. C'est itératif, c'est une
+boucle. Les retours du test,
+
+60
+00:03:27,479 --> 00:03:30,319
+bah ça peut nous faire revenir à
+l'idéation pour améliorer l'idée.
+
+61
+00:03:30,679 --> 00:03:34,359
+Voire même à la définition. Exactement. Si
+on se rend compte que finalement,
+
+62
+00:03:34,379 --> 00:03:38,199
+on n'avait pas bien cerné le problème au
+début, on navigue entre les étapes,
+
+63
+00:03:38,479 --> 00:03:41,879
+on ajuste, on affine. C'est cette
+flexibilité qui est essentielle.
+
+64
+00:03:41,879 --> 00:03:46,339
+Tout à fait. Et il y a une évolution
+intéressante, plus récente,
+
+65
+00:03:46,859 --> 00:03:51,719
+c'est le design thinking circulaire. Oui.
+L'idée, c'est d'intégrer les questions de
+
+66
+00:03:51,799 --> 00:03:55,779
+durabilité, d'impact environnemental dès
+le début du processus.
+
+67
+00:03:55,879 --> 00:03:59,859
+C'est ça? C'est tout à fait ça. Ce n'est
+plus une couche qu'on ajoute à la fin,
+
+68
+00:03:59,859 --> 00:04:03,799
+mais un critère de conception dès le
+départ. On garde les mêmes principes,
+
+69
+00:04:03,979 --> 00:04:06,979
+centrés sur l'humain, mais on élargit la
+focale pour inclure,
+
+70
+00:04:07,259 --> 00:04:10,239
+bah les limites de la planète, quoi. Et
+comment ça se traduit concrètement?
+
+71
+00:04:10,299 --> 00:04:14,199
+Souvent, ça passe par l'intégration des
+principes de l'économie circulaire.
+
+72
+00:04:14,199 --> 00:04:17,939
+On parle des cinq R, tu sais. Réduire la
+consommation de ressources,
+
+73
+00:04:17,939 --> 00:04:22,419
+penser à la réparation dès la conception,
+encourager la réutilisation,
+
+74
+00:04:22,499 --> 00:04:26,259
+envisager la refabrication, la remise à
+neuf et bien sûr,
+
+75
+00:04:26,319 --> 00:04:29,939
+optimiser leur recyclage. Donc, dès la
+phase d'idéation,
+
+76
+00:04:29,939 --> 00:04:32,439
+par exemple, on pourrait se poser la
+question. Exactement.
+
+77
+00:04:32,499 --> 00:04:37,379
+On peut se demander comment on répond à ce
+besoin en utilisant moins de matière ou
+
+78
+00:04:37,379 --> 00:04:41,219
+avec une matière recyclée? Comment on fait
+pour que ce soit facile à démonter,
+
+79
+00:04:41,219 --> 00:04:44,879
+à réparer? Ce sont des questions qu'on
+intègre au processus créatif.
+
+80
+00:04:44,919 --> 00:04:47,499
+D'accord. Donc, si on essaye de résumer un
+peu tout ça,
+
+81
+00:04:48,179 --> 00:04:52,779
+le design thinking, c'est une méthode et
+un état d'esprit pour
+
+82
+00:04:52,779 --> 00:04:55,919
+innover en partant vraiment des besoins
+des utilisateurs.
+
+83
+00:04:55,979 --> 00:04:59,179
+Oui. Ça propose un cadre avec ces cinq
+étapes : empathie,
+
+84
+00:04:59,199 --> 00:05:03,559
+définition, idéation, prototypage, test,
+mais un cadre très flexible,
+
+85
+00:05:03,719 --> 00:05:08,559
+itératif. C'est ça. On boucle, on ajuste.
+Et sa version circulaire ajoute cette
+
+86
+00:05:08,579 --> 00:05:11,859
+dimension indispensable aujourd'hui de
+responsabilité écologique.
+
+87
+00:05:12,039 --> 00:05:16,179
+Tout à fait. Et tu vois, tout ça, ça
+soulève une réflexion intéressante,
+
+88
+00:05:16,179 --> 00:05:20,299
+je trouve. On voit bien comment
+l'empathie, cette première étape,
+
+89
+00:05:20,299 --> 00:05:23,379
+est puissante pour concevoir des produits
+ou des services qui marchent.
+
+90
+00:05:23,519 --> 00:05:28,239
+Mais si on poussait cette idée d'empathie
+profonde, cette vraie capacité à
+
+91
+00:05:28,259 --> 00:05:31,879
+comprendre le point de vue de l'autre, ses
+contraintes, au-delà de la création de
+
+92
+00:05:31,899 --> 00:05:36,059
+produits? C'est-à-dire? Et bien, comment
+est-ce que son implication rigoureuse,
+
+93
+00:05:36,139 --> 00:05:40,399
+systématique, pourrait transformer la
+façon dont on aborde d'autres défis
+
+94
+00:05:40,419 --> 00:05:45,239
+complexes? Je pense aux tensions sociales,
+aux changements dans les entreprises ou
+
+95
+00:05:45,259 --> 00:05:48,419
+même à nos propres dilemmes personnels.
+Ah, oui.
+
+96
+00:05:48,419 --> 00:05:51,059
+Quelle serait la portée de cette écoute
+vraiment active,
+
+97
+00:05:51,059 --> 00:05:55,559
+de cette recherche de compréhension
+mutuelle, si on l'utilisait plus largement
+
+98
+00:05:55,559 --> 00:05:59,299
+comme un outil pour résoudre des
+problèmes, pour dénouer des situations?
+
+99
+00:05:59,999 --> 00:06:02,927
+C'est une piste qui mérite sans doute
+qu'on s'y attarde un peu plus.

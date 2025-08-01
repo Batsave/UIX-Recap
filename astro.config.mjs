@@ -51,6 +51,11 @@ export default defineConfig({
         { label: "Personnalisation & UX", link: "/ux-personalization" },
         { label: "Accessibilité", link: "/accessibility" },
         { label: "Amélioration continue", link: "/continuous-improvement" },
+
+        {
+          label: "Design Thinking",
+          autogenerate: { directory: "design-thinking" },
+        },
       ],
     }),
   ],
