@@ -1,0 +1,473 @@
+1
+00:00:00,119 --> 00:00:04,059
+Bonjour. Aujourd'hui, on va parler
+accessibilité numérique.
+
+2
+00:00:04,699 --> 00:00:07,459
+C'est un terme qu'on entend de plus en
+plus, mais,
+
+3
+00:00:07,480 --> 00:00:11,020
+euh, concrètement, ça veut dire quoi?
+Bonjour. Bah,
+
+4
+00:00:11,079 --> 00:00:13,859
+pour faire simple, c'est concevoir les
+sites web,
+
+5
+00:00:13,979 --> 00:00:17,520
+les applis, enfin, tout le numérique pour
+que tout le monde puisse s'en servir,
+
+6
+00:00:17,940 --> 00:00:21,079
+y compris les personnes qui ont des
+limitations, qu'elles soient permanentes
+
+7
+00:00:21,079 --> 00:00:25,020
+ou, ou même juste temporaires. D'accord.
+L'idée, c'est vraiment de,
+
+8
+00:00:25,180 --> 00:00:27,999
+de lutter contre l'exclusion en ligne, si
+je comprends bien.
+
+9
+00:00:28,260 --> 00:00:31,859
+C'est tout à fait ça : créer une
+expérience qui n'oublie personne.
+
+10
+00:00:32,418 --> 00:00:35,219
+Pour en parler, on s'appuie sur un
+document très intéressant :
+
+11
+00:00:35,700 --> 00:00:39,399
+l'accessibilité numérique, principes,
+normes et bonnes pratiques.
+
+12
+00:00:39,439 --> 00:00:43,499
+Parfait. Et l'objectif, c'est de voir
+ensemble pourquoi c'est si essentiel et
+
+13
+00:00:43,520 --> 00:00:46,459
+puis, euh, comment on peut faire,
+concrètement. Alors justement,
+
+14
+00:00:46,459 --> 00:00:50,659
+pourquoi c'est si crucial? Le document
+parle de bénéfices et ça va plus loin que
+
+15
+00:00:50,739 --> 00:00:53,859
+juste faire bien, non? On évoque la loi,
+bien sûr.
+
+16
+00:00:54,079 --> 00:00:57,879
+Oui, la conformité légale, c'est un gros
+morceau. Mais aussi des effets sur le SEO,
+
+17
+00:00:58,000 --> 00:01:00,719
+l'image de marque. C'est assez large, en
+fait. Exactement.
+
+18
+00:01:01,059 --> 00:01:03,619
+Et le côté légal, il faut pas le
+sous-estimer. En France,
+
+19
+00:01:03,619 --> 00:01:08,579
+par exemple, on a le RGAA, le référentiel
+général d'amélioration
+
+20
+00:01:08,599 --> 00:01:13,159
+de l'accessibilité. Il impose des règles
+claires, surtout pour les services publics
+
+21
+00:01:13,579 --> 00:01:18,519
+basés sur les normes internationales, les
+WCAG. Ne pas
+
+22
+00:01:18,559 --> 00:01:21,939
+s'y tenir, c'est risquer des sanctions,
+oui, mais c'est surtout,
+
+23
+00:01:22,059 --> 00:01:23,919
+ben, pff... C'est surtout laisser des gens
+de côté.
+
+24
+00:01:23,919 --> 00:01:26,959
+C'est un argument fort. Et qui sont ces
+personnes, justement?
+
+25
+00:01:27,279 --> 00:01:29,379
+Celles qu'on risque d'exclure, on pense
+tout de suite,
+
+26
+00:01:29,859 --> 00:01:33,339
+euh, au handicap visuel, la cécité, le
+daltonisme. Oui,
+
+27
+00:01:33,359 --> 00:01:37,479
+bien sûr. Pour elles, des choses comme les
+lecteurs d'écran qui lisent la page,
+
+28
+00:01:37,739 --> 00:01:41,559
+les bons contrastes de couleurs et puis
+les textes alternatifs pour décrire les
+
+29
+00:01:41,599 --> 00:01:45,679
+images, c'est, c'est vital. D'accord. Mais
+attention, ce n'est pas tout.
+
+30
+00:01:45,959 --> 00:01:49,379
+Il y a aussi les personnes sourdes ou
+malentendantes. Pour elles,
+
+31
+00:01:49,399 --> 00:01:52,839
+des vidéos sans sous-titres, c'est juste
+inutilisable. Logique.
+
+32
+00:01:53,119 --> 00:01:56,279
+Et il faut aussi penser aux troubles
+cognitifs, la dyslexie,
+
+33
+00:01:56,359 --> 00:02:00,219
+le TDAH. Une interface simple, claire,
+bien structurée,
+
+34
+00:02:00,379 --> 00:02:02,999
+ça change tout pour elle. Ha oui, on y
+pense moins souvent peut-être.
+
+35
+00:02:02,999 --> 00:02:06,679
+Et puis, il y a les handicaps moteurs.
+Imaginez quelqu'un qui ne peut pas
+
+36
+00:02:06,679 --> 00:02:10,679
+utiliser une souris. Si le site n'est pas
+entièrement navigable au clavier,
+
+37
+00:02:10,859 --> 00:02:14,479
+ben, c'est une impasse totale. Ça fait
+beaucoup de monde concerné,
+
+38
+00:02:14,479 --> 00:02:17,919
+au final. Et sur le web d'aujourd'hui,
+c'est quoi les erreurs les plus courantes,
+
+39
+00:02:17,919 --> 00:02:20,399
+les obstacles qu'on rencontre le plus
+souvent? Ouh là!
+
+40
+00:02:21,039 --> 00:02:25,399
+Malheureusement, il y en a pas mal. Le
+grand classique : les images sans texte
+
+41
+00:02:25,439 --> 00:02:29,639
+alternatif, le fameux alt. Le lecteur
+d'écran bute dessus,
+
+42
+00:02:29,659 --> 00:02:32,879
+l'info est perdue. Mh. Les formulaires
+aussi, hein.
+
+43
+00:02:33,279 --> 00:02:35,939
+Des champs sans étiquette claire, on sait
+pas ce qu'il faut remplir,
+
+44
+00:02:36,019 --> 00:02:40,279
+c'est une vraie galère. La navigation au
+clavier qui coince à mi-shumin,
+
+45
+00:02:40,279 --> 00:02:44,259
+ça, c'est très fréquent. Ou alors des
+contrastes de couleurs trop faibles,
+
+46
+00:02:44,319 --> 00:02:47,959
+du texte gris clair sur fond blanc, par
+exemple. Pour certaines personnes,
+
+47
+00:02:47,959 --> 00:02:50,859
+c'est juste illisible. Des détails qui
+bloquent complètement l'accès,
+
+48
+00:02:50,879 --> 00:02:54,119
+en fait. Pour éviter ça, il existe des,
+des règles du jeu?
+
+49
+00:02:54,119 --> 00:02:58,379
+Des normes, absolument. La référence
+mondiale, ce sont les WCAG,
+
+50
+00:02:58,839 --> 00:03:03,679
+les Web Content Accessibility Guidelines.
+C'est le W3C qui les publie.
+
+51
+00:03:04,319 --> 00:03:08,359
+Et en France, le RGAA dont on parlait
+s'appuie directement dessus.
+
+52
+00:03:08,679 --> 00:03:11,419
+Pour les éléments plus interactifs, genre
+les menus complexes,
+
+53
+00:03:11,419 --> 00:03:15,999
+les carrousels, on a aussi WAI-ARIA. C'est
+une spécification technique pour les
+
+54
+00:03:15,999 --> 00:03:18,579
+rendre compréhensibles par les
+technologies d'assistance.
+
+55
+00:03:19,119 --> 00:03:24,079
+WCAG, RGAA, WAI-ARIA. D'accord. Et si on
+
+56
+00:03:24,079 --> 00:03:27,499
+veut passer à l'action, quelles sont les
+bonnes pratiques vraiment essentielles?
+
+57
+00:03:27,659 --> 00:03:30,779
+Par quoi on commence? Alors quelques
+points sont vraiment fondamentaux.
+
+58
+00:03:30,779 --> 00:03:34,979
+D'abord fournir des textes alternatifs
+utiles, descriptifs pour toutes les images
+
+59
+00:03:34,999 --> 00:03:37,819
+qui apportent une information. Pas juste
+image, quoi.
+
+60
+00:03:37,819 --> 00:03:42,239
+Oui, un vrai descriptif. Ensuite, le
+contraste. Assurer un contraste suffisant
+
+61
+00:03:42,239 --> 00:03:45,599
+entre le texte et son fond. Le minimum
+recommandé, c'est un ratio de quatre point
+
+62
+00:03:45,639 --> 00:03:48,459
+cinq pour un. C'est crucial. Quatre point
+cinq pour un.
+
+63
+00:03:48,739 --> 00:03:51,839
+Noté. Et puis, garantir que tout,
+absolument tout,
+
+64
+00:03:51,939 --> 00:03:54,859
+est faisable au clavier, sans souris.
+C'est un test de Deuce.
+
+65
+00:03:55,039 --> 00:03:59,079
+Ce test clavier revient souvent, on
+dirait. C'est un pilier essentiel,
+
+66
+00:03:59,699 --> 00:04:03,299
+comme structure de la page. Utiliser
+correctement les titres H1,
+
+67
+00:04:03,339 --> 00:04:08,319
+H2, H3. Ça crée un plan logique, super
+utile pour ceux qui naviguent avec
+
+68
+00:04:08,319 --> 00:04:12,139
+un lecteur d'écran. Et pour les vidéos,
+c'est simple : toujours des sous-titres.
+
+69
+00:04:12,459 --> 00:04:15,579
+Et si l'image est essentielle pour
+comprendre une audiodescription.
+
+70
+00:04:16,099 --> 00:04:18,939
+En gros, l'info ne doit jamais reposer sur
+un seul sens.
+
+71
+00:04:18,939 --> 00:04:22,719
+C'est clair. Et est-ce qu'on a des outils
+pour vérifier si on fait bien les choses
+
+72
+00:04:22,899 --> 00:04:26,739
+pour nous aider? Oui, heureusement. Il y a
+des outils d'audit automatique comme
+
+73
+00:04:26,819 --> 00:04:31,259
+Lighthouse, intégré dans Chrome, ou des
+extensions comme axe Dev Tools.
+
+74
+00:04:31,659 --> 00:04:35,579
+Ils détectent pas mal de problèmes
+techniques. Il y a aussi des simulateurs
+
+75
+00:04:35,579 --> 00:04:38,319
+de lecteur d'écran, des outils pour
+vérifier les contrastes.
+
+76
+00:04:38,659 --> 00:04:41,759
+Mais attention, l'automatique ne voit pas
+tout. Loin de là.
+
+77
+00:04:41,919 --> 00:04:46,599
+Ha. Le test manuel reste indispensable.
+Surtout, essayez de naviguer
+
+78
+00:04:46,879 --> 00:04:51,539
+soi-même uniquement au clavier. C'est le
+meilleur moyen de repérer les blocages
+
+79
+00:04:51,559 --> 00:04:55,319
+réels. D'accord, donc combiner les deux,
+outils automatiques et manuels.
+
+80
+00:04:55,359 --> 00:04:58,059
+Exactement, c'est la meilleure approche.
+Très bien.
+
+81
+00:04:59,039 --> 00:05:00,979
+Si on devait résumer l'idée principale de
+tout ça?
+
+82
+00:05:00,979 --> 00:05:05,799
+Je dirais que l'accessibilité numérique,
+ce n'est vraiment pas une option ni une
+
+83
+00:05:05,839 --> 00:05:10,479
+simple case à cocher. C'est, c'est
+fondamental. C'est une question d'éthique,
+
+84
+00:05:10,659 --> 00:05:14,259
+souvent une obligation légale, c'est vrai,
+mais c'est aussi un choix stratégique,
+
+85
+00:05:14,379 --> 00:05:18,559
+intelligent. Stratégique? Oui, parce qu'au
+final, ça bénéficie à tous les
+
+86
+00:05:18,599 --> 00:05:21,459
+utilisateurs, pas seulement ceux en
+situation de handicap.
+
+87
+00:05:21,819 --> 00:05:25,539
+Ça rend les produits numériques plus
+robustes, mieux pensés et ça améliore
+
+88
+00:05:25,559 --> 00:05:28,659
+l'image de l'entreprise ou de
+l'organisation. Comme le dit la source,
+
+89
+00:05:29,099 --> 00:05:32,879
+un produit accessible est un produit mieux
+conçu. C'est une très belle synthèse.
+
+90
+00:05:33,479 --> 00:05:36,759
+Un produit accessible est un produit mieux
+conçu. Ça me plaît.
+
+91
+00:05:37,579 --> 00:05:40,499
+Pour terminer, peut-être une question pour
+ouvrir la réflexion.
+
+92
+00:05:40,799 --> 00:05:44,759
+Allons-y. Au-delà de la conformité,
+comment est-ce qu'on pourrait intégrer
+
+93
+00:05:44,759 --> 00:05:48,959
+l'accessibilité dès le tout début de la
+conception? Non pas comme une contrainte
+
+94
+00:05:48,959 --> 00:05:51,639
+qu'on ajoute à la fin, mais vraiment comme
+un moteur,
+
+95
+00:05:51,999 --> 00:05:55,381
+un levier pour innover et viser une
+meilleure qualité pour tout le monde?

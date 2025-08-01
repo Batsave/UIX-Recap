@@ -147,6 +147,12 @@
     color: var(--color-info-text);
 }
 
+.callout[data-callout=note] {
+    border-color: var(--color-info-border);
+    background: var(--color-info-bg);
+    color: var(--color-info-text);
+}
+
 .callout[data-callout=danger] {
     border-color: var(--color-danger-border);
     background: var(--color-danger-bg);

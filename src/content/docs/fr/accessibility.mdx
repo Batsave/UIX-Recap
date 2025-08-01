@@ -1,0 +1,127 @@
+---
+title: Accessibility
+description: "L’UX Writing (ou rédaction UX) est l’art de rédiger des contenus clairs, utiles et cohérents pour guider les utilisateurs tout au long de leur interaction avec un produit digital."
+weight: 8
+---
+
+import SrtPlayer from "../../../components/jsx/SrtPlayer.jsx";
+
+<code>Ce Récap' est disponible en podcast audio. (Généré par IA avec NoteBook LM by Google)</code>
+
+<SrtPlayer
+  client:only="react"
+  audioSrc="/podcasts/accessibility.m4a"
+  srtUrl="/podcasts/accessibility.srt"
+/>
+
+
+## 1. Qu’est-ce que l’accessibilité numérique ?
+
+L’accessibilité consiste à concevoir des interfaces (sites web, apps, contenus…) de manière à ce qu’elles soient utilisables par tous, y compris les personnes en situation de handicap ou de limitations permanentes ou temporaires.
+ 
+
+Elle permet de **lutter contre l’exclusion** et de **créer une expérience réellement inclusive**.
+
+---
+
+### 2. Pourquoi est-elle essentielle ?
+
+| 🎯 Raison | 💡 Effet attendu |
+| --- | --- |
+| **Inclusivité** | Expérience pour tous |
+| **Conformité légale (RGAA / WCAG)** | Obligatoire pour certains sites |
+| **Référencement SEO** | Meilleure indexation |
+| **Image de marque** | Engagement éthique |
+| **Performance commerciale** | Élargir la base d’utilisateurs |
+
+> [!NOTE] Information
+> En France, les **sites publics sont obligés** de respecter les normes RGAA.
+
+---
+
+### 3. Principaux types de handicaps concernés
+
+| Type de handicap | Exemples / Besoins spécifiques |
+| --- | --- |
+| 👁 Visuel | Cécité, malvoyance, daltonisme → lecteurs d’écran, bon contraste, textes alt |
+| 👂 Auditif | Surdité, malentendance → sous-titres, visuels explicites |
+| 🧠 Cognitif | Dyslexie, TDAH, déficiences mentales → contenu clair, simple, structuré |
+| 🦾 Moteur | Difficulté à utiliser une souris → navigation clavier, zones cliquables larges |
+| 👶/👵 Autres publics | Seniors, enfants → interface épurée et intuitive |
+
+---
+
+### 4. Obstacles fréquents à l’accessibilité
+
+- Absence de **texte alternatif** pour les images
+- **Formulaires mal étiquetés**
+- Navigation impossible **sans souris**
+- **Contrastes de couleur insuffisants**
+- **Pop-ups** ou modales non accessibles
+- Vidéos **sans sous-titres ou audiodescription**
+
+---
+
+### 5. Normes & cadres de référence
+
+| Référence | Description |
+| --- | --- |
+| **WCAG** (W3C) | Règles internationales de l’accessibilité |
+| **RGAA** (France) | Référentiel pour les sites publics |
+| **WAI-ARIA** | Bonnes pratiques pour les composants interactifs dynamiques |
+
+---
+
+### **6. Bonnes pratiques UX pour l’accessibilité**
+
+- Textes alternatifs descriptifs (`alt=""`) pour les images
+- Contraste élevé (rapport minimum 4.5:1 pour le texte)
+- Navigation **100% clavier** possible
+- Boutons lisibles, larges, explicites
+- Hiérarchie HTML logique (titres `h1 > h2 > h3`)
+- Éviter les animations distrayantes ou déclenchées automatiquement
+- Fournir des **sous-titres** et/ou **audiodescription**
+
+---
+
+### **7. Outils & tests d’accessibilité**
+
+| 🧰 Outil | Utilité |
+| --- | --- |
+| **Wave / Axe / Lighthouse** | Audit automatique |
+| **NVDA / VoiceOver / JAWS** | Simulateurs de lecteurs d’écran |
+| **Color Oracle / Stark** | Simulateurs de daltonisme |
+| **Clavier uniquement** | Test manuel simple mais crucial |
+| **Contrast Checker** | Vérifie les contrastes (WebAIM, etc.) |
+
+---
+
+### 8. Focus : déficiences visuelles & auditives
+
+##### Pour les déficiences visuelles :
+
+- Lecture via **lecteurs d’écran**
+- Importance des textes `alt`, labels de formulaires, titres clairs
+- Navigation clavier indispensable
+- Éviter contenus dynamiques non balisés (ex. carrousels non accessibles)
+
+##### Pour les déficiences auditives :
+
+- Sous-titres sur les vidéos
+- Ne pas reposer uniquement sur le son pour comprendre une information
+- Utiliser des **visuels explicites**
+
+---
+
+### Conclusion
+
+L’accessibilité n’est pas une option, c’est un devoir éthique, légal et stratégique.
+ 
+
+Elle améliore :
+
+- l’**expérience utilisateur pour tous**
+- la **performance** du produit
+- la **réputation** de la marque
+
+**Un produit accessible est un produit mieux conçu.**
