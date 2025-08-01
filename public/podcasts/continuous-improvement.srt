@@ -1,0 +1,574 @@
+1
+00:00:00,099 --> 00:00:03,279
+Bienvenue aujourd'hui, euh, une
+exploration assez pointue,
+
+2
+00:00:03,279 --> 00:00:06,979
+je crois, basée sur l'amélioration
+continue en l'UX.
+
+3
+00:00:07,819 --> 00:00:12,219
+L'idée centrale, si j'ai bien compris,
+c'est d'optimiser sans cesse l'expérience
+
+4
+00:00:12,239 --> 00:00:16,020
+utilisateur, mais aussi la performance. Et
+tout ça via un processus,
+
+5
+00:00:16,379 --> 00:00:19,959
+euh, cyclique qui se nourrit des données,
+des retours utilisateurs.
+
+6
+00:00:20,039 --> 00:00:23,539
+Oui, tout à fait. C'est vraiment ça. Notre
+mission, si on peut dire,
+
+7
+00:00:23,639 --> 00:00:26,719
+c'est de décortiquer cette approche, cette
+démarche itérative.
+
+8
+00:00:27,239 --> 00:00:28,920
+C'est plus qu'une simple méthode, on
+dirait, non?
+
+9
+00:00:29,119 --> 00:00:32,238
+C'est presque une culture. Exactement.
+C'est un état d'esprit.
+
+10
+00:00:32,238 --> 00:00:35,719
+Ne jamais considérer une solution comme,
+euh, comme finie,
+
+11
+00:00:35,719 --> 00:00:38,159
+comme parfaite. Toujours chercher à faire
+mieux. Ok,
+
+12
+00:00:38,399 --> 00:00:43,060
+alors, allons-y. Plongeons dedans.
+Concrètement, quels sont les objectifs
+
+13
+00:00:43,099 --> 00:00:46,999
+qu'on vise avec cette démarche? Bah, les
+buts sont variés,
+
+14
+00:00:47,200 --> 00:00:52,100
+mais souvent liés. D'abord, il y a
+l'identification des points de friction,
+
+15
+00:00:52,340 --> 00:00:55,999
+les vrais problèmes, hein, pas juste ce
+qu'on croit être le problème.
+
+16
+00:00:56,360 --> 00:01:00,899
+D'accord. Résoudre ce qui bloque vraiment
+l'utilisateur. Voilà.
+
+17
+00:01:01,439 --> 00:01:04,659
+Ça passe par simplifier les parcours,
+améliorer l'ergonomie,
+
+18
+00:01:05,119 --> 00:01:07,959
+mais aussi, et c'est crucial, optimiser
+les conversions.
+
+19
+00:01:08,199 --> 00:01:11,879
+Les conversions? C'est-à-dire, ben, les
+ventes, les inscriptions,
+
+20
+00:01:12,259 --> 00:01:15,379
+euh, l'action qu'on veut que l'utilisateur
+fasse. Et puis,
+
+21
+00:01:15,399 --> 00:01:17,619
+c'est aussi un moyen de tester de
+nouvelles idées,
+
+22
+00:01:17,619 --> 00:01:21,639
+mais comment dire, prudentment, par petits
+pas. Ah oui.
+
+23
+00:01:21,959 --> 00:01:25,279
+Et au final, bien sûr, ça aide à renforcer
+la fidélité.
+
+24
+00:01:25,599 --> 00:01:28,919
+Moins de gens qui partent quoi. Ce qu'on
+appelle réduire le taux d'attrition.
+
+25
+00:01:29,119 --> 00:01:32,039
+Et ce lien entre les ajustements UX,
+parfois minimes,
+
+26
+00:01:32,459 --> 00:01:35,439
+et les résultats business, il est souvent
+un peu sous-estimé,
+
+27
+00:01:35,459 --> 00:01:38,219
+non? Ah oui, complètement. C'est ça qui
+est central ici.
+
+28
+00:01:38,739 --> 00:01:42,919
+Améliorer l'UX, c'est pas juste pour faire
+joli ou pour que ce soit agréable.
+
+29
+00:01:43,479 --> 00:01:47,379
+Ça a un impact direct, mesurable sur la
+performance globale.
+
+30
+00:01:47,379 --> 00:01:52,359
+Tu as un exemple concret? Ben, un exemple
+classique : simplifier un formulaire
+
+31
+00:01:52,379 --> 00:01:56,239
+de paiement. Non seulement ça peut faire
+baisser le nombre de paniers abandonnés...
+
+32
+00:01:56,239 --> 00:01:59,279
+Oui, logique. Mais ça peut aussi réduire
+les erreurs de saisie.
+
+33
+00:01:59,779 --> 00:02:03,159
+Et moins d'erreurs, ça veut dire moins de
+travail pour le service client derrière.
+
+34
+00:02:03,479 --> 00:02:05,519
+Donc, on voit bien le retour sur
+investissement là.
+
+35
+00:02:05,779 --> 00:02:08,538
+Il est tangible, d'accord. Et pour
+structurer tout ça,
+
+36
+00:02:08,639 --> 00:02:12,639
+on mentionne souvent un modèle, la roue de
+Deming, le cycle PDCA.
+
+37
+00:02:12,759 --> 00:02:16,239
+C'est ça, PDCA. C'est un cadre assez
+simple en apparence,
+
+38
+00:02:16,239 --> 00:02:18,859
+mais, euh, très puissant. Tu peux nous
+rappeler les étapes?
+
+39
+00:02:18,879 --> 00:02:22,739
+Bien sûr. Alors P, c'est planifier. On
+identifie un problème,
+
+40
+00:02:22,739 --> 00:02:26,499
+une opportunité, on pose une hypothèse. Si
+on change ça,
+
+41
+00:02:26,599 --> 00:02:30,779
+alors il se passera ça. Ok. D, c'est
+développer ou do en anglais.
+
+42
+00:02:31,279 --> 00:02:35,099
+On met en place le changement. Souvent à
+petite échelle au début pour tester.
+
+43
+00:02:35,219 --> 00:02:39,739
+Logique. C, c'est contrôler, check. Là, on
+mesure.
+
+44
+00:02:40,059 --> 00:02:43,139
+Est-ce que notre hypothèse était bonne?
+Est-ce que le changement a eu l'effet
+
+45
+00:02:43,159 --> 00:02:46,719
+attendu? On regarde les chiffres, les
+retours. Les fameux KPIs,
+
+46
+00:02:46,739 --> 00:02:51,379
+j'imagine. Exactement. Et enfin, A, c'est
+agir, acte.
+
+47
+00:02:51,999 --> 00:02:55,739
+Si ça a marché, on déploie plus largement.
+On standardise la nouvelle pratique.
+
+48
+00:02:56,259 --> 00:03:00,179
+Si ça n'a pas marché, on analyse pourquoi,
+on ajuste et hop.
+
+49
+00:03:00,239 --> 00:03:02,959
+On recommence le cycle. Voilà. C'est ça
+qui est intéressant.
+
+50
+00:03:03,259 --> 00:03:05,859
+Ce n'est jamais vraiment fini. C'est une
+boucle infinie,
+
+51
+00:03:05,859 --> 00:03:08,479
+en quelque sorte. Chaque tour de roue,
+c'est une occasion d'apprendre,
+
+52
+00:03:08,679 --> 00:03:11,659
+de réduire l'incertitude. On avance en se
+basant sur des faits,
+
+53
+00:03:11,839 --> 00:03:14,879
+des preuves, et pas seulement sur
+l'intuition ou l'opinion du chef.
+
+54
+00:03:14,939 --> 00:03:17,919
+C'est l'application de la gestion de la
+qualité, en fait,
+
+55
+00:03:18,079 --> 00:03:20,799
+mais au domaine du numérique et de l'UX.
+Tout à fait.
+
+56
+00:03:21,319 --> 00:03:24,199
+Ces principes viennent de l'industrie. Ils
+ont largement fait leurs preuves.
+
+57
+00:03:24,499 --> 00:03:28,279
+On les adapte ici. Et pour cette phase de
+contrôle, de mesure,
+
+58
+00:03:28,979 --> 00:03:32,399
+quels outils on utilise le plus souvent?
+Alors, il y a toute une panoplie.
+
+59
+00:03:32,599 --> 00:03:35,259
+On peut commencer par un audit
+ergonomique, un regard expert.
+
+60
+00:03:35,559 --> 00:03:38,779
+Ensuite, très important, le feedback
+direct des utilisateurs,
+
+61
+00:03:39,079 --> 00:03:41,879
+sondages, interviews. Écouter ce qu'ils
+disent. Oui.
+
+62
+00:03:42,459 --> 00:03:45,439
+Et puis, il y a ce qu'ils font, l'analyse
+des données comportementales,
+
+63
+00:03:45,639 --> 00:03:49,159
+les analytics. Ça montre les parcours
+réels. Les heat maps,
+
+64
+00:03:49,319 --> 00:03:51,979
+ces cartes de chaleur. Ça visualise où les
+gens cliquent,
+
+65
+00:03:52,179 --> 00:03:55,179
+où ils s'arrêtent. Ah oui, ça, c'est très
+visuel. Très parlant.
+
+66
+00:03:55,579 --> 00:03:58,859
+On a aussi des enregistrements de sessions
+pour voir un utilisateur spécifique
+
+67
+00:03:58,879 --> 00:04:01,939
+naviguer. Et bien sûr, l'A/B testing.
+L'A/B testing,
+
+68
+00:04:01,939 --> 00:04:06,039
+ça permet de comparer quoi exactement? De
+comparer deux versions d'une même page,
+
+69
+00:04:06,039 --> 00:04:09,259
+par exemple en changeant juste un élément,
+un bouton,
+
+70
+00:04:09,399 --> 00:04:13,579
+un titre, une image. On montre la version
+à une moitié des visiteurs,
+
+71
+00:04:13,759 --> 00:04:18,139
+la B à l'autre, et on mesure laquelle
+performe le mieux sur un objectif précis.
+
+72
+00:04:18,139 --> 00:04:20,999
+Et cet objectif, on le mesure avec les
+indicateurs clés,
+
+73
+00:04:21,039 --> 00:04:24,959
+les KPI. Exactement. Le choix des bons KPI
+est crucial.
+
+74
+00:04:25,139 --> 00:04:29,279
+Ça peut être le taux de clic, le taux de
+conversion, le temps passé sur une page,
+
+75
+00:04:29,279 --> 00:04:33,259
+le taux de rebond. Le taux de rebond,
+c'est quand les gens arrivent et repartent
+
+76
+00:04:33,259 --> 00:04:36,879
+tout de suite. C'est ça. On peut aussi
+utiliser des scores de satisfaction comme
+
+77
+00:04:36,939 --> 00:04:40,019
+le CSAT, qui mesure la satisfaction juste
+après une action,
+
+78
+00:04:40,299 --> 00:04:43,739
+ou le NPS, qui mesure la probabilité qu'on
+recommande le service.
+
+79
+00:04:43,919 --> 00:04:47,339
+D'accord. Et l'A/B testing donne une
+réponse assez fiable,
+
+80
+00:04:47,359 --> 00:04:51,539
+statistiquement? Oui, si c'est bien mené.
+Ça permet de dire : OK,
+
+81
+00:04:51,679 --> 00:04:54,199
+ce petit changement a augmenté la
+conversion de X pour cent.
+
+82
+00:04:54,459 --> 00:04:57,699
+C'est très concret. Au-delà des outils,
+des chiffres,
+
+83
+00:04:57,739 --> 00:05:01,259
+les sources insistent pas mal sur la
+posture, l'état d'esprit à avoir.
+
+84
+00:05:01,299 --> 00:05:05,079
+Ah oui, c'est fondamental. Il faut une
+certaine neutralité dans l'observation,
+
+85
+00:05:05,599 --> 00:05:09,579
+formuler des hypothèses claires,
+mesurables, tester petit pour limiter les
+
+86
+00:05:09,579 --> 00:05:12,319
+risques. Ne pas tout changer d'un coup.
+Non, surtout pas.
+
+87
+00:05:12,859 --> 00:05:16,739
+Et puis, être prêt à accepter les
+résultats, même s'ils vont contre notre
+
+88
+00:05:16,759 --> 00:05:20,739
+idée de départ. Apprendre de tout, en
+fait. Et bien documenter pour capitaliser
+
+89
+00:05:20,739 --> 00:05:23,879
+sur ce qu'on apprend. C'est un peu ce que
+dit une des sources itérées,
+
+90
+00:05:23,879 --> 00:05:26,059
+c'est pas tout changer, c'est tester ce
+qui compte.
+
+91
+00:05:26,059 --> 00:05:30,299
+C'est exactement ça. Prioriser les tests
+qui ont le plus de potentiel d'impact.
+
+92
+00:05:30,519 --> 00:05:32,959
+Ça favorise une culture d'apprentissage,
+c'est clair,
+
+93
+00:05:33,219 --> 00:05:37,479
+mais ça soulève une question, non? Comment
+on s'assure qu'on teste bien ce qui compte
+
+94
+00:05:37,559 --> 00:05:41,119
+vraiment? C'est tout le défi. Le risque,
+c'est de se perdre dans des
+
+95
+00:05:41,259 --> 00:05:44,559
+micro-optimisations. On améliore plein de
+petits détails,
+
+96
+00:05:44,839 --> 00:05:48,219
+mais est-ce que ça sert vraiment les
+grands objectifs stratégiques du produit
+
+97
+00:05:48,239 --> 00:05:50,719
+ou de l'entreprise? Oui, comment on garde
+le cap?
+
+98
+00:05:50,719 --> 00:05:54,479
+Il faut constamment relier ces tests
+locaux à la vision globale.
+
+99
+00:05:54,999 --> 00:05:57,619
+S'assurer que l'optimisation d'un bouton,
+par exemple,
+
+100
+00:05:57,879 --> 00:06:01,739
+s'inscrit dans un objectif plus large
+d'amélioration de l'acquisition ou de la
+
+101
+00:06:01,779 --> 00:06:05,019
+rétention. C'est un exercice d'alignement
+permanent. Donc,
+
+102
+00:06:05,039 --> 00:06:08,499
+si on devait résumer, l'amélioration
+continue en UX,
+
+103
+00:06:09,139 --> 00:06:11,819
+c'est, c'est bien plus qu'une simple
+technique? Oui,
+
+104
+00:06:11,919 --> 00:06:15,879
+c'est une culture, une culture du progrès
+permanent, nourrie par l'écoute,
+
+105
+00:06:15,899 --> 00:06:19,159
+les données, les tests rigoureux. Un bon
+produit, aujourd'hui,
+
+106
+00:06:19,379 --> 00:06:22,179
+c'est un produit qui apprend et s'adapte
+en permanence.
+
+107
+00:06:22,179 --> 00:06:26,019
+Il n'est jamais vraiment fini? Jamais. Il
+évolue intelligemment.
+
+108
+00:06:26,039 --> 00:06:28,359
+Et une dernière pensée, peut-être, pour
+conclure. Oui,
+
+109
+00:06:28,399 --> 00:06:32,519
+une question qui reste souvent en suspens
+euh, face à cette quête d'optimisation
+
+110
+00:06:32,579 --> 00:06:36,039
+constante, comment les équipes trouvent
+l'équilibre? L'équilibre entre ce
+
+111
+00:06:36,039 --> 00:06:40,359
+raffinement itératif qui demande du temps
+et de la rigueur et la pression du marché
+
+112
+00:06:40,359 --> 00:06:44,299
+qui demande de sortir vite de nouvelles
+choses, de livrer de la valeur rapidement.
+
+113
+00:06:44,499 --> 00:06:48,839
+Le fameux time to market. Exactement. Où
+est-ce qu'on met le curseur entre,
+
+114
+00:06:49,119 --> 00:06:52,599
+c'est suffisant pour l'instant et la
+recherche de la perfection via ces cycles?
+
+115
+00:06:52,819 --> 00:06:54,894
+C'est sans doute un des plus grands
+challenges pratiques.

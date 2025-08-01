@@ -50,6 +50,7 @@ export default defineConfig({
         { label: "UX Writing", link: "/ux-writing" },
         { label: "Personnalisation & UX", link: "/ux-personalization" },
         { label: "Accessibilité", link: "/accessibility" },
+        { label: "Amélioration continue", link: "/continuous-improvement" },
       ],
     }),
   ],
