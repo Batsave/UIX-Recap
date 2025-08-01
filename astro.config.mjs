@@ -62,6 +62,14 @@ export default defineConfig({
             { label: "Tests", link: "/design-thinking/tests" },
           ],
         },
+        {
+          label: "Design Sprint",
+          items: [
+            { label: "Introduction", link: "/design-sprint/" },
+            { label: "Understand, Sketch, Decide", link: "/design-sprint/understand-sketch-decide" },
+            { label: "Storyboarding, Prototypage & Tests", link: "/design-sprint/storyboarding-prototyping-testing" },
+          ],
+        },
       ],
     }),
   ],

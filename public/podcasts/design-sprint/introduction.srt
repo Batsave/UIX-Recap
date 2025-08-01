@@ -1,0 +1,484 @@
+1
+00:00:00,079 --> 00:00:02,839
+On entend souvent parler de méthode pour
+innover, euh,
+
+2
+00:00:03,159 --> 00:00:05,979
+plus vite. Et là, les documents qu'on
+explore aujourd'hui,
+
+3
+00:00:06,339 --> 00:00:09,460
+ils décrivent le design sprint. C'est une
+promesse assez forte,
+
+4
+00:00:09,460 --> 00:00:14,180
+hein. Euh, passer d'un problème, même
+complexe, à une solution
+
+5
+00:00:14,519 --> 00:00:17,899
+testée en, quoi? Quatre ou cinq jours
+seulement? C'est ça.
+
+6
+00:00:18,020 --> 00:00:19,999
+Est-ce que c'est vraiment, euh, si
+efficace que ça?
+
+7
+00:00:20,139 --> 00:00:23,360
+Qu'est-ce qu'on dise nos sources? Alors
+oui, c'est une structure très,
+
+8
+00:00:23,379 --> 00:00:27,039
+très précise. Elle a été popularisée par
+Google Ventures,
+
+9
+00:00:27,359 --> 00:00:30,779
+euh, Jake Knapp et son livre Sprint.
+L'idée centrale,
+
+10
+00:00:30,819 --> 00:00:35,360
+c'est vraiment de condenser, mais
+radicalement, le cycle de développement
+
+11
+00:00:35,500 --> 00:00:39,300
+classique. Condensé, comment? Ben, en
+faisant tout ça en moins d'une semaine.
+
+12
+00:00:39,759 --> 00:00:44,040
+Comprendre le problème, imaginer des
+solutions, décider laquelle on pousse,
+
+13
+00:00:44,379 --> 00:00:48,719
+faire un prototype rapide et le tester. Le
+tester avec de vrais utilisateurs.
+
+14
+00:00:48,819 --> 00:00:51,539
+D'accord. L'objectif, c'est d'avoir un
+retour, euh,
+
+15
+00:00:51,759 --> 00:00:56,360
+un feedback concret très, très vite pour
+éviter de partir des mois sur une mauvaise
+
+16
+00:00:56,360 --> 00:00:59,079
+idée, quoi. Ce qui me frappe tout de suite
+dans ce que décrivent les sources,
+
+17
+00:00:59,520 --> 00:01:03,639
+c'est, euh, la différence avec le design
+thinking. On en parle souvent aussi.
+
+18
+00:01:03,699 --> 00:01:07,859
+Ah oui? Le design thinking, c'est plus une
+approche, une philosophie,
+
+19
+00:01:08,019 --> 00:01:11,159
+non? Souvent itérative, alors que le
+sprint, là,
+
+20
+00:01:11,159 --> 00:01:14,539
+c'est décrit comme une recette. Une
+séquence très linéaire.
+
+21
+00:01:14,539 --> 00:01:17,499
+Exactement. C'est un point clé. On avance
+étape par étape.
+
+22
+00:01:17,699 --> 00:01:21,919
+Comprendre, esquisser les idées, décider,
+prototyper, tester.
+
+23
+00:01:22,459 --> 00:01:26,739
+Et, euh, pas de retour en arrière, c'est
+ça? Ça semble un peu rigide,
+
+24
+00:01:26,759 --> 00:01:30,419
+non? Pour un processus créatif. C'est une
+bonne remarque et c'est assumé,
+
+25
+00:01:30,419 --> 00:01:33,819
+en fait. Cette linéarité, c'est présenté
+comme une force.
+
+26
+00:01:34,059 --> 00:01:38,539
+Ça oblige l'équipe à... ben, à trancher, à
+avancer. On évite la
+
+27
+00:01:38,759 --> 00:01:41,599
+paralysie par l'analyse, tu vois? Les
+débats sans fin.
+
+28
+00:01:42,079 --> 00:01:46,259
+Là, on décide et on passe à la suite. Les
+sources parlent même d'une version
+
+29
+00:01:46,279 --> 00:01:48,959
+optimisée. Ah oui? Oui, le sprint deux
+point zéro,
+
+30
+00:01:49,479 --> 00:01:53,719
+en quatre jours seulement. Et là,
+l'astuce, c'est que toute l'équipe n'est
+
+31
+00:01:53,719 --> 00:01:56,519
+mobilisée à fond que sur les deux premiers
+jours. Ah d'accord.
+
+32
+00:01:56,719 --> 00:02:01,119
+C'est encore plus intense. Ça demande une
+disponibilité totale sur ces deux jours,
+
+33
+00:02:01,559 --> 00:02:05,319
+mais c'est pensé pour être plus simple à
+intégrer dans des agendas souvent
+
+34
+00:02:05,359 --> 00:02:09,098
+surchargés. Oui, je vois, mais tenir un
+rythme pareil,
+
+35
+00:02:09,339 --> 00:02:12,919
+même sur quatre jours, ça doit reposer sur
+une équipe très spécifique,
+
+36
+00:02:12,919 --> 00:02:15,879
+j'imagine. Qui faut-il réunir pour que ça
+marche? Ah oui,
+
+37
+00:02:15,979 --> 00:02:19,039
+la composition de l'équipe, c'est, c'est
+absolument crucial.
+
+38
+00:02:19,439 --> 00:02:21,899
+Les documents insistent là-dessus, un gros
+presse train.
+
+39
+00:02:21,899 --> 00:02:24,779
+Combien? Quatre à sept personnes maximum.
+Et surtout,
+
+40
+00:02:24,859 --> 00:02:29,419
+il faut impérativement un décideur. C'est
+la personne qui a l'autorité finale,
+
+41
+00:02:29,999 --> 00:02:33,259
+qui peut dire : OK, on va par là. Sans
+cette personne...
+
+42
+00:02:33,339 --> 00:02:38,299
+Ça peut bloquer. Exactement. Risque majeur
+de blocage ou de décisions qui ne tiennent
+
+43
+00:02:38,299 --> 00:02:42,739
+pas. Ensuite, il faut un facilitateur,
+quelqu'un de neutre qui guide le
+
+44
+00:02:42,779 --> 00:02:45,579
+processus, qui gère le temps. C'est un
+rôle clé.
+
+45
+00:02:45,719 --> 00:02:47,839
+Le gardien du temple, en quelque sorte. Un
+peu, oui.
+
+46
+00:02:48,199 --> 00:02:52,599
+Et puis, bien sûr, des profils variés. Du
+design, évidemment pour le prototype,
+
+47
+00:02:52,799 --> 00:02:56,879
+mais aussi des experts techniques pour la
+faisabilité, marketing pour la viabilité
+
+48
+00:02:56,899 --> 00:03:00,519
+marché. Et souvent, c'est très utile
+quelqu'un qui connaît vraiment les
+
+49
+00:03:00,539 --> 00:03:03,799
+utilisateurs de près. Genre, euh,
+quelqu'un du support client?
+
+50
+00:03:03,939 --> 00:03:07,199
+Par exemple, oui. C'est cette diversité
+qui fait la richesse,
+
+51
+00:03:07,479 --> 00:03:09,959
+qui nourrit l'intelligence collective dont
+on parle souvent.
+
+52
+00:03:10,039 --> 00:03:13,159
+Donc une petite équipe très soudée, un
+commando presque.
+
+53
+00:03:13,639 --> 00:03:16,599
+Mais même les meilleurs commandos, ils ont
+besoin d'un plan de bataille,
+
+54
+00:03:16,739 --> 00:03:19,999
+d'être bien préparé, bien équipé. Tout à
+fait. Et là-dessus,
+
+55
+00:03:20,019 --> 00:03:22,659
+les sources sont unanimes, hein. Un sprint
+qui est mal préparé,
+
+56
+00:03:22,939 --> 00:03:26,739
+même avec la meilleure équipe du monde,
+ben, il est voué à l'échec.
+
+57
+00:03:26,959 --> 00:03:30,839
+Qu'est-ce qu'il faut préparer alors? Ça
+commence par une problématique claire,
+
+58
+00:03:31,199 --> 00:03:35,559
+bien cadrée. Si l'objectif est flou au
+départ, le résultat le sera aussi.
+
+59
+00:03:36,019 --> 00:03:38,919
+C'est pour ça qu'une bonne recherche
+utilisateur avant le sprint,
+
+60
+00:03:39,019 --> 00:03:42,699
+c'est souvent indispensable. Ça nourrit
+vraiment la première phase,
+
+61
+00:03:42,719 --> 00:03:46,179
+le comprendre. Logique. Ensuite, c'est une
+question d'engagement.
+
+62
+00:03:46,719 --> 00:03:50,219
+Total. Les agendas doivent être
+complètement bloqués pour le sprint.
+
+63
+00:03:50,439 --> 00:03:53,659
+Pas de réunion à côté, pas d'e-mail, on
+est à cent pour cent.
+
+64
+00:03:53,759 --> 00:03:57,359
+Faut s'isoler, quoi. Idéalement, oui. Une
+salle dédiée si possible.
+
+65
+00:03:57,699 --> 00:04:00,319
+Beaucoup de tableaux blancs, des Post-it,
+des feutres.
+
+66
+00:04:00,739 --> 00:04:04,019
+L'accent est mis sur la visualisation des
+idées. On dessine,
+
+67
+00:04:04,019 --> 00:04:06,619
+on fait des schémas plutôt que de parler
+pendant des heures.
+
+68
+00:04:06,639 --> 00:04:09,519
+On montre. Exactement. La question, c'est
+ : OK,
+
+69
+00:04:09,819 --> 00:04:12,739
+montre-moi à quoi ça ressemble. Ça rend
+l'idée tangible,
+
+70
+00:04:12,779 --> 00:04:15,659
+compréhensible par tout le monde, tout de
+suite. Bon alors,
+
+71
+00:04:15,779 --> 00:04:20,738
+euh, si on essaie de résumer, le design
+sprint, ça apparaît comme un outil
+
+72
+00:04:21,279 --> 00:04:25,199
+puissant, oui, pour tester une idée
+rapidement, à moindre coût,
+
+73
+00:04:25,659 --> 00:04:28,559
+grâce à cette structure très rythmée et
+très collaborative.
+
+74
+00:04:28,979 --> 00:04:33,499
+C'est une sorte de, de raccourci pour
+valider une hypothèse avant d'investir
+
+75
+00:04:33,699 --> 00:04:36,079
+beaucoup de temps et d'argent. C'est
+exactement ça.
+
+76
+00:04:36,539 --> 00:04:38,979
+Un accélérateur d'apprentissage, en
+quelque sorte.
+
+77
+00:04:39,419 --> 00:04:41,739
+Mais attention, les sources précisent
+aussi ses limites,
+
+78
+00:04:41,739 --> 00:04:44,039
+hein. Ce n'est pas la solution miracle à
+tout. Ah oui?
+
+79
+00:04:44,559 --> 00:04:48,619
+Par exemple? Ben, ce n'est pas fait pour
+des problèmes qui sont encore très vagues,
+
+80
+00:04:48,779 --> 00:04:50,899
+qui demandent une exploration beaucoup
+plus longue,
+
+81
+00:04:50,939 --> 00:04:54,159
+plus en profondeur, ni pour des solutions
+qui sont,
+
+82
+00:04:54,159 --> 00:04:58,979
+euh, ben évidentes. Ça ne justifierait pas
+tout ce processus.
+
+83
+00:04:59,199 --> 00:05:02,279
+C'est vraiment pour les défis importants,
+assez bien définis,
+
+84
+00:05:02,579 --> 00:05:05,719
+où on cherche une solution concrète et
+testable rapidement.
+
+85
+00:05:06,139 --> 00:05:09,179
+Très clair. Donc ça permet de dérisquer
+une innovation,
+
+86
+00:05:09,179 --> 00:05:11,679
+une nouvelle fonctionnalité majeure, par
+exemple. Voilà,
+
+87
+00:05:11,679 --> 00:05:16,359
+tout à fait. Et cette efficacité, cette
+rapidité, ça soulève une réflexion
+
+88
+00:05:16,379 --> 00:05:19,519
+intéressante, je trouve, qui va un peu
+au-delà de ce qu'on a lu.
+
+89
+00:05:20,399 --> 00:05:23,459
+Cette vitesse, qui est géniale pour avoir
+des résultats vite,
+
+90
+00:05:23,599 --> 00:05:28,399
+est-ce qu'elle ne risque pas parfois de
+nous faire un peu survoler la vraie
+
+91
+00:05:28,459 --> 00:05:31,859
+complexité d'un problème? Comment on
+s'assure qu'on n'est pas en train de
+
+92
+00:05:31,879 --> 00:05:35,979
+construire très, très efficacement une
+super solution,
+
+93
+00:05:36,739 --> 00:05:39,679
+mais, euh, au mauvais problème,
+finalement? Bonne question.
+
+94
+00:05:39,699 --> 00:05:44,179
+Quel équilibre on trouve entre cette
+structure qui est quasi militaire,
+
+95
+00:05:44,179 --> 00:05:48,059
+parfois, et l'espace qu'il faut peut-être
+laisser à l'intuition,
+
+96
+00:05:48,179 --> 00:05:53,099
+à la sérendipité, à ce qui peut émerger un
+peu hors du cadre très strict du
+
+97
+00:05:53,139 --> 00:05:54,940
+sprint design? C'est une question ouverte,
+je pense.
