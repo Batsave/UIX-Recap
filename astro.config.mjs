@@ -78,7 +78,10 @@ export default defineConfig({
         },
         {
           label: "Marketing",
-          items: [{ label: "Introduction", link: "/marketing/" }],
+          items: [
+            { label: "Introduction", link: "/marketing/" },
+            { label: "Landing Pages", link: "/marketing/landing-page" },
+          ],
         },
       ],
     }),
