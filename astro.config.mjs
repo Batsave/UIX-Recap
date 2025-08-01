@@ -83,6 +83,7 @@ export default defineConfig({
             { label: "Landing Pages", link: "/marketing/landing-page" },
             { label: "SEO", link: "/marketing/seo" },
             { label: "Stratégie Social Media", link: "/marketing/strategy-social-media" },
+            { label: "RGPD", link: "/marketing/rgpd" },
           ],
         },
       ],
