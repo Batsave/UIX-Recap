@@ -1,55 +1,92 @@
-# Starlight Starter Kit: Basics
+---
+title: "UIX Recap – Documentation collaborative"
+description: "Un site récapitulatif des bases de l’UX/UI Design, accessible à tous et ouvert aux contributions."
+---
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+# 📘 UIX Recap – Documentation collaborative  
 
+Bienvenue dans **UIX Recap** ! 🎨  
+Ce projet est un site de documentation qui reprend une **grande partie des bases du design UX/UI**, réalisé initialement dans le cadre de ma formation.  
+L’objectif est simple : fournir un **récapitulatif clair, pratique et accessible à tous les étudiants et passionnés** qui souhaitent apprendre ou réviser rapidement les fondamentaux de l’UX/UI.  
+
+👉 Le site est construit avec **Astro + Starlight** pour garantir rapidité, accessibilité et simplicité d’édition.  
+
+---
+
+## 🚀 Objectif du projet  
+
+- Centraliser les notions essentielles en UX/UI.  
+- Offrir une ressource **gratuite, ouverte et partageable** entre étudiants et professionnels.  
+- Favoriser l’amélioration continue grâce aux contributions de la communauté.  
+
+---
+
+## 🤝 Contribuer  
+
+Vous avez repéré une erreur, une explication manquante ou vous souhaitez enrichir le contenu ?  
+Parfait ! 🎉 Vous pouvez contribuer de plusieurs façons :  
+
+### 1. ✍️ Créer une *Issue*  
+- Allez dans l’onglet **Issues** du repo.  
+- Décrivez clairement le problème ou la suggestion (exemple : _“La définition des personas est trop brève, je propose d’ajouter un exemple”_).  
+- Une fois validée, elle pourra être reprise par vous-même ou un autre contributeur.  
+
+### 2. 🔀 Faire une *Pull Request*  
+```bash
+# 1. Forkez le repo puis clonez-le en local
+git clone https://github.com/ton-compte/nom-du-repo.git
+cd nom-du-repo
+
+# 2. Installez les dépendances
+npm install
+
+# 3. Lancez le serveur de développement
+npm run dev
 ```
-npm create astro@latest -- --template starlight
-```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/withastro/starlight&create_from_path=examples/basics)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwithastro%2Fstarlight%2Ftree%2Fmain%2Fexamples%2Fbasics&project-name=my-starlight-docs&repository-name=my-starlight-docs)
+- Faites vos modifications dans src/content/docs/ (les fichiers .md ou .mdx).
+- Vérifiez le rendu en local puis committez vos changements.
+- Enfin, ouvrez une Pull Request vers le repo principal.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-## 🚀 Project Structure
+## 📂 Structure du projet
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
-
-```
+```csharp
 .
-├── public/
+├── public/              # Images & assets statiques (favicon, logos, etc.)
 ├── src/
-│   ├── assets/
+│   ├── assets/          # Illustrations utilisées dans la doc
 │   ├── content/
-│   │   ├── docs/
+│   │   ├── docs/        # Documentation UX/UI (Markdown & MDX)
 │   └── content.config.ts
-├── astro.config.mjs
-├── package.json
+├── astro.config.mjs     # Configuration Astro/Starlight
+├── package.json         # Dépendances & scripts
 └── tsconfig.json
 ```
+Les pages de documentation se trouvent dans src/content/docs/.
+Chaque fichier Markdown correspond à une page de contenu.
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+## 🧞 Commandes utiles
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+| Commande           | Explication                                   |
+| ------------------ | --------------------------------------------- |
+| **npm install**    | Installe les dépendances                      |
+| **npm run dev**    | Démarre le serveur local (localhost:4321)     |
+| **npm run build**  | Génère le site pour la production             |
 
-Static assets, like favicons, can be placed in the `public/` directory.
 
-## 🧞 Commands
+## 👀 Ressources utiles  
 
-All commands are run from the root of the project, from a terminal:
+| Ressource                | Lien                                          |
+| ------------------------- | --------------------------------------------- |
+| Documentation Starlight   | [starlight.astro.build](https://starlight.astro.build) |
+| Documentation Astro       | [docs.astro.build](https://docs.astro.build) |
+| Communauté Astro Discord  | [astro.build/chat](https://astro.build/chat) |
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+## 📢 Conclusion  
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
-# sn--dgm-doc
+Ce projet est pensé comme un **manuel vivant**.  
+L’UX/UI évolue vite, et grâce à vos contributions, nous pouvons maintenir une ressource **fiable, complète et collaborative** au service de tous.  
+
+> 💡 **Astuce :** même une petite correction (fautes, typo, lien manquant) est une contribution précieuse.  
