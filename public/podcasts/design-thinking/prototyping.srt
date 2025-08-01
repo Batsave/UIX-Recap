@@ -1,17 +1,438 @@
----
-title: Prototypage
-description: "La phase d’idéation permet de générer un maximum d’idées pour résoudre un problème identifié lors de la phase de définition."
-weight: 3
----
+1
+00:00:00,099 --> 00:00:04,259
+Bienvenue dans notre analyse du jour. On
+plonge aujourd'hui dans le prototypage et
 
-import SrtPlayer from "../../../../components/jsx/SrtPlayer.jsx";
+2
+00:00:04,480 --> 00:00:07,899
+les systèmes de design. Oui, en s'appuyant
+sur des concepts clés,
 
-> [!INFO] Information
-> Ce Récap' est disponible en podcast audio. (Généré par IA avec NoteBook LM by Google)
+3
+00:00:07,899 --> 00:00:11,739
+notamment tirés de l'art du prototypage?
+Exactement. L'objectif,
 
-<SrtPlayer
-  client:only="react"
-  audioSrc="/podcasts/design-thinking/prototyping.m4a"
-  srtUrl="/podcasts/design-thinking/prototyping.srt"
-/>
+4
+00:00:11,739 --> 00:00:14,020
+c'est de voir comment on passe d'une
+simple idée à,
 
+5
+00:00:14,119 --> 00:00:18,159
+ben, un modèle concret qu'on peut tester.
+Mh. On va parler prototype,
+
+6
+00:00:18,399 --> 00:00:22,559
+basse et haute fidélité, les outils, bien
+sûr, et puis l'importance des design
+
+7
+00:00:22,639 --> 00:00:27,439
+systems. Ok, décortiquons ça. Alors, pour
+commencer, pourquoi on
+
+8
+00:00:27,439 --> 00:00:30,759
+prototype au juste? C'est quoi l'intérêt?
+Ben, l'idée principale,
+
+9
+00:00:30,879 --> 00:00:33,859
+c'est de pouvoir tester et valider les
+concepts très,
+
+10
+00:00:33,939 --> 00:00:37,680
+très tôt dans le processus. D'accord, pour
+éviter les erreurs coûteuses plus tard,
+
+11
+00:00:37,700 --> 00:00:40,460
+j'imagine? Tout à fait. Ça permet de
+corriger vite,
+
+12
+00:00:40,540 --> 00:00:43,779
+euh, d'aligner aussi toute l'équipe sur
+une vision commune tangible.
+
+13
+00:00:44,360 --> 00:00:47,399
+Et oui, ça réduit les coûts en évitant de
+gros changements en fin de parcours.
+
+14
+00:00:47,399 --> 00:00:51,999
+Logique. Et pour ça, on distingue souvent
+deux grands niveaux de prototype.
+
+15
+00:00:52,139 --> 00:00:54,520
+On peut commencer par le plus, euh, le
+plus simple.
+
+16
+00:00:54,520 --> 00:00:59,379
+La basse fidélité. La basse fidélité, ça
+évoque quelque chose d'assez brut.
+
+17
+00:00:59,500 --> 00:01:03,339
+C'est ça. C'est une représentation
+simplifiée, une sorte d'esquisse
+
+18
+00:01:03,379 --> 00:01:06,179
+fonctionnelle. On parle souvent de
+wireframes, tu vois?
+
+19
+00:01:06,259 --> 00:01:08,379
+Oui, les fameux wireframes. Qu'on peut
+faire très vite,
+
+20
+00:01:08,379 --> 00:01:12,539
+hein, sur papier ou avec des outils comme
+Balsamic ou même Figma pour des choses
+
+21
+00:01:12,539 --> 00:01:15,139
+basiques. Ok. L'important ici, c'est pas
+le look,
+
+22
+00:01:15,479 --> 00:01:19,819
+c'est vraiment la structure, le parcours
+utilisateur. Ce qui est fascinant,
+
+23
+00:01:20,119 --> 00:01:23,959
+c'est la rapidité. On itère vite, on a des
+retours sur le fond sans se perdre dans
+
+24
+00:01:23,979 --> 00:01:27,379
+les détails graphiques. Donc, on se
+concentre sur l'essentiel au début.
+
+25
+00:01:27,739 --> 00:01:31,399
+Et pour aller plus loin, pour que ça
+ressemble plus au produit fini...
+
+26
+00:01:31,399 --> 00:01:35,959
+Alors là, on passe à la haute fidélité. Et
+là, ça devient vraiment intéressant.
+
+27
+00:01:36,159 --> 00:01:39,899
+Voilà. Là, le prototype est beaucoup plus
+proche du résultat final.
+
+28
+00:01:40,179 --> 00:01:42,819
+C'est-à-dire? Avec les couleurs, les
+vraies typos...
+
+29
+00:01:43,099 --> 00:01:46,319
+Exactement. Le graphisme est détaillé,
+couleur, typographie,
+
+30
+00:01:46,599 --> 00:01:50,339
+image réelle ou très proche. Et surtout,
+on simule les interactions,
+
+31
+00:01:50,639 --> 00:01:54,359
+parfois même les animations. Ah oui, donc
+on peut vraiment cliquer,
+
+32
+00:01:54,399 --> 00:01:56,619
+naviguer comme si c'était l'application ou
+le site?
+
+33
+00:01:56,619 --> 00:02:00,379
+C'est le but. C'est crucial pour tester
+l'expérience utilisateur,
+
+34
+00:02:00,519 --> 00:02:04,619
+l'UX, UX, de manière réaliste. Et là, les
+outils sont importants,
+
+35
+00:02:04,619 --> 00:02:07,759
+j'imagine? Tu parlais de Figma? Oui, Figma
+est très populaire,
+
+36
+00:02:07,759 --> 00:02:11,659
+surtout pour le côté collaboratif. Mais il
+y a aussi Adobe XD,
+
+37
+00:02:11,879 --> 00:02:15,979
+Sketch pour ceux qui sont sur Mac,
+InVision. Ces outils sont vraiment clés à
+
+38
+00:02:15,979 --> 00:02:20,119
+ce stade. D'accord. Donc, on a nos
+prototypes de plus en plus réalistes.
+
+39
+00:02:20,519 --> 00:02:24,459
+Mais comment on assure que tout ça reste
+cohérent, surtout dans les grandes équipes
+
+40
+00:02:24,579 --> 00:02:29,519
+ou sur plusieurs produits? Bonne question.
+Si on replace ça dans une perspective
+
+41
+00:02:29,579 --> 00:02:34,479
+plus large, c'est là qu'interviennent deux
+concepts essentiels : le design system
+
+42
+00:02:34,839 --> 00:02:39,819
+et le kit UI. Design system et kit UI.
+D'accord. Ce sont un peu
+
+43
+00:02:39,819 --> 00:02:41,979
+les gardiens de la cohérence et de
+l'efficacité, si tu veux.
+
+44
+00:02:41,979 --> 00:02:44,179
+Explique-nous un peu le design system,
+alors. Alors,
+
+45
+00:02:44,399 --> 00:02:48,539
+le design system, euh, c'est bien plus
+qu'une simple charte graphique.
+
+46
+00:02:49,099 --> 00:02:51,999
+C'est un référentiel centralisé. Un
+référentiel? Oui.
+
+47
+00:02:52,259 --> 00:02:55,699
+Qui contient non seulement les composants
+visuels, les boutons,
+
+48
+00:02:55,739 --> 00:02:58,919
+les champs, etc., mais aussi et surtout
+les règles d'utilisation,
+
+49
+00:02:59,159 --> 00:03:02,019
+les principes de design, parfois même le
+ton de voix de la marque.
+
+50
+00:03:02,099 --> 00:03:06,879
+Ha, c'est assez complet, en fait. Très.
+Pense à Material Design de
+
+51
+00:03:06,919 --> 00:03:11,219
+Google ou Carbon chez IBM. Ce sont des
+exemples connus.
+
+52
+00:03:11,459 --> 00:03:15,099
+L'avantage, c'est énorme! Un langage
+visuel unique,
+
+53
+00:03:15,299 --> 00:03:18,439
+gain de temps phénoménal, car on réinvente
+pas la roue.
+
+54
+00:03:18,679 --> 00:03:21,959
+Oui, on imagine bien le gain de temps. Et
+les mises à jour sont centralisées.
+
+55
+00:03:22,439 --> 00:03:27,319
+Ça simplifie tout. Ok, ça, c'est le design
+system. Et le kit UI,
+
+56
+00:03:27,359 --> 00:03:30,999
+alors c'est quoi par rapport à ça? Le kit
+UI, c'est,
+
+57
+00:03:31,039 --> 00:03:35,579
+euh, disons une collection de composants
+visuels prêts à l'emploi.
+
+58
+00:03:36,039 --> 00:03:39,699
+Des éléments graphiques statiques,
+boutons, icônes,
+
+59
+00:03:39,699 --> 00:03:43,299
+formulaires. Une sorte de boîte de Lego
+pour designers.
+
+60
+00:03:43,559 --> 00:03:47,519
+C'est un peu ça, oui. C'est très utile
+pour assembler rapidement des maquettes,
+
+61
+00:03:47,919 --> 00:03:51,779
+pour accélérer la conception. Il est
+souvent issu du design system,
+
+62
+00:03:51,779 --> 00:03:55,139
+d'ailleurs. D'accord. Donc, la différence
+clé, si je résume?
+
+63
+00:03:55,139 --> 00:03:59,939
+Vas-y. Le design system, c'est le grand
+cadre, la stratégie globale avec les
+
+64
+00:04:00,019 --> 00:04:05,019
+règles qui évoluent. Le kit UI, c'est plus
+la boîte à outils concrète,
+
+65
+00:04:05,139 --> 00:04:08,279
+les éléments figés pour aller vite. C'est
+exactement ça.
+
+66
+00:04:08,959 --> 00:04:12,199
+L'un standardise en profondeur, l'autre
+fournit les briques.
+
+67
+00:04:12,579 --> 00:04:16,079
+Les deux sont liés, mais n'ont pas tout à
+fait le même rôle ni la même portée.
+
+68
+00:04:16,199 --> 00:04:20,678
+Très clair. Alors, qu'est-ce que tout cela
+signifie concrètement si on devait retenir
+
+69
+00:04:20,759 --> 00:04:25,579
+l'essentiel? Mh. Premièrement, prototyper,
+c'est fondamental pour valider
+
+70
+00:04:25,599 --> 00:04:29,019
+les idées avant de se lancer dans le code.
+Ça évite bien des soucis.
+
+71
+00:04:29,039 --> 00:04:33,959
+Absolument. Deuxièmement, on a deux
+niveaux : basse fidélité pour
+
+72
+00:04:34,099 --> 00:04:38,839
+dégrossir vite fait et haute fidélité pour
+vraiment tester l'expérience utilisateur
+
+73
+00:04:38,839 --> 00:04:43,459
+en détail. C'est ça. Troisièmement, des
+outils comme Figma sont devenus hyper
+
+74
+00:04:43,479 --> 00:04:46,179
+importants pour créer ces prototypes,
+surtout en équipe.
+
+75
+00:04:46,179 --> 00:04:49,879
+Indispensable, oui. Et enfin,
+quatrièmement, pour la cohérence et
+
+76
+00:04:49,899 --> 00:04:54,439
+l'efficacité à plus grande échelle, on a
+le design system qui pose les règles et le
+
+77
+00:04:54,519 --> 00:04:58,399
+kit UI qui accélère la construction. Belle
+synthèse. Mais euh,
+
+78
+00:04:58,959 --> 00:05:02,619
+ça soulève une question importante qui est
+aussi évoquée dans les sources qu'on a
+
+79
+00:05:02,619 --> 00:05:05,759
+consultées. Ah oui? Laquelle? Ben, créer
+le prototype,
+
+80
+00:05:06,099 --> 00:05:09,599
+même un super prototype haute fidélité, ce
+n'est qu'une étape.
+
+81
+00:05:10,219 --> 00:05:13,759
+La vraie valeur, elle vient après.
+C'est-à-dire avec les tests utilisateurs?
+
+82
+00:05:13,859 --> 00:05:17,839
+Exactement. La validation par des tests
+auprès des vrais utilisateurs finaux,
+
+83
+00:05:18,099 --> 00:05:22,659
+c'est l'étape suivante indispensable. Sans
+ça, sans leur retour concret...
+
+84
+00:05:22,659 --> 00:05:25,879
+Le prototype reste une belle coquille
+vide, en quelque sorte.
+
+85
+00:05:25,999 --> 00:05:30,799
+Un peu, oui. Quelle est la valeur réelle
+d'un prototype si personne ne l'utilise
+
+86
+00:05:30,799 --> 00:05:34,239
+pour de vrai avant le lancement? C'est une
+question à garder en tête.
+
+87
+00:05:34,719 --> 00:05:38,419
+Le prototype est un outil pour apprendre.
+Ce n'est pas une fin en soi.
+
+88
+00:05:38,899 --> 00:05:42,099
+Il faut confronter ça à la réalités
