@@ -19,7 +19,7 @@ export default defineConfig({
       description: "Récapitulatif de l'essentiel UI/UX",
       favicon: "/favicon.svg",
       logo: {
-        src: "./public/favicon.svg",
+        src: "./public/assets/svg/logo.svg",
       },
       markdown: {
         rehypePlugins: [rehypeCallouts],
