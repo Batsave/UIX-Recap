@@ -4,8 +4,10 @@ import starlight from "@astrojs/starlight";
 import { fileURLToPath } from "url";
 import rehypeCallouts from "rehype-callouts";
 import react from "@astrojs/react";
+import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
+  site: "https://uix.batsave.tv",
   content: {
     dir: "./content",
   },
@@ -13,7 +15,9 @@ export default defineConfig({
     rehypePlugins: [rehypeCallouts],
   },
   integrations: [
+    
     react(),
+    sitemap(),
     starlight({
       title: "UIX Récap",
       description: "Récapitulatif de l'essentiel UI/UX",
@@ -32,9 +36,22 @@ export default defineConfig({
         },
       ],
       head: [
+        { tag: "meta", attrs: { name: "robots", content: "index, follow" } },
+        { tag: "meta", attrs: { name: "author", content: "Baptiste SAVE" } },
+        { tag: "meta", attrs: { name: "keywords", content: "UX, UI, design, expérience utilisateur, documentation, référence" } },
+        { tag: "meta", attrs: { property: "og:type", content: "article" } },
+        { tag: "meta", attrs: { property: "og:title", content: "UIX Récap – UX, UI, Design" } },
+        { tag: "meta", attrs: { property: "og:description", content: "Feuille récapitulative sur l’UX et l’UI design." } },
+        { tag: "meta", attrs: { property: "og:image", content: "/assets/share-cover.png" } },
+        { tag: "meta", attrs: { property: "og:url", content: "https://uix.batsave.tv" } },
+        { tag: "meta", attrs: { name: "twitter:card", content: "summary_large_image" } },
+        { tag: "meta", attrs: { name: "google-site-verification", content: "ANXl8OG3ubA9eai8sI34GhInc6-KmJ-P8SirJEWHE5k" } },
         {
-          tag: "meta",
-          attrs: { name: "robots", content: "index, follow" },
+          tag: "script",
+          attrs: {
+            defer: true,
+            src: "/_vercel/insights/script.js",
+          },
         },
       ],
       defaultLocale: "fr",

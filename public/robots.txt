@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Disallow:
+
+Sitemap: https://uix.batsave.tv/sitemap-0.xml
