@@ -77,6 +77,7 @@ export default defineConfig({
 
         {
           label: "Design Thinking",
+          collapsed: true,
           items: [
             { label: "Introduction", link: "/design-thinking/" },
             { label: "Définition", link: "/design-thinking/definition" },
@@ -87,6 +88,7 @@ export default defineConfig({
         },
         {
           label: "Design Sprint",
+          collapsed: true,
           items: [
             { label: "Introduction", link: "/design-sprint/" },
             {
@@ -101,6 +103,7 @@ export default defineConfig({
         },
         {
           label: "Marketing",
+          collapsed: true,
           items: [
             { label: "Introduction", link: "/marketing/" },
             { label: "Landing Pages", link: "/marketing/landing-page" },
