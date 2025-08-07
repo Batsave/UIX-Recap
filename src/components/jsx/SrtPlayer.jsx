@@ -309,7 +309,7 @@ export default function SrtPlayer({
           style={{ "--progress": `${seekValue}%` }}
         />
 
-        <audio ref={audioRef} src={audioSrc} className="srt-audio" />
+        <audio ref={audioRef} src={audioSrc} className="srt-audio" preload="none" />
 
         {!isAutoScroll && (
           <button
