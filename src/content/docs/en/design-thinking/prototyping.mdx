@@ -1,129 +1,118 @@
 ---
-title: Prototypage
-description: "La phase de prototypage permet de transformer une idée en un modèle testable afin de recueillir des retours avant le développement final."
+title: Prototyping
+description: "The prototyping phase transforms an idea into a testable model to gather feedback before final development."
 weight: 4
 ---
 
-import SrtPlayer from "../../../../components/jsx/SrtPlayer.jsx";
+## Objectives of the Prototyping Phase
 
-> [!INFO] Information  
-> Disponible en podcast audio. (Généré par IA avec NoteBook LM by Google)
-
-<SrtPlayer
-  client:only="react"
-  audioSrc="/podcasts/design-thinking/prototyping.m4a"
-  srtUrl="/podcasts/design-thinking/prototyping.srt"
-/>
-
-## Objectifs de la phase de prototypage
-
-- Comprendre ce qu’est un **prototype** et son utilité
-- Différencier les **prototypes basse fidélité** et **haute fidélité**
-- Connaître les **outils** pour concevoir des prototypes interactifs
-- Comprendre l’intérêt d’un **Design System** et d’un **UI Kit**
-- Savoir comment ces outils aident à **gagner du temps** et à **assurer la cohérence graphique**
+- Understand what a **prototype** is and why it’s useful  
+- Differentiate between **low-fidelity** and **high-fidelity** prototypes  
+- Learn about **tools** for creating interactive prototypes  
+- Understand the role of a **Design System** and a **UI Kit**  
+- Learn how these tools help **save time** and ensure **visual consistency**
 
 ---
 
-## L’objectif de cette étape
+## Purpose of this Phase
 
-La phase de **prototypage** consiste à **transformer une idée en un modèle testable**, permettant d’obtenir des retours avant d’investir du temps et des ressources dans le produit final.
+The goal of **prototyping** is to **transform an idea into a testable model**, so you can gather feedback before investing time and resources into full development.
 
-### Pourquoi prototyper ?
+### Why Prototype?
 
-- Tester et valider les concepts avant leur développement
-- Corriger rapidement les erreurs de conception
-- Aligner la vision entre designers, développeurs et parties prenantes
-- Optimiser l’ergonomie et la navigation
-- Réduire les coûts en évitant de lourdes modifications en production
-
----
-
-## Les différents types de prototypes
-
-### 1. Prototype basse fidélité (Low Fidelity)
-
-Un **prototype simplifié** qui représente l’idée générale du produit sans entrer dans les détails graphiques.
-
-**Caractéristiques :**
-
-- Peu détaillé (formes simples, pas de couleurs ni animations)
-- Facile et rapide à créer
-- Idéal pour les premiers tests utilisateurs
-
-**Exemples :**
-
-- Wireframes papier (croquis, schémas)
-- Wireframes numériques (Balsamiq, Figma, MockFlow)
-
---
-
-### 2. Prototype haute fidélité (High Fidelity)
-
-Un **prototype avancé**, proche du produit final, avec interactions et graphismes.
-
-**Caractéristiques :**
-
-- Graphisme détaillé (couleurs, typographies, branding)
-- Interactions et animations simulées
-- Idéal pour tester l’expérience utilisateur **UX/UI**
-
-**Outils recommandés :**
-
-- Figma (collaboratif et populaire)
-- Adobe XD (design et prototypage interactif)
-- Sketch (exclusif Mac, puissant pour UI/UX)
-- InVision (prototypage et collaboration)
-- Protopie, Axure, Principle (interactions avancées)
+- Test and validate concepts early  
+- Quickly identify and fix design flaws  
+- Align the vision between designers, developers, and stakeholders  
+- Improve usability and navigation  
+- Reduce production costs by avoiding late changes
 
 ---
 
-## Design System & UI Kit : Cohérence et gain de temps
+## Types of Prototypes
 
-### Le Design System
+### 1. Low-Fidelity Prototype
 
-Un **référentiel UX/UI** qui centralise toutes les règles visuelles et fonctionnelles pour assurer la cohérence entre les équipes.
+A **simplified prototype** that represents the general idea of the product without detailed graphics.
 
-**Avantages :**
+**Characteristics:**
 
-- Un langage visuel unique
-- Un gain de temps en évitant de recréer des composants
-- Des modifications centralisées appliquées à tous les éléments
+- Minimal visuals (basic shapes, no colors or animations)  
+- Quick and easy to create  
+- Ideal for early user testing
 
-**Exemples :**
+**Examples:**
 
-- [Material 3 (Google)](https://m3.material.io/)
+- Paper wireframes (sketches, diagrams)  
+- Digital wireframes (Balsamiq, Figma, MockFlow)
+
+---
+
+### 2. High-Fidelity Prototype
+
+An **advanced prototype**, close to the final product, with detailed visuals and simulated interactions.
+
+**Characteristics:**
+
+- Detailed graphics (colors, fonts, branding)  
+- Interactive elements and animations  
+- Ideal for UX/UI testing
+
+**Recommended Tools:**
+
+- Figma (collaborative and popular)  
+- Adobe XD (interactive design and prototyping)  
+- Sketch (Mac only, strong UI/UX tool)  
+- InVision (prototyping and collaboration)  
+- Protopie, Axure, Principle (advanced interactions)
+
+---
+
+## Design System & UI Kit: Consistency and Efficiency
+
+### Design System
+
+A **UX/UI reference guide** that centralizes all visual and functional rules to ensure consistency across teams.
+
+**Advantages:**
+
+- Unified visual language  
+- Time-saving by reusing components  
+- Centralized updates apply across all elements
+
+**Examples:**
+
+- [Material 3 (Google)](https://m3.material.io/)  
 - Carbon Design System (IBM)
 
---
+---
 
-### Le UI Kit
+### UI Kit
 
-Une **bibliothèque de composants visuels** (boutons, icônes, formulaires…) prêts à l’emploi pour concevoir rapidement des interfaces.
+A **library of visual components** (buttons, icons, forms…) ready to use for fast interface creation.
 
-**Différence entre Design System et UI Kit :**
+**Difference between Design System and UI Kit:**
 
-| Critère  | Design System                    | UI Kit                       |
-| -------- | -------------------------------- | ---------------------------- |
-| Contenu  | Composants + règles d’usage      | Composants visuels statiques |
-| Évolutif | Oui (modifs répercutées partout) | Non (éléments figés)         |
-| Objectif | Cohérence et standardisation     | Rapidité de conception       |
+| Criteria   | Design System                     | UI Kit                        |
+| ---------- | --------------------------------- | ----------------------------- |
+| Content    | Components + usage guidelines     | Static visual components      |
+| Evolving   | Yes (updates apply everywhere)    | No (elements are fixed)       |
+| Purpose    | Consistency and standardization   | Fast design process           |
 
-> [!INFO] Ressources utiles
+> [!INFO] Useful Resources  
 >
-> - [Figma UI Kits](https://www.figma.com/community/search?resource_type=mixed&sort_by=relevancy&query=UI+KIT)
-> - Figma Design Systems (recherche dans la communauté Figma)
+> - [Figma UI Kits](https://www.figma.com/community/search?resource_type=mixed&sort_by=relevancy&query=UI+KIT)  
+> - Search for Design Systems in the Figma Community
 
 ---
 
-## Résumé Final
+## Final Summary
 
-- Le **prototypage** permet de tester et d’améliorer un produit avant son développement.
-- Deux types de prototypes :
-  - Basse fidélité → wireframes papier ou digitaux, simples et rapides
-  - Haute fidélité → maquettes interactives proches du produit final
-- Des outils comme **Figma, Adobe XD, Sketch** facilitent la conception interactive.
-- Un **Design System** assure la cohérence visuelle et fonctionnelle.
-- Un **UI Kit** fournit des composants prêts à l’emploi pour accélérer la conception.
+- **Prototyping** helps test and refine a product before development.
+- Two types of prototypes:
+  - **Low-fidelity** → simple paper or digital wireframes
+  - **High-fidelity** → interactive mockups close to the final product
+- Tools like **Figma, Adobe XD, Sketch** simplify interactive design.
+- A **Design System** ensures visual and functional consistency.
+- A **UI Kit** speeds up design with reusable components.
 
-**Prochaine étape : le test utilisateur pour valider et améliorer le prototype avant la mise en production.**
+**Next step: user testing to validate and improve the prototype before going live.**
