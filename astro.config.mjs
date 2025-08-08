@@ -8,6 +8,7 @@ import sitemap from "@astrojs/sitemap";
 import TableAccessibility from "./scripts/table-accessibility.js";
 
 
+
 export default defineConfig({
   site: "https://uix.batsave.tv",
   content: {
@@ -52,6 +53,14 @@ export default defineConfig({
             src: "/_vercel/insights/script.js",
           },
         },
+        {
+          tag: "script",
+          attrs: {
+            defer: true,
+            src: "/scripts/aside-accessibility.js",
+          },
+        },
+        
       ],
       defaultLocale: "fr",
       locales: {
