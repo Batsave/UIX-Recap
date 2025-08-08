@@ -36,16 +36,13 @@ document.addEventListener('DOMContentLoaded', () => {
     nav.appendChild(skipLink);
   }
 
-  // ✅ Ajout bouton submit manquant dans les forms Pagefind
-  const forms = document.querySelectorAll('form.pagefind-ui__form');
-  forms.forEach((form) => {
-    const hasSubmit = form.querySelector('button[type="submit"]');
-    if (!hasSubmit) {
-      const submitBtn = document.createElement('button');
-      submitBtn.type = 'submit';
-      submitBtn.className = 'pagefind-ui__search-submit svelte-e9gkc3';
-      submitBtn.textContent = 'Rechercher';
-      form.appendChild(submitBtn);
+  // 🔧 Correction du texte de lien pour .site-title
+  const siteTitleLink = document.querySelector('a.site-title');
+  if (siteTitleLink) {
+    if (!siteTitleLink.hasAttribute('aria-label')) {
+      siteTitleLink.setAttribute('aria-label', 'Accueil UIX Recap');
     }
-  });
+  }
+
+  
 });
