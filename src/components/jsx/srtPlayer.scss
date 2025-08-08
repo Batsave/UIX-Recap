@@ -2,6 +2,10 @@
 
 .srt-wrapper {
   margin: 2rem 0;
+
+      @media print {
+    display: none;
+  }
 }
 
 .srt-player-box {
