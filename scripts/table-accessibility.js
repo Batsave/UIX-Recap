@@ -1,4 +1,5 @@
 export default function TableAccessibility() {
+
   return (tree) => {
     let tableCount = 0;
     const children = tree.children;
@@ -80,8 +81,8 @@ export default function TableAccessibility() {
           }
 
           const fallbackText = headingText
-            ? `Tableau : ${headingText}`
-            : `Tableau ${tableCount}`;
+            ? `Table : ${headingText}`
+            : `Table ${tableCount}`;
 
           node.children.unshift({
             type: "element",
