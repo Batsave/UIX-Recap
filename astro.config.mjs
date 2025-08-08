@@ -5,7 +5,7 @@ import { fileURLToPath } from "url";
 import rehypeCallouts from "rehype-callouts";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
-import TableAccessibility from "./src/rehype/table-accessibility";
+import TableAccessibility from "./scripts/table-accessibility";
 
 
 export default defineConfig({
