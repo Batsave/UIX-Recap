@@ -1,83 +1,109 @@
-import { visit } from 'unist-util-visit';
-
 export default function TableAccessibility() {
-  console.log("[rehype] TableAccessibility plugin exécuté");
+  console.log("[rehype] TableAccessibility plugin démarré");
+
   return (tree) => {
-     console.log("[rehype] TableAccessibility plugin exécuté");
+    console.log("[rehype] TableAccessibility plugin exécuté");
+
     let tableCount = 0;
     const children = tree.children;
 
     for (let i = 0; i < children.length; i++) {
       const node = children[i];
 
-      // Cas 1 : <caption value="..."> juste avant un tableau
-      if (
-        node.type === 'mdxJsxFlowElement' &&
-        node.name === 'caption' &&
-        children[i + 1] &&
-        children[i + 1].type === 'table'
-      ) {
-        tableCount++;
-        const tableNode = children[i + 1];
-
-        // Extraire la valeur du composant <caption value="...">
-        const captionAttr = node.attributes?.find(attr => attr.name === 'value');
-        const customCaption = typeof captionAttr?.value === 'string'
-          ? captionAttr.value
-          : `Tableau ${tableCount}`;
-
-        const descId = `table-desc-${tableCount}`;
-
-        // Injecter <caption> dans le tableau
-        const hasCaption = tableNode.children.some(child => child.tagName === 'caption');
-        if (!hasCaption) {
-          tableNode.children.unshift({
-            type: 'element',
-            tagName: 'caption',
-            properties: {
-              id: descId,
-              className: ['sr-caption'],
-            },
-            children: [{ type: 'text', value: customCaption }],
-          });
+      // Cas 1 : <caption value="..."/> suivi d’un tableau
+      if (node.type === "mdxJsxFlowElement" && node.name === "caption") {
+        // Sauter les nœuds texte vides entre <caption> et <table>
+        let j = i + 1;
+        while (
+          j < children.length &&
+          children[j].type === "text" &&
+          children[j].value.trim() === ""
+        ) {
+          j++;
         }
 
-        // Ajouter aria-describedby
-        tableNode.properties = {
-          ...tableNode.properties,
-          'aria-describedby': descId,
-        };
+        const tableNode = children[j];
+        if (tableNode?.type === "element" && tableNode.tagName === "table") {
+          tableCount++;
+          const descId = `table-desc-${tableCount}`;
 
-        // Supprimer le <caption /> externe
-        children.splice(i, 1);
-        i++; // Avancer au tableau
+          const captionAttr = node.attributes?.find((attr) => attr.name === "value");
+          const captionText = typeof captionAttr?.value === "string"
+            ? captionAttr.value
+            : `Tableau ${tableCount}`;
+
+          const hasCaption = tableNode.children.some(
+            (child) => child.tagName === "caption"
+          );
+
+          if (!hasCaption) {
+            tableNode.children.unshift({
+              type: "element",
+              tagName: "caption",
+              properties: {
+                id: descId,
+                className: ["sr-caption"],
+              },
+              children: [{ type: "text", value: captionText }],
+            });
+          }
+
+          tableNode.properties = {
+            ...tableNode.properties,
+            "aria-describedby": descId,
+          };
+
+          // Supprime <caption> + \n intermédiaires
+          children.splice(i, j - i);
+          i++; // continuer après <table>
+        }
       }
 
-      // Cas 2 : tableau sans Caption
-      else if (node.type === 'table') {
+      // Cas 2 : tableau sans caption ni <caption /> précédent
+      else if (node.type === "element" && node.tagName === "table") {
         tableCount++;
         const descId = `table-desc-${tableCount}`;
-        const fallback = `Tableau ${tableCount}`;
 
-        const hasCaption = node.children.some(child => child.tagName === 'caption');
+        const hasCaption = node.children.some((child) => child.tagName === "caption");
         if (!hasCaption) {
+          // 🔍 Chercher le heading le plus proche avant ce tableau
+          let headingText = null;
+          for (let k = i - 1; k >= 0; k--) {
+            const prevNode = children[k];
+            if (
+              prevNode.type === "element" &&
+              ["h1", "h2", "h3", "h4", "h5", "h6"].includes(prevNode.tagName)
+            ) {
+              headingText = prevNode.children
+                .filter((c) => c.type === "text")
+                .map((c) => c.value)
+                .join(" ")
+                .trim();
+              break;
+            }
+          }
+
+          const fallbackText = headingText
+            ? `Tableau : ${headingText}`
+            : `Tableau ${tableCount}`;
+
           node.children.unshift({
-            type: 'element',
-            tagName: 'caption',
+            type: "element",
+            tagName: "caption",
             properties: {
               id: descId,
-              className: ['sr-caption'],
+              className: ["sr-caption"],
             },
-            children: [{ type: 'text', value: fallback }],
+            children: [{ type: "text", value: fallbackText }],
           });
         }
 
         node.properties = {
           ...node.properties,
-          'aria-describedby': descId,
+          "aria-describedby": descId,
         };
 
-        i++; // Passer au tableau suivant
+        i++;
       }
     }
   };
