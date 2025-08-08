@@ -35,4 +35,17 @@ document.addEventListener('DOMContentLoaded', () => {
     skipLink.parentNode.insertBefore(nav, skipLink);
     nav.appendChild(skipLink);
   }
+
+  // ✅ Ajout bouton submit manquant dans les forms Pagefind
+  const forms = document.querySelectorAll('form.pagefind-ui__form');
+  forms.forEach((form) => {
+    const hasSubmit = form.querySelector('button[type="submit"]');
+    if (!hasSubmit) {
+      const submitBtn = document.createElement('button');
+      submitBtn.type = 'submit';
+      submitBtn.className = 'pagefind-ui__search-submit svelte-e9gkc3';
+      submitBtn.textContent = 'Rechercher';
+      form.appendChild(submitBtn);
+    }
+  });
 });
