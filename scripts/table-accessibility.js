@@ -1,9 +1,5 @@
 export default function TableAccessibility() {
-  console.log("[rehype] TableAccessibility plugin démarré");
-
   return (tree) => {
-    console.log("[rehype] TableAccessibility plugin exécuté");
-
     let tableCount = 0;
     const children = tree.children;
 
