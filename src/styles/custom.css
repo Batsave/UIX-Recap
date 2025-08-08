@@ -178,3 +178,10 @@ h6 {
   white-space: nowrap;
   border: 0;
 }
+
+.sr-caption {
+  caption-side: bottom;
+  text-align: center;
+  font-size: 0.875rem;
+  color: #666;
+}
